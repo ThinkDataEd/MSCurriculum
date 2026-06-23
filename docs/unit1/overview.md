@@ -1,247 +1,81 @@
-#Introduction to Data Science Daily Overview: Unit 1
+#Data Detectives Unit 1: Section 1
 
-![IDS-logo](../img/IDS-logo.png)
+![MSDS-logo](../img/MS_DS_logo_text.png)
 
 **<h1>Unit 1</h1>**
 
-##**Daily Overview: Unit 1**
+##<p style="background: #00869b; color: white; text-align: left; padding: 10px;">**Overarching Themes**</p>
+
+This section builds a foundational understanding of how to transform raw information into actionable intelligence through the lens of a “Data Detective.” By moving through the early stages of The Data Cycle, students learn that data are not just numbers on a page but a structured representation of real-world variability. A central focus is placed on how data integrity, representation, and organization profoundly impact the “story” we can tell. Ultimately, the curriculum emphasizes that a successful investigation begins with asking the right questions, shifting from simple individual inquiries (survey questions) to broader, group-focused investigations (statistical questions) that account for the variation inherent in any population.
+
+##<p style="background: #00869b; color: white; text-align: left; padding: 10px;">**Daily Overview**</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-88nc{font-weight:bold;border-color:inherit;text-align:center}
-.tg .tg-yj5y{background-color:#efefef;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-yj5y{font-weight: bold; border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top; font-style: italic}
 .tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-y698{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-88nc">Theme</th>
-    <th class="tg-7btt">Day</th>
-    <th class="tg-7btt">Lessons and Labs</th>
-    <th class="tg-7btt">Campaign</th>
-    <th class="tg-7btt">Topics</th>
-    <th class="tg-7btt">Page</th>
+    <th class="tg-7btt">Lesson Title</th>
+    <th class="tg-7btt">Vocabulary</th>
+    <th class="tg-7btt">Lesson Activities</th>
+    <th class="tg-7btt">GAISE Level B Guidelines</th>
   </tr>
   <tr>
-    <td class="tg-yj5y" rowspan="7">Data Are<br>All Around<br>(7 days)</td>
-    <td class="tg-yj5y">1</td>
-    <td class="tg-y698"><a href="../../unit1/lesson1">Lesson 1: Data Trails</a></td>
-    <td class="tg-y698"></td>
-    <td class="tg-y698">Defining data, consumer privacy</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson1">24</a></td>
+    <td class="tg-yj5y">Lesson 1: Meet the DSU Squad (DSU = Data Science Unit)</td>
+    <td class="tg-c3ow">data science <br> data <br> datum <br> survey questions<br> The Data Cycle <br> Consider Data (phase)<br> primary data</td>
+    <td class="tg-y698"><ul><li>Information Stations: Collecting personal data via survey questions</li><li> Think-Ink-Pair-Share (TIPS): Defining data</li></ul></td>
+    <td class="tg-y698"><ul><li>B.II.1: Data as information collected with a purpose</li><li>
+B.II.4: Data collection via surveys</li></ul> </td>
   </tr>
   <tr>
-    <td class="tg-yj5y">2</td>
-    <td class="tg-y698"><a href="../../unit1/lesson2">Lesson 2: Stick Figures</a></td>
-    <td class="tg-y698"></td>
-    <td class="tg-y698">Organizing &amp; collecting data</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson2">26</a></td>
+    <td class="tg-yj5y">Lesson 2: Reconstructing the Scene</td>
+    <td class="tg-c3ow">structured data <br> unstructured data <br> representations</td>
+    <td class="tg-y698"><ul><li>Sketch the Scene: Reconstructing a visual based on lists vs. field notes</li><li>Gallery Walk: Comparing data representations</li></ul></td>
+    <td class="tg-y698"><ul><li>B.II.1: Organizing and storing data in various structures</li><li>B.II.6: Interrogating how data are measured</li></ul></td>
   </tr>
   <tr>
-    <td class="tg-yj5y">3</td>
-    <td class="tg-y698"><a href="../../unit1/lesson3">Lesson 3: Data Structures</a></td>
-    <td class="tg-y698"></td>
-    <td class="tg-y698">Organizing data, rows &amp; columns, variables</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson3">28</a></td>
+    <td class="tg-yj5y">Lesson 3: Compiling the Suspect Dossiers</td>
+    <td class="tg-c3ow">observations<br>secondary data</td>
+    <td class="tg-y698"><ul><li>Guess Who?: Identifying traits</li><li>Grouping Suspects: Physically organizing 30 suspect cards based on visual characteristics</li></ul></td>
+    <td class="tg-y698"><ul><li>B.II.7: Understanding secondary data</li><li>B.II.2: Describing the population/group from which data are collected</li></ul></td>
   </tr>
   <tr>
-    <td class="tg-yj5y">4</td>
-    <td class="tg-y698"><a href="../../unit1/lesson4">Lesson 4: The Data Cycle</a></td>
-    <td class="tg-y698"></td>
-    <td class="tg-y698">Data cycle, statistical questions</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson4">30</a></td>
+    <td class="tg-yj5y">Lesson 4: Acquiring &amp; Organizing Additional Evidence</td>
+    <td class="tg-c3ow">survey questions</td>
+    <td class="tg-y698"><ul><li>Dossier Creation: Extracting written data from full ID cards to create a one-page team display/briefing poster</li></ul></td>
+    <td class="tg-y698"><ul><li>B.II.1: Organizing data into structures for analysis</li><li>B.II.3: Using data to make comparisons between groups</li></ul></td>
   </tr>
   <tr>
-    <td class="tg-yj5y">5</td>
-    <td class="tg-y698"><a href="../../unit1/lesson5">Lesson 5: So Many Questions</a></td>
-    <td class="tg-y698"></td>
-    <td class="tg-y698">Statistical questions, variability</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson5">35</a></td>
+    <td class="tg-yj5y">Lesson 5: Structuring the Evidence</td>
+    <td class="tg-c3ow">data table<br>case<br> attribute <br> variable <br> missing value <br> numerical variable <br> categorical variable</td>
+    <td class="tg-y698"><ul><li>Variable Brainstorm: Identifying 11 suspect variables</li><li> Data Table Template: Manually entering data and handling missing values</li></ul></td>
+    <td class="tg-y698"><ul><li>B.II.1: Storing data in spreadsheets/tables</li><li>B.II.6: Identifying variable types and possible outcomes</li></ul></td>
   </tr>
   <tr>
-    <td class="tg-yj5y">6</td>
-    <td class="tg-y698"><a href="../../unit1/lesson6">Lesson 6: What Do I Eat?</a></td>
-    <td class="tg-y698">Food Habits</td>
-    <td class="tg-y698">Data cycle, collecting data</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson6">39</a></td>
+    <td class="tg-yj5y">Lesson 6: Our Detective Toolkit - CODAP</td>
+    <td class="tg-c3ow">CODAP<br> attributes<br> case card<br> case table</td>
+    <td class="tg-y698"><ul><li>Digital Entry: Transferring paper data to CODAP</li> <li>Integrity Check: Verifying categorical/numerical types in the software</li></ul></td>
+    <td class="tg-y698"><ul><li>B.II.1: Understanding data structures in digital platforms</li><li>B.II.6: Interrogating data collection and measurement in software</li></ul></td>
   </tr>
   <tr>
-    <td class="tg-yj5y">7^</td>
-    <td class="tg-y698"><a href="../../unit1/lesson7">Lesson 7: Setting the Stage</a></td>
-    <td class="tg-y698">Food Habits – data</td>
-    <td class="tg-y698">Participatory sensing</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson7">42</a></td>
+    <td class="tg-yj5y">Lesson 7: What's in a Question?</td>
+    <td class="tg-c3ow">Pose Questions (phase) statistical questions</td>
+    <td class="tg-y698"><ul><li>Quick Collection Challenge: "Stand and Share" to show variation</li><li>Peer Review: Writing and critiquing investigative statistical questions</li></ul></td>
+    <td class="tg-y698"><ul><li>B.I.1 - B.I.5: Formulating statistical investigative questions that account for context and variability</li></ul></td>
   </tr>
   <tr>
-    <td class="tg-c3ow" rowspan="14">Visualizing<br>Data<br>(14 days)</td>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-0pky"><a href="../../unit1/lesson8">Lesson 8: Tangible Plots</a></td>
-    <td class="tg-0pky">Food Habits – data</td>
-    <td class="tg-0pky">Dotplots, minimum/maximum,<br>frequency</td>
-    <td class="tg-c3ow"><a href="../../unit1/lesson8">48</a></td>
+    <td class="tg-yj5y">Progress Check 1: Can You Read the Evidence?</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-y698"><ul><li>Investigative Task 1: Data Structure Analysis</li> <li>Investigative Task 2: Formulating Questions</li></ul></td>
+    <td class="tg-y698"><ul><li>B.IV.1: Using evidence to answer investigative questions</li> <li>B.II.6: Interrogating types and sources</li></ul></td>
   </tr>
-  <tr>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-0pky"><a href="../../unit1/lesson9">Lesson 9: What Is Typical?</a></td>
-    <td class="tg-0pky">Food Habits – data</td>
-    <td class="tg-0pky">Typical value, center</td>
-    <td class="tg-c3ow"><a href="../../unit1/lesson9">52</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">10</td>
-    <td class="tg-0pky"><a href="../../unit1/lesson10">Lesson 10: Making Histograms</a></td>
-    <td class="tg-0pky">Food Habits – data</td>
-    <td class="tg-0pky">Histograms, bin widths</td>
-    <td class="tg-c3ow"><a href="../../unit1/lesson10">55</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">11</td>
-    <td class="tg-0pky"><a href="../../unit1/lesson11">Lesson 11: What Shape Are You In?</a></td>
-    <td class="tg-0pky">Food Habits – data</td>
-    <td class="tg-0pky">Shape, center, spread</td>
-    <td class="tg-c3ow"><a href="../../unit1/lesson11">58</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">12</td>
-    <td class="tg-0pky"><a href="../../unit1/lesson12">Lesson 12: Exploring Food Habits</a></td>
-    <td class="tg-0pky">Food Habits – data</td>
-    <td class="tg-0pky">Single &amp; multi-variable plots</td>
-    <td class="tg-c3ow"><a href="../../unit1/lesson12">60</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">13</td>
-    <td class="tg-0pky"><a href="../../unit1/lesson13">Lesson 13: RStudio Basics</a></td>
-    <td class="tg-0pky">Food Habits – data</td>
-    <td class="tg-0pky">Intro to RStudio</td>
-    <td class="tg-c3ow"><a href="../../unit1/lesson13">62</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">14</td>
-    <td class="tg-0pky"><a href="../../unit1/lab1a">Lab 1A: Data, Code &amp; RStudio</a></td>
-    <td class="tg-0pky">Food Habits – data</td>
-    <td class="tg-0pky">RStudio basics</td>
-    <td class="tg-c3ow"><a href="../../unit1/lab1a">65</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">15+</td>
-    <td class="tg-0pky"><a href="../../unit1/lab1b">Lab 1B: Get the Picture?</a></td>
-    <td class="tg-0pky">Food Habits – data</td>
-    <td class="tg-0pky">Variable types, bar graphs,<br>histograms</td>
-    <td class="tg-c3ow"><a href="../../unit1/lab1b">68</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">16</td>
-    <td class="tg-0pky"><a href="../../unit1/lab1c">Lab 1C: Export, Upload, Import</a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Importing data</td>
-    <td class="tg-c3ow"><a href="../../unit1/lab1c">71</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">17</td>
-    <td class="tg-0pky"><a href="../../unit1/lesson14">Lesson 14: Variables, Variables, Variables</a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Multi-variable plots</td>
-    <td class="tg-c3ow"><a href="../../unit1/lesson14">75</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">18</td>
-    <td class="tg-0pky"><a href="../../unit1/lab1d">Lab 1D: Zooming Through Data</a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Subsetting</td>
-    <td class="tg-c3ow"><a href="../../unit1/lab1d">79</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">19</td>
-    <td class="tg-0pky"><a href="../../unit1/lab1e">Lab 1E: What’s the Relationship?</a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Multi-variable plots</td>
-    <td class="tg-c3ow"><a href="../../unit1/lab1e">83</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">20</td>
-    <td class="tg-0pky"><a href="../../unit1/practicum1">Practicum: The Data Cycle &amp; My Food Habits</a></td>
-    <td class="tg-0pky">Food Habits</td>
-    <td class="tg-0pky">Data cycle, variability</td>
-    <td class="tg-c3ow"><a href="../../unit1/practicum1">86</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">21</td>
-    <td class="tg-0pky">Practicum Presentations</td>
-    <td class="tg-0pky">Food Habits</td>
-    <td class="tg-0pky">Data cycle, variability</td>
-    <td class="tg-c3ow">-</td>
-  </tr>
-  <tr>
-    <td class="tg-yj5y" rowspan="8">Would<br>You Look<br>at the<br>Time?<br>(9 Days)</td>
-    <td class="tg-yj5y">22^</td>
-    <td class="tg-y698"><a href="../../unit1/lesson15">Lesson 15: Americans’ Time on Task</a></td>
-    <td class="tg-y698">Time Use – data</td>
-    <td class="tg-y698">Evaluating claims</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson15">89</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yj5y">23</td>
-    <td class="tg-y698"><a href="../../unit1/lab1f">Lab 1F: A Diamond In the Rough</a></td>
-    <td class="tg-y698">Time Use – data</td>
-    <td class="tg-y698">Cleaning names, categories, and strings</td>
-    <td class="tg-yj5y"><a href="../../unit1/lab1f">94</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yj5y">24</td>
-    <td class="tg-y698"><a href="../../unit1/lesson16">Lesson 16: Categorical Associations</a></td>
-    <td class="tg-y698">Time Use – data</td>
-    <td class="tg-y698">Joint relative frequencies in 2- way tables</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson16">99</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yj5y">25</td>
-    <td class="tg-y698"><a href="../../unit1/lesson17">Lesson 17: Interpreting Two-Way Tables</a></td>
-    <td class="tg-y698">Time Use – data</td>
-    <td class="tg-y698">Marginal &amp; conditional relative frequencies</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson17">101</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yj5y">26+</td>
-    <td class="tg-y698"><a href="../../unit1/lab1g">Lab 1G: What’s the FREQ?</a></td>
-    <td class="tg-y698">Time Use – data</td>
-    <td class="tg-y698">2-way tables, tally</td>
-    <td class="tg-yj5y"><a href="../../unit1/lab1g">106</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yj5y">27</td>
-    <td class="tg-y698"><a href="../../unit1/practicum2">Practicum: Teen Depression</a></td>
-    <td class="tg-y698">Time Use</td>
-    <td class="tg-y698">Statistical question, interpreting plots</td>
-    <td class="tg-yj5y"><a href="../../unit1/practicum2">109</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yj5y">28</td>
-    <td class="tg-y698">Practicum Presentations<br></td>
-    <td class="tg-y698"></td>
-    <td class="tg-y698">Statistical question, interpreting plots</td>
-    <td class="tg-yj5y">-</td>
-  </tr>
-  <tr>
-    <td class="tg-yj5y">29-30</td>
-    <td class="tg-y698"><a href="../../unit1/lab1h">Lab 1H: Our Time</a></td>
-    <td class="tg-y698"></td>
-    <td class="tg-y698">Data cycle, synthesis</td>
-    <td class="tg-yj5y"><a href="../../unit1/lab1h">111</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">End of Unit<br>Project<br>(5 Days)</td>
-    <td class="tg-c3ow">31-35</td>
-    <td class="tg-0pky"><a href="../../unit1/end">End of Unit 1 Project: Evaluating Claims from the Media</a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Data cycle</td>
-    <td class="tg-c3ow"><a href="../../unit1/end">112</a></td>
-  </tr>
+  
 </table>
-
-^=Data collection window begins.
-
-+=Data collection window ends.
