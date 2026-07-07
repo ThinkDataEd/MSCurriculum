@@ -5,8 +5,9 @@ Students will be introduced to the course and each other by collecting data abou
 
 ###**Materials:**
 
-1. Information Stations ([LMR_U1_L01_A_Information_Stations](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01.pdf)) - can be hand-drawn or printed using poster paper or other material; placed around classroom
-    **<p style="background: d9f0d3; color: black;">Advanced preparation required.</p>** *See Class Setup section for additional details.*
+1. Information Stations ([LMR_U1_L01_A_Information_Stations](../MSDS_Curriculum/2_MSDS_LMR/MSDS_LMR_Unit_1/LMR_U1_L01.pdf)) - can be hand-drawn or printed using poster paper or other material; placed around classroom
+
+    ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>*** *See Class Setup section for additional details.* 
 
 2. Markers, stickers, paint stampers, etc. for recording at each station
 
@@ -16,15 +17,16 @@ Students will be introduced to the course and each other by collecting data abou
     src="https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link" title="Where is Data? video" allowfullscreen>
     </iframe><br><a href="https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link">https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link</a></div>
 
-4. Data Cycle poster [pages 1 & 2] ([LMR_U1_L01_B_The_Data_Cycle](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_B.pdf))
+4. Data Cycle poster [pages 1 & 2] ([LMR_U1_L01_B_The_Data_Cycle](../MSDS_Curriculum/2_MSDS_LMR/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf))
 
 ###**Vocabulary:**
-[data science](../../vocabulary/unit1/#data-science "D"){ .md-button }
-[data](../../vocabulary/unit1/#data "Data are information, or observations, that have been gathered and recorded"){ .md-button }
-[survey questions](../../vocabulary/unit1/#survey-questions "D"){ .md-button }
-[The Data Cycle](../../vocabulary/unit1/#the-data-cycle "t"){ .md-button }
-[Consider Data (phase)](../../vocabulary/unit1/#consider-data "t"){ .md-button }
-[primary data](../../vocabulary/unit1/#data "D"){ .md-button }
+[data science](../../vocabulary/unit1/#data-science "the detective work of turning raw information into answers; it blends math, coding, and everyday problem-solving to ask big questions, collect evidence, spot patterns, and tell a story with the findings"){ .md-button }
+[data](../../vocabulary/unit1/#data "information gathered through observation or responses"){ .md-button }
+[datum](../../vocabulary/unit1/#datum "the singular form of &quot;data&quot;"){ .md-button }
+[survey questions](../../vocabulary/unit1/#survey-questions "questions that are used to collect information about people who respond to them"){ .md-button }
+[The Data Cycle](../../vocabulary/unit1/#data-cycle "a process we follow during a statistical investigation, also referred to as The Data Cycle, which consists of four phases - Pose Questions, Consider Data, Analyze Data, Interpret Data"){ .md-button }
+[Consider Data (phase)](../../vocabulary/unit1/#consider-data-phase "the phase of the Data Cycle where data scientists figure out what data is already available, what data is still needed, and what steps should be followed to acquire such data"){ .md-button }
+[primary data](../../vocabulary/unit1/#primary-data "first hand, original information that a researcher collects directly"){ .md-button }
 
 
 ###**Essential Concepts:**
@@ -32,29 +34,41 @@ Students will be introduced to the course and each other by collecting data abou
 !!! note "Essential Concepts: "
     Data is information gathered through observation or responses. We can collect data about many different things, including ourselves. Looking at collected data helps us notice patterns, similarities, and differences. Data are all around us and used in many aspects of daily life.
 
-###Class Setup
+###**Lesson:**
 
-- **<p style="background: d9f0d3; color: black;">Advanced preparation required.</p>**
+<center><h3>Class Setup</h3></center>
+
+- ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>***
 
     - Prior to class starting, use poster paper, construction paper, or any convenient material available to create 5 Information Stations around the room. The 5 stations should be labeled with the questions provided below.
 
-        - Station 1: What is your favorite class at school?
-        - Station 2: Do you participate in extracurricular activities?
-        - Station 3: What is your favorite type of candy?
-        - Station 4: How old are you?
-        - Station 5: How many books did you read over the summer?
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❏  Station 1: What is your favorite class at school?<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❏  Station 2: Do you participate in extracurricular activities?<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❏  Station 3: What is your favorite type of candy?<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❏  Station 4: How old are you?<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❏  Station 5: How many books did you read over the summer?<br>
 
-    - For your convenience, example poster layouts have been provided in the Information Stations handout ([LMR_U1_L01_A](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_A.pdf)). They are available as guides, but can also be used and/or printed directly. Feel free to be creative.
+    - For your convenience, example poster layouts have been provided in the Information Stations handout ([LMR_U1_L01_A](../MSDS_Curriculum/2_MSDS_LMR/MSDS_LMR_Unit_1/LMR_U1_L01_A.pdf)). They are available as guides, but can also be used and/or printed directly. Feel free to be creative.
 
     - At each of the stations, provide a variety of markers, stickers, paint stampers, name tags, or pens/pencils for students to indicate their responses.
 
-!!! warning "ADDITIONAL SUPPORT:"
-    **Visual &amp; Tactile Choices for Diverse Learners
-    At each station, provide not just markers, but also options like pre-made picture symbols or object choices for students who have difficulty writing or prefer non-verbal responses (ex. placing a #10 token in a “How old are you?” jar instead of writing “10”).
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border-style:dotted;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
+</style>
+<table class="tg" style="width:75%;margin:0 auto;">
+  <tr>
+    <th class="tg-88nc" style="width:15%;">image</th>
+    <th class="tg-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br><i>Visual &amp; Tactile Choices for Diverse Learners</i></b><br> At each station, provide not just markers, but also options like pre-made picture symbols or object choices for students who have difficulty writing or prefer non-verbal responses (ex. placing a #10 token in a “How old are you?” jar instead of writing “10”).</th>
+  </tr>
+</table>
+<br>
 
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L01_A](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_A.pdf)</div>
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L01_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_A.pdf)</div>
 
-###Opening
+<center><h3>Opening</h3></center>
 
 1. Welcome students to their first day of training! They will become dedicated Data Detectives of an elite squad known as the Data Science Unit (or DSU), where they will learn to become expert investigators.
 
@@ -62,21 +76,30 @@ Students will be introduced to the course and each other by collecting data abou
 
 3. Explain that our very first mission will be to gather some intelligence on our own squad (the rookie recruits)  to learn what data is all about.
 
-###Concept Development
+    <center><h3>Concept Development</h3></center>
 
-###***Part 1: Collecting Data***
+    <b><i><span style="font-size: 18px";>Part 1: Collecting Data</span></b></i>
 
 4. Explain that the Information Stations placed around the room each ask a question to find out about the students in our class. Questions like this that are used to collect information about people who respond to them are called **survey questions**.
 
 5. Explain to students how they will record their response to the question at each station. Make it clear that each student should only include ONE response to each question and needs to include a response at each of the five stations.
 
-6. Split students evenly into 5 groups and assign each group a starting station number. Send the groups to their first assigned station. Explain how you will signal them to rotate from station to station.
+6. Split students evenly into 5 groups and assign each group a starting station number. Send the groups to their first assigned station. Explain how you will signal them to rotate from station to station.<br>
 
-!!! warning "ADDITIONAL SUPPORT:"
-    ***Scribe Support for Diverse Learners***
-    Offer the option for students to dictate their answers to a peer, teacher, or aide who can record it for them at the station.
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border-style:dotted;}
+    .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tg .tg-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
+    </style>
+    <table class="tg" style="width:75%;margin:0 auto;">
+    <tr>
+    <th class="tg-88nc" style="width:15%;">image</th>
+    <th class="tg-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br><i>Visual &amp; Scribe Support for Diverse Learners</i></b><br> Offer the option for students to dictate their answers to a peer, teacher, or aide who can record it for them at the station.</th>
+    </tr>
+    </table><br>
 
-7. Allow all students in each group to answer the question at their first station. Then signal students to rotate to their second station. Continue this process until each student has responded to the questions at all five stations.
+7. Allow all students in each group to answer the question at their first station. Then signal students to rotate to their second station. Continue this process until each student has responded to the questions at all five stations.</li>
 
 8. Have students return to their seats.
 
@@ -106,8 +129,8 @@ Students will be introduced to the course and each other by collecting data abou
         100. *Sample answer: There were 0 students who said their favorite candy was _____.*
 
 11. After the group discussion, explain to students that they have just collected **data** about themselves!
-
-###***Part 2: Building the Definition of Data***
+<br><br>
+    <b><i><span style="font-size: 18px";>Part 2: Building the Definition of Data</span></b></i>
 
 12. Engage students in a Think-Ink-Pair-Share activity. In their detective notebooks, ask students to write down, in their own words, what they think **data** means. Give them 2 to 3 minutes to write, and then allow 1 to 2 minutes for them to discuss their responses with a partner. Next, allow 2 or 3 students to share what they wrote with the whole class.
 
@@ -147,7 +170,7 @@ Students will be introduced to the course and each other by collecting data abou
         100. Interestingly, the term "data" is actually plural. So technically, the video clip should have been titled "What ***are*** Data?" instead of "What ***is*** Data?".<br>
         100. The singular form of "data" is "**datum**."
 
-###***Part 3: Introducing the Data Cycle - The 'Consider Data' Phase***
+    <b><i><span style="font-size: 18px";>Part 3: Introducing the Data Cycle - The 'Consider Data' Phase</span></b></i>
 
 18. Introduce the concept of **The Data Cycle** by explaining that, when investigating a case, detectives often follow a specific process. In a statistical investigation, data scientists also follow a specific process, which is referred to as **The Data Cycle**. Following the Data Cycle helps us to make sure we are being thoughtful and organized throughout an entire investigation
 
@@ -186,7 +209,7 @@ Students will be introduced to the course and each other by collecting data abou
         
     100. Explain that the type of data students collected today is first-hand original information they collected directly. First-hand, original information that a researcher collects directly is called **primary data**. In other words, the researcher has control over the entire data collection process.
 
-###Closing
+    <center><h3>Closing</h3></center>
 
 22. Engage students in a Quickwrite using the following prompt: “Why is it important for a data detective to Consider Data before they begin an investigation?"
 
