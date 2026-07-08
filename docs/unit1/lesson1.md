@@ -5,7 +5,7 @@ Students will be introduced to the course and each other by collecting data abou
 
 ###**Materials:**
 
-1. Information Stations ([LMR_U1_L01_A_Information_Stations](../MSDS_Curriculum/2_MSDS_LMR/MSDS_LMR_Unit_1/LMR_U1_L01.pdf)) - can be hand-drawn or printed using poster paper or other material; placed around classroom
+1. Information Stations ([LMR_U1_L01_A_Information_Stations](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_A.pdf)) - can be hand-drawn or printed using poster paper or other material; placed around classroom
 
     ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>*** *See Class Setup section for additional details.* 
 
@@ -17,7 +17,7 @@ Students will be introduced to the course and each other by collecting data abou
     src="https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link" title="Where is Data? video" allowfullscreen>
     </iframe><br><a href="https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link">https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link</a></div>
 
-4. Data Cycle poster [pages 1 & 2] ([LMR_U1_L01_B_The_Data_Cycle](../MSDS_Curriculum/2_MSDS_LMR/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf))
+4. Data Cycle poster [pages 1 & 2] ([LMR_U1_L01_B_The_Data_Cycle](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf))
 
 ###**Vocabulary:**
 [data science](../../vocabulary/unit1/#data-science "the detective work of turning raw information into answers; it blends math, coding, and everyday problem-solving to ask big questions, collect evidence, spot patterns, and tell a story with the findings"){ .md-button }
@@ -48,7 +48,9 @@ Students will be introduced to the course and each other by collecting data abou
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❏  Station 4: How old are you?<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❏  Station 5: How many books did you read over the summer?<br>
 
-    - For your convenience, example poster layouts have been provided in the Information Stations handout ([LMR_U1_L01_A](../MSDS_Curriculum/2_MSDS_LMR/MSDS_LMR_Unit_1/LMR_U1_L01_A.pdf)). They are available as guides, but can also be used and/or printed directly. Feel free to be creative.
+    - For your convenience, example poster layouts have been provided in the Information Stations handout ([LMR_U1_L01_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_A.pdf)). They are available as guides, but can also be used and/or printed directly. Feel free to be creative.
+
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L01_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_A.pdf)</div>
 
     - At each of the stations, provide a variety of markers, stickers, paint stampers, name tags, or pens/pencils for students to indicate their responses.
 
@@ -56,17 +58,17 @@ Students will be introduced to the course and each other by collecting data abou
 .tg  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border-style:dotted;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
 .tg .tg-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
 </style>
 <table class="tg" style="width:75%;margin:0 auto;">
   <tr>
-    <th class="tg-88nc" style="width:15%;">image</th>
+    <th class="tg-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/>
+</th>
     <th class="tg-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br><i>Visual &amp; Tactile Choices for Diverse Learners</i></b><br> At each station, provide not just markers, but also options like pre-made picture symbols or object choices for students who have difficulty writing or prefer non-verbal responses (ex. placing a #10 token in a “How old are you?” jar instead of writing “10”).</th>
   </tr>
 </table>
 <br>
-
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L01_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_A.pdf)</div>
 
 <center><h3>Opening</h3></center>
 
@@ -87,14 +89,15 @@ Students will be introduced to the course and each other by collecting data abou
 6. Split students evenly into 5 groups and assign each group a starting station number. Send the groups to their first assigned station. Explain how you will signal them to rotate from station to station.<br>
 
     <style type="text/css">
-    .tg  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border-style:dotted;}
+    .tg  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border:4px dotted #0077bb;}
     .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
     .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tg .tg-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
     .tg .tg-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
     </style>
     <table class="tg" style="width:75%;margin:0 auto;">
     <tr>
-    <th class="tg-88nc" style="width:15%;">image</th>
+    <th class="tg-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/></th>
     <th class="tg-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br><i>Visual &amp; Scribe Support for Diverse Learners</i></b><br> Offer the option for students to dictate their answers to a peer, teacher, or aide who can record it for them at the station.</th>
     </tr>
     </table><br>
@@ -134,18 +137,37 @@ Students will be introduced to the course and each other by collecting data abou
 
 12. Engage students in a Think-Ink-Pair-Share activity. In their detective notebooks, ask students to write down, in their own words, what they think **data** means. Give them 2 to 3 minutes to write, and then allow 1 to 2 minutes for them to discuss their responses with a partner. Next, allow 2 or 3 students to share what they wrote with the whole class.
 
-!!! warning "STRATEGY:"
-    ***Think-Ink-Pair-Share (TIPS)***
-    - *Think*: Students individually think about and process a question.<br>
-    - *Ink*: Students write down their own initial ideas.<br>
-    - *Pair*: Students partner up to discuss their thoughts and listen to each other's ideas.<br>
-    - *Share*: The class comes back together to share key ideas from their discussions.
+    <style type="text/css">
+    .ts  {border-collapse:collapse;border-spacing:0;background-color:#fff2cc;border:4px dotted #e59b24;}
+    .ts td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .ts th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:none;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .ts .ts-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
+    .ts .ts-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
+    </style>
+    <table class="ts" style="width:75%;margin:0 auto;">
+    <tr>
+    <th class="ts-88im" style="width:15%;"><img src="../../img/Strategy_yellow.png"/></th>
+    <th class="ts-88nc" style="width:65%;"><b>STRATEGY:<br><i>Think-Ink-Pair-Share (TIPS)</i></b><br> <ul>
+    <li><i>Think</i>: Students individually think about and process a question.</li>
+    <li><i>Ink</i>: Students write down their own initial ideas.</li>
+    <li><i>Pair</i>: Students partner up to discuss their thoughts and listen to each other's ideas.</li>
+    <li><i>Share</i>: The class comes back together to share key ideas from their discussions.</li></ul></th>
+    </tr>
+    </table><br>
 
-!!! warning "ADDITIONAL SUPPORT:"
-    ***Optional Graphic Organizers for Diverse Learners***
-    Use a simple Frayer model or a concept map to help students organize their thoughts.<br><br>
-    ***Optional Word Bank for Diverse Learners***
-    Provide a word bank with terms like “information,” “facts,” “numbers,” “observations,” “lists,” and “graphs” to help students articulate their definitions of data.
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border:4px dotted #0077bb;}
+    .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tg .tg-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
+    .tg .tg-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
+    </style>
+    <table class="tg" style="width:75%;margin:0 auto;">
+    <tr>
+    <th class="tg-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/></th>
+    <th class="tg-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br><i>Optional Graphic Organizers for Diverse Learners</i></b><br> Use a simple Frayer model or a concept map to help students organize their thoughts.<br> <b><i>Optional Word Bank for Diverse Learners</i></b><br>Provide a word bank with terms like “information,” “facts,” “numbers,” “observations,” “lists,” and “graphs” to help students articulate their definitions of data.</th>
+    </tr>
+    </table><br>
 
 13. Next, explain that we will be watching a short video clip of everyday people giving their own definitions of **data**.
 
@@ -170,24 +192,37 @@ Students will be introduced to the course and each other by collecting data abou
         100. Interestingly, the term "data" is actually plural. So technically, the video clip should have been titled "What ***are*** Data?" instead of "What ***is*** Data?".<br>
         100. The singular form of "data" is "**datum**."
 
+18. Revisit the term **data science** and provide the following definition: Data science is the detective work of turning raw information into answers. It blends math, coding, and everyday problem-solving to ask big questions, collect evidence, spot patterns, and tell a story with the findings.<br><br>
+
+
     <b><i><span style="font-size: 18px";>Part 3: Introducing the Data Cycle - The 'Consider Data' Phase</span></b></i>
 
-18. Introduce the concept of **The Data Cycle** by explaining that, when investigating a case, detectives often follow a specific process. In a statistical investigation, data scientists also follow a specific process, which is referred to as **The Data Cycle**. Following the Data Cycle helps us to make sure we are being thoughtful and organized throughout an entire investigation
+19. Introduce the concept of **The Data Cycle** by explaining that, when investigating a case, detectives often follow a specific process. In a statistical investigation, data scientists also follow a specific process, which is referred to as **The Data Cycle**. Following the Data Cycle helps us to make sure we are being thoughtful and organized throughout an entire investigation
 
-19. Display a blank image of the Data Cycle ([LMR_U1_L01_B](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_B.pdf), page 1) on the board. Explain that we will be learning about each phase of the Data Cycle throughout this unit, but today we will uncover just one piece of it.
+20. Display a blank image of the Data Cycle ([LMR_U1_L01_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf), page 1) on the board. Explain that we will be learning about each phase of the Data Cycle throughout this unit, but today we will uncover just one piece of it.
 
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L01_B](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_B.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L01_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf)</div>
 
-20. Reveal and highlight the **Consider Data** phase of the Data Cycle ([LMR_U1_L01_B](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_B.pdf), page 2). Explain that, in a criminal investigation, detectives look for and collect evidence and interview witnesses to help them understand the crime. In a statistical investigation, data scientists figure out what data  they already have, what data they still need, and what they should do to acquire such data
+21. Reveal and highlight the **Consider Data** phase of the Data Cycle ([LMR_U1_L01_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf), page 2). Explain that, in a criminal investigation, detectives look for and collect evidence and interview witnesses to help them understand the crime. In a statistical investigation, data scientists figure out what data  they already have, what data they still need, and what they should do to acquire such data
 
-21. Ask students to think about and describe how they were engaging with the Consider Data phase of the Data Cycle during the Information Stations activity.
+22. Ask students to think about and describe how they were engaging with the Consider Data phase of the Data Cycle during the Information Stations activity.
+
+    <style type="text/css">
+    .ts  {border-collapse:collapse;border-spacing:0;background-color:#fff2cc;border:4px dotted #e59b24;}
+    .ts td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .ts th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .ts .ts-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
+    .ts .ts-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
+    </style>
+    <table class="ts" style="width:75%;margin:0 auto;">
+    <tr>
+    <th class="ts-88im" style="width:15%;"><img src="../../img/Strategy_yellow.png"/></th>
+    <th class="ts-88nc" style="width:65%;"><b>STRATEGY:<br><i>5W1H Method (also known as the Kipling Method)</i></b><br> The 5W1H Method is a questioning approach and problem-solving method that helps students determine the background information of a problem.<br>
+    <div align="center"><i>Who?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Why?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How?</i></div></th>
+    </tr>
+    </table>
 
     100. Guide the discussion by having students use the 5W1H strategy. Sample responses are provided below.
-
-    !!! warning "STRATEGY:"
-    ***5W1H Method (also known as the Kipling Method)***
-    The 5W1H Method is a questioning approach and problem-solving method that helps students determine the background information of a problem.
-    <div align="center">*Who?   What?   When?   Where?  Why?    How?*</div>
 
         100. **Who?**: Who do you want to collect information about?<br>
         *Sample answer: The students in our middle school data science class*<br>
@@ -211,10 +246,20 @@ Students will be introduced to the course and each other by collecting data abou
 
     <center><h3>Closing</h3></center>
 
-22. Engage students in a Quickwrite using the following prompt: “Why is it important for a data detective to Consider Data before they begin an investigation?"
+23. Engage students in a Quickwrite using the following prompt: “Why is it important for a data detective to Consider Data before they begin an investigation?"
 
-!!! warning "STRATEGY:"
-    ***Quickwrite***
-    A short and informal timed writing activity to quickly capture student thoughts.
+    <style type="text/css">
+    .ts  {border-collapse:collapse;border-spacing:0;background-color:#fff2cc;border:4px dotted #e59b24;}
+    .ts td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .ts th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .ts .ts-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
+    .ts .ts-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
+    </style>
+    <table class="ts" style="width:75%;margin:0 auto;">
+    <tr>
+    <th class="ts-88im" style="width:15%;"><img src="../../img/Strategy_yellow.png"/></th>
+    <th class="ts-88nc" style="width:65%;"><b>STRATEGY:<br><i>Quickwrite</i></b><br> A short and informal timed writing activity to quickly capture student thoughts.</div></th>
+    </tr>
+    </table>
 
-23. End the class by having one or two students share their responses.
+24. End the class by having one or two students share their responses.
