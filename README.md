@@ -1,4 +1,4 @@
-# curriculum.thinkdataed.org
+# mscurriculum.thinkdataed.org
  
 # Introduction to Data Science Curriculum v_5.0
 
@@ -6,14 +6,14 @@
 
 * `mkdocs build` - Build the documentation site.
 * `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs gh-deploy` - deploy the repo to curriculum.thinkdataed.org
+* `mkdocs gh-deploy` - deploy the repo to mscurriculum.thinkdataed.org
 * `mkdocs -h` - Print this help message.
 
 * Alternatively
 
 * `python3 -m mkdocs build` - Build the documentation site.
 * `python3 -m mkdocs serve` - Start the live-reloading docs server.
-* `python3 -m mkdocs gh-deploy` - deploy the repo to curriculum.thinkdataed.org
+* `python3 -m mkdocs gh-deploy` - deploy the repo to mscurriculum.thinkdataed.org
 * `python3 -m mkdocs -h` - Print this help message.
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
@@ -62,4 +62,4 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 	
 ## Note
 
-This note is available at repo https://github.com/IDSUCLA/curriculum
+This note is available at repo https://github.com/ThinkDataEd/mscurriculum

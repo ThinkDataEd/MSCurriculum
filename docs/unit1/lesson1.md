@@ -66,7 +66,7 @@ Students will be introduced to the course and each other by collecting data abou
 </table>
 <br>
 
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L01_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_A.pdf)</div>
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L01_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_A.pdf)</div>
 
 <center><h3>Opening</h3></center>
 
@@ -176,7 +176,7 @@ Students will be introduced to the course and each other by collecting data abou
 
 19. Display a blank image of the Data Cycle ([LMR_U1_L01_B](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_B.pdf), page 1) on the board. Explain that we will be learning about each phase of the Data Cycle throughout this unit, but today we will uncover just one piece of it.
 
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L01_B](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_B.pdf)</div>
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L01_B](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_B.pdf)</div>
 
 20. Reveal and highlight the **Consider Data** phase of the Data Cycle ([LMR_U1_L01_B](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L01_B.pdf), page 2). Explain that, in a criminal investigation, detectives look for and collect evidence and interview witnesses to help them understand the crime. In a statistical investigation, data scientists figure out what data  they already have, what data they still need, and what they should do to acquire such data
 

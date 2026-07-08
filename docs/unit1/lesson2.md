@@ -29,7 +29,7 @@ Students will be able to explain how different representations of data can tell 
 
 2. Present the case by displaying the following on the board ([LMR_U1_L02_A](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_A.pdf), page 1). Let the students know they will be investigating this case throughout all of Unit 1 and are expected to present their findings to the DSU Captain at the end.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L02_A](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_A.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L02_A](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_A.pdf)</div>
 
 3. Introduce the FIRST CLUE of our investigation! All of the clues can be found in the Candy Culprit Clues document ([LMR_U1_L02_A](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_A.pdf), page 1).
 
@@ -55,9 +55,9 @@ Students will be able to explain how different representations of data can tell 
 
 7. Distribute Evidence: Give half of the groups the Locker Inventory List ([LMR_U1_L02_B](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_B.pdf)) and the other half the Detective Field Notes ([LMR_U1_L02_C](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_C.pdf)). Both handouts include a blank locker drawing template on page 2 for the students to sketch their scenes.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L02_B](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_B.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L02_B](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_B.pdf)</div>
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L02_C](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_C.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L02_C](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_C.pdf)</div>
 
 8. Launch the activity with the Pencils In the Middle strategy and allow students to observe and discuss their given representation with their group members.
 
@@ -143,11 +143,11 @@ Students will be able to explain how different representations of data can tell 
 
 14. Reveal the Evidence: Locker Photo ([LMR_U1_L02_D](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_D.pdf)) and explain that this is yet another representation of the crime scene.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_D.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L02_D](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_D.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_D.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L02_D](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_D.pdf)</div>
 
 15. Prompt another discussion to incorporate the photo representation. As students discuss the questions below, instruct them to create a T-Chart in their notebooks to record the advantages and disadvantages of each type of data representation. Sample answers are provided below.<br> ***OPTIONAL***: If preferred, a separate handout titled T-Chart: Comparing Representations ([LMR_U1_L02_E](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_E)) is available to distribute.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_E.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L02_E](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_E.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_E.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L02_E](../MS_Curriculum/2_MS_LMR/MS_LMR_Unit_1/LMR_U1_L02_E.pdf)</div>
 
     100. What information is present in the photo that was not explicitly included in either the Locker Inventory List or the Detective Field Notes? *Sample answer: We know the exact placement and orientation of each item in the locker. We can also see the color of each object now.
 

@@ -26,7 +26,7 @@
     }
 </style> -->
 
-<!-- <span id="demo"><span class="blink_text">Click <a href="../index.html" target="_blank">here</a>  to open in a new tab, or save the link <a href="../index.html" target="_blank">https://curriculum.thinkdataed.org</a>.</span></span> -->
+<!-- <span id="demo"><span class="blink_text">Click <a href="../index.html" target="_blank">here</a>  to open in a new tab, or save the link <a href="../index.html" target="_blank">https://mscurriculum.thinkdataed.org</a>.</span></span> -->
 
 
 
