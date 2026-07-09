@@ -24,7 +24,7 @@ Students will be able to explain how different representations of data can tell 
 
 ###**Lesson:**
 
-<center><h3>Opening</h3></center>
+<center><h3>Opening: Let the Case Begin!</h3></center>
 
 1. Lesson Hook: Welcome the DSU detective recruits back to training. Inform them that the DSU has received a new case and the rookies have been tasked to investigate.
 
@@ -46,7 +46,7 @@ Students will be able to explain how different representations of data can tell 
 
 5. Divide students into groups of 3 or 4.
 
-6. Explain that each group will receive one of two different representations of the evidence that was discovered at the student’s locker – either the first detective’s list or the second detective’s notes.
+6. Explain that each group will receive one of two different **representations** of the evidence that was discovered at the student’s locker – either the first detective’s list or the second detective’s notes.
 
     100. Their mission is to use this evidence to “reconstruct the scene” of the candy crime by drawing a sketch of the locker.
 
@@ -94,16 +94,16 @@ Students will be able to explain how different representations of data can tell 
     100. Set a timer for 15-20 minutes for groups to complete their sketches.
 
     <style type="text/css">
-    .tr  {border-collapse:collapse;border-spacing:0;background-color:#ccddaa;border:4px dotted #117733;}
-    .tr td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-    .tr th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:none;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-    .tr .tr-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
-    .tr .tr-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
+    .tg  {border-collapse:collapse;border-spacing:0;background-color:#ccddaa;border:4px dotted #117733;}
+    .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:none;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tg .tg-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
+    .tg .tg-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
     </style>
-    <table class="tr" style="width:75%;margin:0 auto;">
+    <table class="tg" style="width:75%;margin:0 auto;">
     <tr>
-    <th class="tr-88im" style="width:15%;"><img src="../../img/Group_Roles_green.png"/></th>
-    <th class="tr-88nc" style="width:65%;"><b>GROUP ROLES:<br><i>The Evidence Collector</i></b><br> <ul>
+    <th class="tg-88im" style="width:15%;"><img src="../../img/Group_Roles_green.png"/></th>
+    <th class="tg-88nc" style="width:65%;"><b>GROUP ROLES:<br><i>The Evidence Collector</i></b><br> <ul>
     <li>This student is responsible for carefully reading the inventory list or the detective's notes aloud to the group. They ensure all items and details are heard and confirmed by the team. They also double-check the evidence to make sure no crucial information is missed during the discussion</li></ul>
     <b><i>The Lead Investigator</i></b><br> <ul>
     <li>This student guides the group's interpretation of the evidence and ensures a collaborative, respectful environment. They facilitate discussions about where items should be placed, help the team make decisions about the drawing, and ensure everyone's ideas are considered as they piece together the scene.</li></ul>
@@ -115,16 +115,16 @@ Students will be able to explain how different representations of data can tell 
     </table><br>
 
     <style type="text/css">
-    .tg  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border:4px dotted #0077bb;}
-    .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-    .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-    .tg .tg-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
-    .tg .tg-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
+    .ta  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border:4px dotted #0077bb;}
+    .ta td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .ta th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .ta .ta-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
+    .ta .ta-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
     </style>
-    <table class="tg" style="width:75%;margin:0 auto;">
+    <table class="ta" style="width:75%;margin:0 auto;">
     <tr>
-    <th class="tg-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/></th>
-    <th class="tg-88nc" style="width:65%;text-align:left;vertical-align:top;font-weight:inherit;"><b>ADDITIONAL SUPPORT:</b><br>
+    <th class="ta-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/></th>
+    <th class="ta-88nc" style="width:65%;text-align:left;vertical-align:top;font-weight:inherit;"><b>ADDITIONAL SUPPORT:</b><br>
     <b><i>Optional Object Cutouts/Stickers for Diverse Learners</i></b><br> 
     For students who struggle with drawing, provide simple cutouts or stickers that they can use to physically arrange the locker items on their handouts.<br> 
     <b><i>Optional Virtual/Digital Version for Diverse Learners</i></b><br>
