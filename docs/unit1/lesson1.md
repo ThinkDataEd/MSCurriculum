@@ -55,17 +55,17 @@ Students will be introduced to the course and each other by collecting data abou
     - At each of the stations, provide a variety of markers, stickers, paint stampers, name tags, or pens/pencils for students to indicate their responses.
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border-style:dotted;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
-.tg .tg-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
+.ta  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border-style:dotted;}
+.ta td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.ta th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.ta .ta-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
+.ta .ta-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
 </style>
-<table class="tg" style="width:75%;margin:0 auto;">
+<table class="ta" style="width:75%;margin:0 auto;">
   <tr>
-    <th class="tg-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/>
+    <th class="ta-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/>
 </th>
-    <th class="tg-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br><i>Visual &amp; Tactile Choices for Diverse Learners</i></b><br> At each station, provide not just markers, but also options like pre-made picture symbols or object choices for students who have difficulty writing or prefer non-verbal responses (ex. placing a #10 token in a “How old are you?” jar instead of writing “10”).</th>
+    <th class="ta-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br><i>Visual &amp; Tactile Choices for Diverse Learners</i></b><br> At each station, provide not just markers, but also options like pre-made picture symbols or object choices for students who have difficulty writing or prefer non-verbal responses (ex. placing a #10 token in a “How old are you?” jar instead of writing “10”).</th>
   </tr>
 </table>
 <br>
@@ -89,16 +89,16 @@ Students will be introduced to the course and each other by collecting data abou
 6. Split students evenly into 5 groups and assign each group a starting station number. Send the groups to their first assigned station. Explain how you will signal them to rotate from station to station.<br>
 
     <style type="text/css">
-    .tg  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border:4px dotted #0077bb;}
-    .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-    .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-    .tg .tg-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
-    .tg .tg-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
+    .ta  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border:4px dotted #0077bb;}
+    .ta td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .ta th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .ta .ta-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
+    .ta .ta-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
     </style>
-    <table class="tg" style="width:75%;margin:0 auto;">
+    <table class="ta" style="width:75%;margin:0 auto;">
     <tr>
-    <th class="tg-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/></th>
-    <th class="tg-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br><i>Visual &amp; Scribe Support for Diverse Learners</i></b><br> Offer the option for students to dictate their answers to a peer, teacher, or aide who can record it for them at the station.</th>
+    <th class="ta-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/></th>
+    <th class="ta-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br><i>Scribe Support for Diverse Learners</i></b><br> Offer the option for students to dictate their answers to a peer, teacher, or aide who can record it for them at the station.</th>
     </tr>
     </table><br>
 
@@ -124,7 +124,7 @@ Students will be introduced to the course and each other by collecting data abou
     100. Where do we differ the most?
 
         100. *Sample answer: More people like Math class than _____ class.*<br>
-        100. *Sample answer: Some people read a lot of books over the summer (_#_), and others did not read any.*
+        100. *Sample answer: Some people read a lot of books over the summer (<u>&nbsp;&nbsp;</u>#<u>&nbsp;&nbsp;</u>), and others did not read any.*
 
     100. Are there any observations that seem odd?
 
@@ -156,16 +156,16 @@ Students will be introduced to the course and each other by collecting data abou
     </table><br>
 
     <style type="text/css">
-    .tg  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border:4px dotted #0077bb;}
-    .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-    .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-    .tg .tg-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
-    .tg .tg-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
+    .ta  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border:4px dotted #0077bb;}
+    .ta td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .ta th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .ta .ta-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
+    .ta .ta-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
     </style>
-    <table class="tg" style="width:75%;margin:0 auto;">
+    <table class="ta" style="width:75%;margin:0 auto;">
     <tr>
-    <th class="tg-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/></th>
-    <th class="tg-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br><i>Optional Graphic Organizers for Diverse Learners</i></b><br> Use a simple Frayer model or a concept map to help students organize their thoughts.<br> <b><i>Optional Word Bank for Diverse Learners</i></b><br>Provide a word bank with terms like “information,” “facts,” “numbers,” “observations,” “lists,” and “graphs” to help students articulate their definitions of data.</th>
+    <th class="ta-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/></th>
+    <th class="ta-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br><i>Optional Graphic Organizers for Diverse Learners</i></b><br> Use a simple Frayer model or a concept map to help students organize their thoughts.<br> <b><i>Optional Word Bank for Diverse Learners</i></b><br>Provide a word bank with terms like “information,” “facts,” “numbers,” “observations,” “lists,” and “graphs” to help students articulate their definitions of data.</th>
     </tr>
     </table><br>
 
