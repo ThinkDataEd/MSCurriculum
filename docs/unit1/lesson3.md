@@ -126,7 +126,7 @@ Students will take information from photos and organize them into groups by visu
 
 8. The captain has confiscated the school ID cards of these 30 people and asked our Data Detectives to make **observations** from these cards in order to start creating a suspect dossier.
 
-9. Place students into groups of 3 or 4 and hand out the Data Card sets (left side) OR provide a link to the Canva whiteboard template.
+9. Place students into groups of 3 or 4 and hand out the Data Card sets (left side) ***OR*** provide a link to the Canva whiteboard template.
 
 10. Students will be wearing their detective hats today as they examine the Data Cards. They need to identify any “clues” or information about the suspects that could give us some insight into a possible motive.
 
@@ -226,7 +226,7 @@ Students will take information from photos and organize them into groups by visu
 
         ***NOTE***: It is important to think about who is and is not represented in these Data Cards. We may be assuming some information, but should be careful about how we do so. For example, recording a suspect’s “skin complexion” is likely better than recording an assumed “ethnicity,” but we should aim to record only the information that we know for certain based on the photos.
 
-    <br><br>
+    <br>
     <b><i><span style="font-size: 18px";>Part 2: Organizing Observations</span></b></i>
 
 12. Explain that a good detective knows how to organize evidence and then look for patterns. For the next task, students will physically group the data cards based on different observable characteristics.
@@ -249,7 +249,7 @@ Students will take information from photos and organize them into groups by visu
         *Grouping the suspects into students versus staff is fairly easy because the staff members have an icon that indicates "STAFF" as their role.*
 
         100. *Example 2 (more complex):*<br>
-        *Grouping the suspects by their hair length is a more difficult task because we first have to agree on what it means to have "long hair." Some students might decide that "long hair" must go past a person's shoulders. Others might suggest that their classification of "long" versus "short" depends on a person's assumed gender.
+        *Grouping the suspects by their hair length is a more difficult task because we first have to agree on what it means to have "long hair." Some students might decide that "long hair" must go past a person's shoulders. Others might suggest that their classification of "long" versus "short" depends on a person's assumed gender.*
 
 14. Next, challenge the detective teams to reorganize the 30 suspect cards into exactly 3 distinct groups based on a different observed characteristic.
 
