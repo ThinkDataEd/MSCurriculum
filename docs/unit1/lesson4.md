@@ -1,151 +1,51 @@
-##**<u>Lesson 4: The Data Cycle</u>**
+##**<u>Lesson 1: </u>**
+
 
 ###**Objective:**
-Students will learn about the stages of the Data Cycle. 
+Students will be introduced to the course and each other by collecting data about themselves and making observations. They will also discover the defintion of "data."
+
 
 ###**Materials:**
-1. The *Data Cycle* file ([LMR_U1_L4_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_A.pdf))
+1. Information Stations ([LMR_U1_L01_A_Information_Stations](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_A.pdf)) - can be hand-drawn or printed using poster paper or other material; placed around classroom
 
-2. Computer, projector, or board and markers/chalk
+    ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>*** *See Class Setup section for additional details.*
 
-3. Printed description of each stage of the Data Cycle (refer to step 3 in the lesson)
-
-4. The *Data Cycle Spinners* handout ([LMR_U1_L4_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_B.pdf))
-
-5. RStudio: [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}
-
-6. Article headline: *People Who Order Coffee Black Are More Likely To Be Psychopaths*
-
-7. *Dude Map* found at (open in new tab): [https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/](https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/ "https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/"){:target="_blank"} <br>
-**<u>Note:</u>** The Dude map is no longer interactive at the Quartz link, but the complete set of comparison visualizations can be found in the PDF version of the LMR.
-
-8. *Bros & Dudes Graphics* handout ([LMR_U1_L4_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf))
-
-9. Sticky notes
-
-10. Poster paper
+2. Markers, stickers, paint stampers, etc. for recording at each station
 
 ###**Vocabulary:**
-[data cycle](../../vocabulary/unit1/#data-cycle "a guide we can use when leanring to think about data"){ .md-button }
-[statistical questions](../../vocabulary/unit1/#statistical-questions "questions that address variability and can be answered with data"){ .md-button }
-[data collection](../../vocabulary/unit1/#data-collection "the process of observing and recording data, or of examining previously collected data to make sure it meets the needs of an investigation"){ .md-button }
-[data analysis](../../vocabulary/unit1/#data-analysis "tables, graphs, and summaries of the data that are produced to help us find patterns and relationships"){ .md-button }
-[data interpretation](../../vocabulary/unit1/#data-interpretation "the statistical questions are answered by referring to the tables, graphs, and summaries made in the Data Analysis phase"){ .md-button }
+[data science](../../vocabulary/unit1/#data-science "the detective work of turning raw information into answers; it blends math, coding, and everyday problem-solving to ask big questions, collect evidence, spot patterns, and tell a story with the findings"){ .md-button }
+[data](../../vocabulary/unit1/#data "information gathered through observation or responses"){ .md-button }
+[datum](../../vocabulary/unit1/#datum "the singular form of &quot;data&quot;"){ .md-button }
+[survey questions](../../vocabulary/unit1/#survey-questions "questions that are used to collect information about people who respond to them"){ .md-button }
+[The Data Cycle](../../vocabulary/unit1/#data-cycle "a process we follow during a statistical investigation, also referred to as The Data Cycle, which consists of four phases - Pose Questions, Consider Data, Analyze Data, Interpret Data"){ .md-button }
+[Consider Data (phase)](../../vocabulary/unit1/#consider-data-phase "the phase of the Data Cycle where data scientists figure out what data is already available, what data is still needed, and what steps should be followed to acquire such data"){ .md-button }
+[primary data](../../vocabulary/unit1/#primary-data "first hand, original information that a researcher collects directly"){ .md-button }
 
 ###**Essential Concepts:**
 
-!!! note "Essential Concepts:"
-    A statistical investigation consists of cycling through the four stages of the Data Cycle. The term statistical questions encompasses the variety of questions asked during the statistical problem-solving process which support statistical thinking and reasoning. Statistical questions are perhaps the most important because they are challenging to learn and are the types of questions that determine whether an analysis is productive or not.  Statistical questions are questions that address variability and are productive in that they motivate data collection, analysis, and interpretation. The Data Collection phase might consist of collecting data through Participatory Sensing or some other means, or it might consist of examining previously collected data to determine the quality of the data for answering the statistical questions. Data Analysis is almost always done on the computer and consists of creating relevant graphics and numerical summaries of the data. Data Interpretation is involved with using the analysis to answer the statistical questions. 
-
-!!! warning "If you haven't done so already, create your IDS class and import users."
-    a) Watch [this video](https://www.youtube.com/embed/0M2vG7NYHkQ) to learn how to set up and manage a class. Students will need their usernames and passwords in lesson 7.
-
-    b) If students' first and last names are merged in one column separated by commas, watch [this video](https://www.youtube.com/embed/dtWF291XwzE) to learn how to split them into two columns.
+!!! note "Essential Concepts: "
+    Data is information gathered through observation or responses. We can collect data about many different things, including ourselves. Looking at collected data helps us notice patterns, similarities, and differences. Data are all around us and used in many aspects of daily life.
 
 
 ###**Lesson:**
-1. During the past few lessons, we have discussed what data are, how to collect and organize them,
-and how their values can vary. But what do we do with all this data? How can we navigate it and
-turn it into something useful to us?
 
-2. Inform students that they will be learning about the **Data Cycle** today. The Data Cycle is a guide
-we can use when learning to think about data. We usually start with posing statistical questions. Display the
-graphic from *The Data Cycle* file ([LMR_U1_L4_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_A.pdf)):
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L4_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_A.pdf)</div>
 
-3. Display the Data Cycle on the board or on a projector, and give a brief explanation of the 4
-components (listed below).
+<center><h3>Class Setup</h3></center>
 
-    **<u>Note:</u>** we will explore each component of the Data Cycle more explicitly throughout the course.
 
-    100. **Pose Statistical Questions:** Statistical questions are questions that address variability and
-    can be answered with data.
+<center><h3>Opening</h3></center>
 
-    100. **Consider Data:** This is the process of observing and recording data, or of examining
-    previously collected data to make sure it meets the needs of the investigation.
 
-    100. **Analyze Data:** During analysis, tables, graphs, and summaries of the data are produced
-    to help us find patterns and relationships.
+<center><h3>Concept Development</h3></center>
 
-    100. **Interpret Data:** The statistical questions are answered by referring to the tables,
-    graphs, and summaries made in the Data Analysis phase.
 
-4. Almost all statistical investigations begin with statistical questions. There are times when the questions may be given to us, so we might start at the data collection step, but this should ideally be our starting point. 
+<b><i><span style="font-size: 18px";>Part 1: Collecting Data</span></b></i>
 
-5. As an example, explain that you might ask a person “How old are you?” Although this is a question, it is NOT a statistical question because we are only asking one person so there is no variability in the data. The question “How old are you?”  is a survey question that you might ask if you were trying to answer the statistical question: “How old are the students in my school?” We would need to collect data to answer the question and we would expect student’s ages to vary.
 
-6. To help students get a firm understanding of the Data Cycle and how each component is connected, they will participate in a *Four Corners strategy* (see [Instructional
-Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) in [Teacher Resources](../download/resources.md)). Write down the name of each stage of the Data Cycle on a sheet of paper and include the description of that particular stage (see step 3 above for descriptions). Then tape each sheet on a different corner of your room.
+<b><i><span style="font-size: 18px";>Part 2: Building the Definition of Data</span></b></i>
 
-7. Explain to the students that you are going to display different artifacts from statistical investigations on the projector. For each artifact, they will move to the corner of the room they feel that artifact represents (posing a statistical question, consider data, analyze data, interpret data). If you have limited space in your classroom or for students that cannot physically participate, you might consider printing [LMR_U1_L4_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_B.pdf). Students can participate by pointing to the spinner.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L4_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_B.pdf)</div>
 
-8. Once students have chosen a corner of the room (stage of the Data Cycle) they will discuss the following with their classmates in that same corner:
-    
-    100. What part of the data cycle does the artifact represent (posing a statistical question, consider data, analyze data, interpret data)? Why do we think that?
+<b><i><span style="font-size: 18px";>Part 3: Introducing the Data Cycle - The 'Consider Data' Phase</span></b></i>
 
-    
-    100. What questions or wonderings do we have about the artifact?
-    
-9. Allow each group time to discuss the questions and have one member from each team (corner) share the answers to the questions. This activity is not about having a correct answer. It is about having students begin to think critically about statistical artifacts that they are constantly consuming. Data are encountered through visualizations, reports from scientific studies, journalists’ articles and websites. This activity is meant to begin to develop students' statistical habits of mind.
 
-10. Artifact 1: Spreadsheet of the CDC data <br> **<u>Note:</u>** The CDC uses sex as a binary variable, which may bring up classroom conversations about sex and gender. While medical science has moved to a non-binary definition of gender and also allows for more than two sexes, this notion has not yet made its way into many official agencies. We feel students need experience working with data from these government agencies since they play a very important role in the US economic and cultural life.
-
-    <img src="../../img/cdc.png" />
-
-    **<u>Note:</u>** You can display this spreadsheet using RStudio by running the following commands:
-```data(cdc)```
-```View(cdc)```
-
-    100. What part of the data cycle does the artifact represent (posing a statistical question, consider data, analyze data, interpret data)? Why do we think that?
-    <span style="color:grey">***Answers will vary.***</span>
-    
-    100. What questions or wonderings do we have about the artifact?
-    <span style="color:grey">***Students should begin developing statistical habits of mind. They should be interrogating the data by asking questions such as:
-    Who is the data about? What was the purpose of collecting the data? What was the survey question asked to collect the data?***</span>
-
-11. Artifact 2: Article headline *People Who Order Coffee Black Are More Likely To Be Psychopaths*
-
-    <img src="../../img/coffee.png" />
-
-    100. What part of the data cycle does the artifact represent (posing a statistical question, consider data, analyze data, interpret data)? Why do we think that?
-    <span style="color:grey">***Answers will vary.***</span>
-
-    100. What questions or wonderings do we have about the artifact? <span style="color:grey">***Students should be interrogating this headline with questions like: What type of study was this? Who funded the study? What was the purpose of the study? How was the variable measured?***</span>
-
-12. Artifact 3: *Dude Map* found at (open in new tab): [https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/](https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/ "https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/"){:target="_blank"} <br> **<u>Note:</u>** The Dude map is no longer interactive at the Quartz link, but the complete set of comparison visualizations can be found in the PDF version of the LMR.
-
-    <img src="../../img/dudegraphic.png" />
-
-    100. What part of the data cycle does the artifact represent (posing a statistical question, consider data, analyze data, interpret data)? Why do we think that? <span style="color:grey">***Answers will vary.***</span>
-    100. What questions or wonderings do we have about the artifact? <span style="color:grey">***Students should be asking questions like: What was the purpose of this study? What variables were measured and how were they measured?***</span>
-
-13. Inform students that the *Dude Map* was created for the *Quartz*
-website by Nikhil Sonnad as a data visualization. He collected the data via Twitter. The graphic shows how common the terms: bro, buddy, dude, fella and pal are when referring to friends throughout the United States.
-
-14. Ask students to return to their seats, take out their DS journal and make a sketch of the Data Cycle making sure to include the names of the four stages (Pose statstical question, consider data, analyze data, interpret data).
-
-15. Ask students to write *Dude Map* under the analyze data of their data cycle and the information about where the data came from (see #13) in the consider data part of their Data Cycle sketch.
-
-16. Have each team discuss a possible statistical question that could be answered using the *Dude Map* graphic. Have the Recorder/Reporter write the question on a sticky note and the resource manager bring it up to the board.
-
-17. Lead a class discussion around the statistical questions the student teams created, and as a class, choose one to write down as an example. <span style="color:grey">***Example: Where in the United States is the term dude more common to use when referring to a friend?***</span>
-
-18. Allow the teams to work together to answer the statistical question. Ask the Recorder/Reporter to share their team's interpretation. Have students write down the answer that resonated the most with them under the interpret part of the data cycle.
-
-19. Assign ONE of the pages from the *Bros & Dudes Graphics* handout ([LMR_U1_L4_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf)) to each team. There are 10 different
-versions of word pairings (10 combinations of 2 words chosen from the 5 options), so multiple
-teams will have the same graphic if there are more than 10 teams in a class.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L4_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf)</div>
-
-20. The goal of this activity is for each team to complete a full statistical investigation with the *Bros & Dudes Graphics* assigned to them. Tell the teams that they need to create a Data Cycle poster using their assigned graphic for the analyze stage. The cycle should be clearly labeled and have appropriate responses for each of the 4 components.
-
-    <span style="color:grey">***For example, a team given the “Bro” and “Buddy” graphics might come up with the following questions: Which region of the US is most likely to use the term “Bro” when referring to a friend? Do the coastal areas prefer different terms than the
-    Midwest? Is there a difference between northern states versus southern states?***</span>
-
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics
-of the day were.
-
-###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students reformulate any statistical questions generated by their team about the *Bros & Dudes Graphics* that could not be answered so that they can be answered. 
+<center><h3>Closing</h3></center>
