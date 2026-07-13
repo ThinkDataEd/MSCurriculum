@@ -73,21 +73,25 @@ Students will be able to navigate the CODAP environment, create variables (colum
 
     100. Instruct them to click the "Tables" icon in the top-left corner of the toolbar to create a New Data Set. Then, select "--new--" from the dropdown menu. Once an empty data table opens, rename it to "Candy Culprit Suspects." Note that CODAP typically refers to a data table as a **case table**.
 
-        <center><img src="../../img/u1_l06_04d.png" style="width:30vw;height:auto;" alt="Launch CODAP"/></center>
+        <center><img src="../../img/u1_l06_04d.png" style="width:30vw;height:auto;" alt="Create New Data Set"/></center>
 
 5. Next, guide students to start building the structure of the data table by adding columns for each variable.
 
     100. Rename the first column by clicking on the label "AttributeName" and then selecting the "Rename" option from the dropdown menu. Type in a short and precise variable name, such as "Name".
 
-        <center><img src="../../img/u1_l06_05a.png" style="width:30vw;height:auto;" alt="Launch CODAP"/></center>
+        <center><img src="../../img/u1_l06_05a.png" style="width:30vw;height:auto;" alt="Rename column"/></center>
 
     100. Once all students have successfully renamed the first column, instruct them to use the grey plus icon in the top-right corner to add and then rename the other 10 columns with appropriate variable names.
 
-        <center><img src="../../img/u1_l06_05b.png" style="width:50vw;height:auto;" alt="Launch CODAP"/></center>
+        <center><img src="../../img/u1_l06_05b.png" style="width:50vw;height:auto;" alt="Add and rename other columns"/></center>
 
 6. Guide students to continue building the structure of the data table by adding their first case in row 1. They should use their hand-written data table from the previous lesson as a guide.
 
+    <center><img src="../../img/u1_l06_06.png" style="width:50vw;height:auto;" alt="Add first case in row 1"/></center>
+
 7. Allow students to enter the data from 5 of the suspects into the data table. They should aim to include one student per grade level and at least one staff member An example is provided here:
+
+    <center><img src="../../img/u1_l06_07.png" style="width:50vw;height:auto;" alt="Add 5 suspects"/></center>
 
 8. Once students have 5 suspects, lead a whole-class discussion about the differences they noticed between writing the data into the paper data table versus typing the data into the digital data table. Guide the discussion with the following questions:
 
@@ -117,7 +121,11 @@ Students will be able to navigate the CODAP environment, create variables (colum
 
     100. Show students how to check the variable classification for at least one of the columns. Click on the label for one of the variables, and then select the “Edit Attribute Properties…” option from the dropdown menu.
 
+        <center><img src="../../img/u1_l06_09a.png" style="width:50vw;height:auto;" alt="Check variable classification"/></center>
+
     100. When the new pop-up window appears, click on the dropdown menu for “type” and select the appropriate classification. 2 examples are included below (1 categorical, 1 numerical).
+
+        <center><img src="../../img/u1_l06_09b.png" style="width:45vw;height:auto;" alt="Select appropriate variable classification"/></center>
 
 10. Give students time to check and modify the variable type for all 11 columns. 
 
@@ -131,12 +139,20 @@ Students will be able to navigate the CODAP environment, create variables (colum
 
     100. The data table (or case table) should automatically load in the CODAP window.
 
+        <center><img src="../../img/u1_l06_11c.png" style="width:60vw;height:auto;" alt="Load Suspect Data File"/></center>
+
     100. Show students that CODAP offers 2 different ways to view data. The first is the case table view, and the second is the case card view. 
         100. In order to switch between the views, click the white menu button in the top left corner of the case table.
 
+            <center><img src="../../img/u1_l06_11di.png" style="width:50vw;height:auto;" alt="Click white menu button"/></center>
+
         100. A prompt will pop up that says “Switch to case card view of the data.” Click the prompt.
 
+            <center><img src="../../img/u1_l06_11dii.png" style="width:50vw;height:auto;" alt="Switch views"/></center>
+
         100. The case card view is now visible. The very first card is a bit different from the actual suspect cards, so allow students to explore this view by using the left and right arrow buttons next to the “add case” button to navigate through the cards. Students should record how the first case card differs from the case card for Aaron Appleby.
+
+            <center><img src="../../img/u1_l06_11diii.png" style="width:50vw;height:auto;" alt="Case card view"/></center>
 
 12. Allow students to partner up for a Think-Ink-Pair-Share activity to discuss the following questions:
 
@@ -150,7 +166,12 @@ Students will be able to navigate the CODAP environment, create variables (colum
 
     100. In the case table view, click the variable name “FaveCandy” and have students observe the drop-down options. What option(s) would help us find the chocolate lovers quickly? *Answer: Sort Ascending (A -> Z, 0 -> 9) or Sort Descending (9 -> 0, Z -> A). Ascending might be best here, though, because “Chocolate” starts with the letter C and is near the beginning of the alphabet.* 
 
+        <center><img src="../../img/u1_l06_13b.png" style="width:50vw;height:auto;" alt="Sort FaveCandy"/></center>
+
     100. The screenshot below shows the top of the sorted data table. 
+
+        <center><img src="../../img/u1_l06_13c.png" style="width:50vw;height:auto;" alt="Sorted FaveCandy"/></center>
+        
         100. Ask students to quickly determine how many suspects chose “Chocolate” as their favorite candy. Does this answer match what they found during our opening activity? *Answer: There are 9 suspects whose favorite candy is Chocolate, which matches what we said earlier.* 
         
         100. Which method made finding the total number of chocolate lovers easier – counting by hand or sorting in CODAP? *Sample answer: Sorting in CODAP is easier and faster because it groups all of the suspects with a value of “Chocolate” together.*  
