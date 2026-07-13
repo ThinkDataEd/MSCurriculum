@@ -79,7 +79,7 @@ if (window.location == window.top.location) {
     Swal.fire({
       icon: 'info',
       title: 'Login Required.',
-      iconHtml: '<img style="width: 100px;height: 100px;" src="//mscurriculum.thinkdataed.org/img/IDS-logo.png">',
+      iconHtml: '<img style="width: 100px;height: 100px;" src="//mscurriculum.thinkdataed.org/img/MSDS-logo.png">',
 //      showCancelButton: true,
 //      cancelButtonText: 'Visitors: Request Access',
       showConfirmButton: true,
@@ -93,11 +93,11 @@ if (window.location == window.top.location) {
     }).then((result) => {
       if (result.isConfirmed) {
         console.log('confirmed');
-        var url = "http://portal.thinkdataed.org/#curriculum/";
+        var url = "https://msportal.thinkdataed.org/#mscurriculum/";
         document.location = url;
       } else if (result.dismiss === Swal.DismissReason.cancel) {
         console.log('cancelled');
-        var url = "http://thinkdataed.org/ids-request";
+        var url = "https://thinkdataed.org/ids-request";
         document.location = url;
       }
     });
