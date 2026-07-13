@@ -70,15 +70,15 @@ Students will take information from photos and organize them into groups by visu
 
         - Option D ([LMR_U1_L03_D](https://canva.link/0igwvovn65h3985 "https://canva.link/0igwvovn65h3985")): Canva whiteboard for Suspect Data Cards (**<span style="color: #e59b24;">FULL**</span>)
 
-        image
+        <center><img src="../../img/u1_l03_00d.png" style="width:50vw;height:auto;" alt="Suspect Data Cards Full"/></center>
 
         - Option E ([LMR_U1_L03_E](https://canva.link/2a8p5yd7pnopy52 "https://canva.link/2a8p5yd7pnopy52")): Canva whiteboard for Suspect Data Cards (**<span style="color: #e59b24;">photos + names**</span>)
 
-        image
+        <center><img src="../../img/u1_l03_00e.png" style="width:50vw;height:auto;" alt="Suspect Data Cards photos and names"/></center>
 
         - Option F ([LMR_U1_L03_F](https://canva.link/5o2b1l7hpde0dv6 "https://canva.link/5o2b1l7hpde0dv6")): Canva whiteboard for Suspect Data Cards (**<span style="color: #e59b24;">photos only**</span>)
 
-        image
+        <center><img src="../../img/u1_l03_00f.png" style="width:50vw;height:auto;" alt="Suspect Data Cards photos only"/></center>
 
 <center><h3>Opening</h3></center>
 
@@ -86,11 +86,12 @@ Students will take information from photos and organize them into groups by visu
 
     100. Explain that the goal of the game is to guess which character the computer chose before it can guess which character we chose. The list is narrowed down by asking questions about the physical appearance of the characters. Play one round of the game (or 2, if time permits). 
 
-    image
+        <center><img src="../../img/u1_l03_01a.png" style="width:45vw;height:auto;" alt="Guess Who? online game"/></center>
 
     100. Once the play button is clicked, the website will prompt you to choose a character. There are 24 possible choices, so allow students time to observe the characters before selecting 1 as a class. Next, the website will prompt you to select a question to ask the computer player. The goal is to eliminate as many characters as possible during each round so you find the chosen character first. Some selected screenshots of progression through the game are provided here. 
 
-    4x2 table with 8 images
+        <center><img src="../../img/u1_l03_01b1.png" style="width:50vw;height:auto;" alt="Guess Who? select character"/></center>
+        <center><img src="../../img/u1_l03_01b2.png" style="width:50vw;height:auto;" alt="Guess Who? turns"/></center>
 
 2. Welcome the DSU detective recruits back to training. Today's mission is to move from the crime scene to the suspects. Pose the following questions:
 
@@ -226,7 +227,7 @@ Students will take information from photos and organize them into groups by visu
 
         ***NOTE***: It is important to think about who is and is not represented in these Data Cards. We may be assuming some information, but should be careful about how we do so. For example, recording a suspect’s “skin complexion” is likely better than recording an assumed “ethnicity,” but we should aim to record only the information that we know for certain based on the photos.
 
-    <br>
+    
     <b><i><span style="font-size: 18px";>Part 2: Organizing Observations</span></b></i>
 
 12. Explain that a good detective knows how to organize evidence and then look for patterns. For the next task, students will physically group the data cards based on different observable characteristics.
