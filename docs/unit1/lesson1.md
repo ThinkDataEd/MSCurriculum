@@ -1,7 +1,7 @@
 ##**<u>Lesson 1: Meet the DSU Squad (DSU = Data Science Unit)</u>**
 
 ###**Objective:**
-Students will be introduced to the course and each other by collecting data about themselves and making observations. They will also discover the defintion of "data."
+Students will be introduced to the course and each other by collecting data about themselves and making observations. They will also discover the definition of "data."
 
 ###**Materials:**
 
