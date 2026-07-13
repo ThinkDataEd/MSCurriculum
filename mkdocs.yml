@@ -8,7 +8,7 @@ plugins:
 #  - pdf-export:
 #        verbose: true
 
-site_name: Middle School Data Science Curriculum
+site_name: Data Detectives
 markdown_extensions:
   - admonition
   - pymdownx.arithmatex
@@ -141,21 +141,6 @@ nav:
             - 'Lesson 14: How Confident Are You?' : unit3/lesson14.md
             - 'Lab 3D: Are You Sure about That?' : unit3/lab3d.md
             - 'Practicum: Let’s Build a Survey!' : unit3/practicum2.md  
-        - 'Section 4': 
-            - 'What’s the Trigger?' : unit3/section4.md
-            - 'Lesson 15: Ready, Sense, Go!' : unit3/lesson15.md
-            - 'Lesson 16: Does It Have a Trigger?' : unit3/lesson16.md
-            - 'Lesson 17: Creating Our Own Participatory Sensing Campaign' : unit3/lesson17.md
-            - 'Lesson 18: Evaluating Our Own Participatory Sensing Campaign' : unit3/lesson18.md
-            - 'Lesson 19: Implementing Our Own Participatory Sensing Campaign' : unit3/lesson19.md
-        - 'Section 5': 
-            - 'Webpages' : unit3/section5.md
-            - 'Lesson 20: Online Data-ing' : unit3/lesson20.md
-            - 'Lab 3E: Scraping Web Data' : unit3/lab3e.md
-            - 'Lab 3F: Maps' : unit3/lab3f.md 
-            - 'Lesson 21: Learning to Love XML' : unit3/lesson21.md
-            - 'Lesson 22: Changing Format' : unit3/lesson22.md
-            - 'End of Unit 3 Project: Analyzing Our Own Campaign Data' : unit3/end.md 
 
     - Vocabulary: 
         - 'Unit 1 Vocabulary' : vocabulary/unit1.md
@@ -165,7 +150,7 @@ nav:
     - PDF: 
        #- 'IDS_Curriculum' : download/curriculum.md
         - 'MSDS_LMRs' : download/lmrs.md
-        - 'MSDS_Lab Response Sheets' : download/labs.md
+        #- 'MSDS_Lab Response Sheets' : download/labs.md
         - 'MSDS_Teacher Resources' : download/resources.md
     
     #- AppDownloads: download/app.md
