@@ -1,173 +1,51 @@
-##**<u>Lesson 10: Making Histograms</u>**
+##**<u>Lesson 1: </u>**
+
 
 ###**Objective:**
-Students will understand that a histogram represents observations grouped into bins, and that bars are
-drawn to show how many observations (or what proportion of the observations) lie in each bin, rather than
-representing individual observations, as in a dotplot.
+Students will be introduced to the course and each other by collecting data about themselves and making observations. They will also discover the definition of "data."
+
 
 ###**Materials:**
-1. Peanut butter
+1. Information Stations ([LMR_U1_L01_A_Information_Stations](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_A.pdf)) - can be hand-drawn or printed using poster paper or other material; placed around classroom
 
-2. Jelly
+    ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>*** *See Class Setup section for additional details.*
 
-3. Loaf of sliced bread
-
-4. Butter knife
-
-5. Plate
-
-6. *Sleep* dotplots (from [Lesson 9](lesson9.md))
-
-7. Poster paper
-
-8. Markers
+2. Markers, stickers, paint stampers, etc. for recording at each station
 
 ###**Vocabulary:**
-
-[algorithm](../../vocabulary/unit1/#algorithm "a process or set of rules for solving a mathematical problem"){ .md-button }
-[histogram](../../vocabulary/unit1/#histogram "an approximate representation of the distribution of numerical data"){ .md-button }
-[bin(s)](../../vocabulary/unit1/#bins "a bar whose height corresponds to how many data points are in that bin"){ .md-button }
-[bin widths](../../vocabulary/unit1/#bin-widths "the width of the rectangle that shows data is graphed in groups on the x-axis"){ .md-button }
-[output](../../vocabulary/unit1/#output "the value(s) that are produced by an algorithm"){ .md-button }
-[input](../../vocabulary/unit1/#input "the value you place into the algorithm"){ .md-button }
-[left-hand rule](../../vocabulary/unit1/#left-hand-rule "when multiple data points can appear in more than one bin, observations would go in the bin on the left-hand side"){ .md-button }
-[right-hand rule](../../vocabulary/unit1/#right-hand-rule "when multiple data points can appear in more than one bin, observations would go in the bin on the right-hand side"){ .md-button }
+[data science](../../vocabulary/unit1/#data-science "the detective work of turning raw information into answers; it blends math, coding, and everyday problem-solving to ask big questions, collect evidence, spot patterns, and tell a story with the findings"){ .md-button }
+[data](../../vocabulary/unit1/#data "information gathered through observation or responses"){ .md-button }
+[datum](../../vocabulary/unit1/#datum "the singular form of &quot;data&quot;"){ .md-button }
+[survey questions](../../vocabulary/unit1/#survey-questions "questions that are used to collect information about people who respond to them"){ .md-button }
+[The Data Cycle](../../vocabulary/unit1/#data-cycle "a process we follow during a statistical investigation, also referred to as The Data Cycle, which consists of four phases - Pose Questions, Consider Data, Analyze Data, Interpret Data"){ .md-button }
+[Consider Data (phase)](../../vocabulary/unit1/#consider-data-phase "the phase of the Data Cycle where data scientists figure out what data is already available, what data is still needed, and what steps should be followed to acquire such data"){ .md-button }
+[primary data](../../vocabulary/unit1/#primary-data "first hand, original information that a researcher collects directly"){ .md-button }
 
 ###**Essential Concepts:**
 
-!!! note "Essential Concepts:"
-    Histograms can be created through the use of an algorithm. The distributions
-    displayed in a histogram can be classified using the technical terms for the shapes of distributions.
-    Learning to describe routine tasks through an algorithm is an important component of computational
-    thinking.
+!!! note "Essential Concepts: "
+    Data is information gathered through observation or responses. We can collect data about many different things, including ourselves. Looking at collected data helps us notice patterns, similarities, and differences. Data are all around us and used in many aspects of daily life.
+
 
 ###**Lesson:**
 
-1. Inform students that they will be telling us how to make a sandwich today. Giving clear, concise
-instructions to others is an important skill for students to learn. In this activity, students will
-practice using descriptive vocabulary, communicating ideas to others, recognizing steps in a
-process, and recognizing the importance of the use of clear language.
 
-2. Prepare for this task by gathering the necessary materials for making a peanut butter and jelly
-sandwich and arranging them in a way that makes them easy to use. You may want to wear an
-apron and have a trash bag smock — this can get messy but that’s most of the fun!
+<center><h3>Class Setup</h3></center>
 
-    **<u>Note:</u> Be aware of peanut allergies!** If any of your students are allergic to peanut butter, DO
-    NOT ALLOW STUDENTS TO HANDLE THE PEANUT BUTTER! Peanut allergies can be very
-    serious and children can have reactions without even eating it. So be aware and be careful!
 
-3. Ask your students if they have ever followed a recipe before.
+<center><h3>Opening</h3></center>
 
-    100. What kinds of things have they made?
 
-    100. Does anyone know how to make a peanut butter and jelly sandwich?
+<center><h3>Concept Development</h3></center>
 
-    100. Would they teach you how?
 
-    100. Would they give you all the steps to make a sandwich?
+<b><i><span style="font-size: 18px";>Part 1: Collecting Data</span></b></i>
 
-4. Show your students the materials you have for making a sandwich. Have students take out paper
-and pencils and ask each student (or pair of students) to write down their instructions for making
-a peanut butter and jelly sandwich. We can also call these instructions an **algorithm**.
 
-5. Explain to students that precise instructions for any process are like a formula to follow in order to
-get the same results each time. Also, an algorithm is how we communicate with the computer.
-The teacher will function as the computer. Your job is to give him/her rules so that he/she can
-carry out and successfully make a PB&J sandwich.
+<b><i><span style="font-size: 18px";>Part 2: Building the Definition of Data</span></b></i>
 
-6. Every algorithm needs input and produces output. The output here will be a PB&J sandwich.
-What is the input? <span style="color:grey">***Answer: Steps, or actions to follow.***</span>
 
-7. Tell students that when they are done you will select someone to share their instructions and you
-will make a sandwich following the instructions.
+<b><i><span style="font-size: 18px";>Part 3: Introducing the Data Cycle - The 'Consider Data' Phase</span></b></i>
 
-8. Select a student to read their instructions, and do EXACTLY what it says. For example, if it says
-“put the peanut butter on the bread,” you can literally put the jar of peanut butter on the bag of
-bread. There was no instruction to open the bread or the jar of peanut butter, no instruction to use
-the knife in any way, etc. Listen for other examples of unclear instructions and think of how you
-might act them out. If students are not clear about where to spread the peanut butter, put it on the
-crust. The more literal you are by doing exactly what the instructions say, the funnier the activity
-will be and the more likely you are to get your point across about the importance of clear
-instructions.
 
-9. After your first sandwich, ask your students if they think their instructions were clear or not. What
-are some things they might have done differently?
-
-10. Select another student to read his/her instructions. They will be sure to use clarifications of the
-instructions you acted upon before - this is a good thing!
-
-11. After you finish the sandwich, ask your students if they think clear instructions are important.
-Why?
-
-12. Let students know that they will now develop an algorithm for building a histogram to represent
-the sleep dotplots they created in the previous lesson.
-
-13. Explain that a **histogram**, rather than showing the frequency for each value, shows the frequency
-(or percent, but we will focus on frequency) of all the values that fall in a certain range, called a
-**bin**. For example, we might choose bins that go from 0-5, 5-10, 10-15, 15-20, 20-25. ***Bin widths***
-<span style="color:grey">***will vary by class.***</span>
-
-14. Model how to create a histogram using the data from the dotplot “hours of sleep last night”. On a
-blank chart, create the x-axis with bin widths 0-3, 3-6, 6-9, etc. and place marks on the plot at
-those intervals and ask students: “What are the frequencies in each bin?”
-
-    Notice that multiples of three appear in more than one bin. Let’s take the value of 6 hours as an
-    example. Should those observations be included in the second bin (3-6) or the third bin (6-9)?
-
-    * If students include the values of 6 hours in the second bin then they are using the
-        **left-hand rule**.
-
-    * If students include the values of 6 hours in the third bin then they are using the
-        **right-hand rule**.
-
-15. Once the frequencies have been determined, draw the bars with corresponding heights. Do not
-include spaces between the bars as time is a continuous variable.
-
-16. Next, student teams will create an algorithm that gives directions for how to construct a histogram
-for the data from the dotplot for “hours of sleep they hope to get on Saturday.” Remember, an
-algorithm is a set of rules that can always be applied. Similar to the way they wrote a process for
-making a PB&J sandwich, students will write a process for creating a histogram. Tell students to
-continue thinking of the process to transform the data in the dotplot to create a histogram. The
-algorithm will produce an **output**, which will be a histogram. What's the **input**? <span style="color:grey">***Answer: Data, or maybe
-the dotplot.***</span>
-
-17. Inform the students that you will provide a piece of input: how wide the bin will be. For instance, it
-might be 5 hours, it might be 1 hour, or it might be 10 hours (or half an hour!). Whatever it is, their
-algorithm should work for any input value.
-
-18. Let students work for a bit. They should write out Step 1, Step 2, etc. Then choose a group and
-ask them to get you started. Give them a bin width of 4.
-
-19. Teachers should sketch the histogram on the board or chart paper as students read their
-algorithms. Again, teachers should take things very literally. For example, if they do not tell you
-exactly where the bins should start, start one way off to the left. If they are vague and say "divide
-the number line into groups of 10,” then make them arbitrary sizes. If they have to be the same
-size, ask them how to do that. Points to consider:
-
-    100. Where do we start drawing the bins? Always at the location of the smallest dotplot?
-    Always at the greatest? A little to the left?
-
-    100. What do we do with points that fall exactly on a boundary? Do they go to the bin on the
-    left or on the right? Does it matter? <span style="color:grey">***Answer: No, it doesn't matter as long as they're consistent (all in the left or all in the right).***</span>
-
-    100. Can we do it differently every time? <span style="color:grey">***Answer: No. We need to be consistent. This is called
-    either the left-hand rule or the right-hand rule, depending on which is chosen.***</span>
-
-20. After following 2 or 3 algorithms, ask students if they feel their algorithm is precise enough. Allow
-students time to revise their algorithms.
-
-21. Have a class discussion about the similarities and differences between the original dotplot and a
-histogram. Ask:
-
-    100. What have we gained from the histogram? <span style="color:grey">***Answer: We now can see the shape of the
-    distribution as a whole.***</span>
-
-    100. What have we lost? <span style="color:grey">***Answer: We lost each individual observation by grouping them into bins.***</span>
-
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics
-of the day were.
-
-###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students should continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
-campaign on their smart devices or via web browser.
+<center><h3>Closing</h3></center>

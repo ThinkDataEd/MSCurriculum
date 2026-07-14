@@ -1,211 +1,51 @@
-##**<u>Lesson 8: Tangible Plots</u>**
+##**<u>Lesson 1: </u>**
+
 
 ###**Objective:**
-Students will learn how distributions help us organize and visualize data values, and that the shapes of
-the distributions give us information about the variability of the data.
+Students will be introduced to the course and each other by collecting data about themselves and making observations. They will also discover the definition of "data."
+
 
 ###**Materials:**
-1. Computer and projector for Campaign Monitoring
+1. Information Stations ([LMR_U1_L01_A_Information_Stations](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_A.pdf)) - can be hand-drawn or printed using poster paper or other material; placed around classroom
 
-2. Video: *Value of Data Visualization* found at:<br>
-    [https://www.youtube.com/watch?v=xekEXM0Vonc](https://www.youtube.com/watch?v=xekEXM0Vonc "https://www.youtube.com/watch?v=xekEXM0Vonc"){:target="_blank"}
+    ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>*** *See Class Setup section for additional details.*
 
-    <div align="right"><iframe width="420" height="315"
-    src="https://www.youtube.com/embed/xekEXM0Vonc" allowfullscreen>
-    </iframe><br><a href="https://www.youtube.com/embed/xekEXM0Vonc">https://www.youtube.com/embed/xekEXM0Vonc</a></div>
-
-3. Nutrition facts labels or pictures (collected previously by students)
-
-4. *Food Habits Data Collection* handout (from [Lesson 6](lesson6.md), [LMR_U1_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_B.pdf))
-
-5. 3 pieces of tape per student
-
-6. Poster paper
-
-7. Dot stickers or sticky notes
-
-8. *Tangible Plot* handout ([LMR_U1_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf))
+2. Markers, stickers, paint stampers, etc. for recording at each station
 
 ###**Vocabulary:**
-[x-axis](../../vocabulary/unit1/#x-axis "horizontal axis of a coordinate plane"){ .md-button }
-[y-axis](../../vocabulary/unit1/#y-axis "vertical axis of coordinate plane"){ .md-button }
-[visualization](../../vocabulary/unit1/#visualization "a picture of the data"){ .md-button }
-[minimum](../../vocabulary/unit1/#minimum "the smallest value"){ .md-button }
-[maximum](../../vocabulary/unit1/#maximum "the largest value"){ .md-button }
-[frequency](../../vocabulary/unit1/#frequency "the number of times an outcome occurs"){ .md-button }
-[distribution](../../vocabulary/unit1/#distribution "a function or a listing which shows all the possible values"){ .md-button }
-[range](../../vocabulary/unit1/#range "the largest value minus the smallest value"){ .md-button }
-[data points](../../vocabulary/unit1/#data points "a single fact or piece of information"){ .md-button }
-[dotplot](../../vocabulary/unit1/#dotplot "a graphical display of data using dots"){ .md-button }
+[data science](../../vocabulary/unit1/#data-science "the detective work of turning raw information into answers; it blends math, coding, and everyday problem-solving to ask big questions, collect evidence, spot patterns, and tell a story with the findings"){ .md-button }
+[data](../../vocabulary/unit1/#data "information gathered through observation or responses"){ .md-button }
+[datum](../../vocabulary/unit1/#datum "the singular form of &quot;data&quot;"){ .md-button }
+[survey questions](../../vocabulary/unit1/#survey-questions "questions that are used to collect information about people who respond to them"){ .md-button }
+[The Data Cycle](../../vocabulary/unit1/#data-cycle "a process we follow during a statistical investigation, also referred to as The Data Cycle, which consists of four phases - Pose Questions, Consider Data, Analyze Data, Interpret Data"){ .md-button }
+[Consider Data (phase)](../../vocabulary/unit1/#consider-data-phase "the phase of the Data Cycle where data scientists figure out what data is already available, what data is still needed, and what steps should be followed to acquire such data"){ .md-button }
+[primary data](../../vocabulary/unit1/#primary-data "first hand, original information that a researcher collects directly"){ .md-button }
 
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Distributions organize data for us by telling us (a) which values of a variable were
-    observed, and (b) how many times the values were observed (their frequency).
+    Data is information gathered through observation or responses. We can collect data about many different things, including ourselves. Looking at collected data helps us notice patterns, similarities, and differences. Data are all around us and used in many aspects of daily life.
 
-!!! warning "In preparation for this lesson, ensure that:"
-    a) You watch [this video](https://www.youtube.com/embed/EV-uEh_0ogM) on the Campaign Monitoring Tool.
-
-    b) Each day, preview student responses to ensure appropriate inputs. Watch [this video](https://www.youtube.com/embed/RLIOoLhakg8) to learn how to manage student responses.
 
 ###**Lesson:**
 
-1. <u>**Food Habits Campaign Data Collection Monitoring:**</u>
 
-    100. Display the IDS Campaign Monitoring Tool, found at [https://portal.thinkdataed.org](https://portal.thinkdated.org "https://portal.thinkdataed.org"){:target="_blank"}<br>
-    Click on **Campaign Monitor** and sign in.
+<center><h3>Class Setup</h3></center>
 
-    100. Inform students that you will be monitoring their data collection. This is a good
-    opportunity for teachers to remind students that if their data are not shared, they cannot
-    be used in analysis.
 
-        200. See *User List* and sort by *Total*. Ask: Who has collected the most data so far?
+<center><h3>Opening</h3></center>
 
-        200. Click on the pie chart. Ask: How many active users are there? How many inactive
-            users are there?
 
-        200. See *Total Responses*. How many responses have been submitted?
+<center><h3>Concept Development</h3></center>
 
-        200. Using TPS, ask students to think about what can they do to increase their data
-            collection.
 
-2. Inform students that today they will be learning how to visualize their data.
+<b><i><span style="font-size: 18px";>Part 1: Collecting Data</span></b></i>
 
-3. Show the *Value of Data Visualization* video at [https://www.youtube.com/watch?v=xekEXM0Vonc](https://www.youtube.com/watch?v=xekEXM0Vonc "https://www.youtube.com/watch?v=xekEXM0Vonc"){:target="_blank"},
-which describes the importance of graphical representations of data. As they watch the video,
-students should respond to the following in their DS journals:
 
-    100. What is data visualization? <span style="color:grey">***Answer: Data visualization is the graphical representation of data or information***</span>
+<b><i><span style="font-size: 18px";>Part 2: Building the Definition of Data</span></b></i>
 
-    100. List one example of how visualization can be used to increase data comprehension. <span style="color:grey">***Answers will vary. Some examples are graphs, maps, charts, and infographics.***</span>
 
-4. Have a whole class discussion regarding the video’s last statement: “Your message is only as
-good as your ability to share it.” Ask students:
+<b><i><span style="font-size: 18px";>Part 3: Introducing the Data Cycle - The 'Consider Data' Phase</span></b></i>
 
-    100. What does this statement mean? <span style="color:grey">***Answers will vary.***</span>
 
-    100. What makes a good message in terms of data and visualizations? <span style="color:grey">***Answers will vary.***</span>
-
-5. Have students take out their nutrition facts labels or pictures, and also their *Food Habits Data
-Collection* handout (from [Lesson 6](lesson6.md)).
-
-6. On poster paper, make the first quadrant of a coordinate plane. Leave the labels for the **x-axis**
-and **y-axis** blank for now (see step 10 below).
-
-7. Distribute 3 pieces of tape to each student. Make sure they fold each piece of tape to make two
-sticky sides. Have each student tape one sticky side to the back of each label and ask them to
-have the labels ready to tape onto the poster paper.
-
-8. As a class, ask students to select 2 numerical variables and 1 categorical variable from the *Food
-Habits Data Collection* handout whose data they would like to see in a **visualization**, which is a
-picture of the data. For example, students may vote to see a visualization of the following
-numerical variables: calories per serving, total fat per serving; categorical variable: salty_sweet
-
-9. Once students select the variables, inform them that they will be creating a plot with the nutrition
-facts labels for each of the variables they selected.
-
-10. Create a bargraph of the categorical variable chosen by the students. Begin by showing students
-how to clearly label the x-axis with the categories. For instance, if salty_sweet is the variable, ask
-students to identify the categories for that variable. Then mark the y-axis with the label **frequency**,
-which simply means the number of times an outcome occurs. Do not put tick-marks on the y-axis.
-The frequency will be measured by the number of labels plotted.
-
-11. Have students come up and place their nutrition fact label above the category that describes their
-snack. Have students stack their nutrition label so that is easy to calculate the frequency. Once all
-the labels have been placed, create bars with the appropriate height (frequency) for each
-category. Make sure to leave spaces between the bars, and that bars are the same width.
-
-12. Ask students to respond to the following questions in their DS journals:
-
-    100. How many **data points** does this distribution have? Why? <span style="color:grey">***Answers will vary by class.***</span>
-
-    100. What information is this visualization telling us about <u>[insert categorical variable
-    name]</u> in the snacks we consume? <span style="color:grey">***Answers will vary by class.***</span>
-
-13. Use another piece of poster paper to create a distribution for the first numerical variable chosen
-by the students.
-
-14. Create a dotplot of the first numerical variable chosen by the students. Begin by showing students
-how to clearly label the x-axis. For instance, if calories per serving is the variable, ask students for
-the range of values for calories per serving and determine the **minimum** and **maximum** values
-for the dataset. Clearly label the x-axis with adequate intervals and the variable’s name. Then
-mark the y-axis with the label **frequency**, which simply means the number of times a value
-occurs. Do not put tick-marks on the y-axis. The frequency will be measured by the number of
-labels plotted.
-
-15. For each value in the dataset, put a nutrition facts label above that value on the x-axis. When a
-value occurs more than once, stack the nutrition facts labels. For example, if there are three
-nutrition facts labels with 120 calories per serving in the dataset, there will be three nutrition facts
-labels above the 120 mark on the x-axis.
-
-16. Once all the labels have been placed, ask students to observe the **distribution** of the data in the
-dotplot. Ask students to respond to the following questions in their DS journals:
-
-    100. What are the minimum and the maximum values of the dataset? <span style="color:grey">***Answers will vary by
-    class.***</span>
-
-    100. **The range** is the largest value minus the smallest value. It is one way of measuring the
-    variability of a variable. What is the range, and why do you think this measures the
-    variability? <span style="color:grey">***Answers will vary by class. The range measures variability because if
-    the values of the variable are really different, the range will be a big number
-    (because the max and min will be far apart); but if there is little variability, the
-    range will be small. For example, if all of the values were the same, we would have
-    no variability and the range would be 0 because the max and min would be the
-    same number.***</span>
-
-    100. How many **data points** does this distribution have? Why? <span style="color:grey">***Answers will vary by class.***</span>
-
-    100. What is the amount of <u>[insert variable name]</u> that appears most often in a snack? Why?
-    <span style="color:grey">***Answers will vary by class.***</span>
-
-    100. What do you think the phrase *distribution* of the *data set* means? <span style="color:grey">***Answer: It shows us how
-    values are distributed. We learn where there are many values, where there are only
-    a few values, and where there are no values at all.***</span>
-
-    100. What information is this distribution telling us about the <u>[insert variable name]</u> in the
-    snacks we consume? <span style="color:grey">***Answers will vary. We see how the value of [variable name]
-    varies. For example, we can see whether all foods have the same number of
-    calories, or if they differ.***</span>
-
-    100. A distribution tells us two things: the values of the variable and the frequency of the
-    values. "Frequency" is just another way of saying "the count." Why is this dotplot a
-    picture of the distribution of [variable name]? <span style="color:grey">***Answer: Because the location of the labels on the
-    x-axis tells us the values we saw, and the number of labels at that value tells us the
-    frequency for that value.***</span>
-
-17. Review the students’ responses in a class discussion. Ask students to put a check mark next to
-the answers that were validated, and to revise the answers that need to be corrected.
-
-18. Use another piece of poster paper to create a distribution for the second numerical variable
-chosen by the students. Repeat steps 14-16 with this variable.
-
-19. On the first visualization for the numerical variable, show students how to convert the nutrition
-facts labels into something more readable. Draw another horizontal line on the plot above the
-nutrition facts labels. Explain that we can represent each label with an item such as a dot sticker
-or a sticky note.
-
-20. Then, start with the minimum x-value on the plot and place the new sticker above the second
-horizontal axis. Do this for each nutrition facts label in the plot. Once all values have been
-represented, ask the students how this new plot IS or IS NOT better than the original. Explain that
-we can call this type of plot a **dotplot** since we’re using dots to represent each observation.
-
-21. Distribute the *Tangible Plot* handout ([LMR_U1_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf)). Each student should pick one of the 2 numerical
-variables plotted on the poster paper. Then, they should complete part 1 of the *Tangible Plot*
-handout before leaving class. They will complete part 2 of the handout for homework.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf)</div>
-
-22. Ask students to think about the statistical questions they came up with. Can the visualizations
-they created in class help answer their statistical question? If yes, answer the question; if not,
-what visualization would be appropriate?
-
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics
-of the day were.
-
-###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students will complete part 2 of the *Tangible Plot* handout ([LMR_U1_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf)) and bring it to the next class for
-assessment.
-
-Students should continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
-campaign on their smart devices or via web browser.
+<center><h3>Closing</h3></center>

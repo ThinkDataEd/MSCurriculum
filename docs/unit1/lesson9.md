@@ -1,143 +1,51 @@
-##**<u>Lesson 9: What is Typical?</u>**
+##**<u>Lesson 1: </u>**
+
 
 ###**Objective:**
-Students will learn about the typical value when looking at a distribution by finding the “center” and
-determining any point clusters.
+Students will be introduced to the course and each other by collecting data about themselves and making observations. They will also discover the definition of "data."
+
 
 ###**Materials:**
+1. Information Stations ([LMR_U1_L01_A_Information_Stations](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_A.pdf)) - can be hand-drawn or printed using poster paper or other material; placed around classroom
 
-1. Nutrition facts dotplot (from [Lesson 8](lesson8.md))
+    ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>*** *See Class Setup section for additional details.*
 
-2. Poster paper
-
-3. Markers, dot stickers, or sticky notes
+2. Markers, stickers, paint stampers, etc. for recording at each station
 
 ###**Vocabulary:**
-[typical](../../vocabulary/unit1/#typical ""mean" or "average"; expected values"){ .md-button }
-[center](../../vocabulary/unit1/#center "useful for numerical variables, the center of the distribution often corresponds with the notion of 'typical value'"){ .md-button }
-[shape](../../vocabulary/unit1/#shape "the placement of points in a distribution"){ .md-button }
-[spread](../../vocabulary/unit1/#spread "how dense the distribution is at certain values"){ .md-button }
+[data science](../../vocabulary/unit1/#data-science "the detective work of turning raw information into answers; it blends math, coding, and everyday problem-solving to ask big questions, collect evidence, spot patterns, and tell a story with the findings"){ .md-button }
+[data](../../vocabulary/unit1/#data "information gathered through observation or responses"){ .md-button }
+[datum](../../vocabulary/unit1/#datum "the singular form of &quot;data&quot;"){ .md-button }
+[survey questions](../../vocabulary/unit1/#survey-questions "questions that are used to collect information about people who respond to them"){ .md-button }
+[The Data Cycle](../../vocabulary/unit1/#data-cycle "a process we follow during a statistical investigation, also referred to as The Data Cycle, which consists of four phases - Pose Questions, Consider Data, Analyze Data, Interpret Data"){ .md-button }
+[Consider Data (phase)](../../vocabulary/unit1/#consider-data-phase "the phase of the Data Cycle where data scientists figure out what data is already available, what data is still needed, and what steps should be followed to acquire such data"){ .md-button }
+[primary data](../../vocabulary/unit1/#primary-data "first hand, original information that a researcher collects directly"){ .md-button }
 
 ###**Essential Concepts:**
 
-!!! note "Essential Concepts:"
-    The “center” of a distribution is a deliberately vague term, but it is one way to
-    answer the subjective question "what is a typical value?" The center could be the perceived balancing
-    point or the value that approximately cuts the area of the distribution in half.
+!!! note "Essential Concepts: "
+    Data is information gathered through observation or responses. We can collect data about many different things, including ourselves. Looking at collected data helps us notice patterns, similarities, and differences. Data are all around us and used in many aspects of daily life.
 
-!!! warning "Optional - Advanced Preparation Needed:"
-    Watch [this video](https://www.youtube.com/embed/N-CkhD33IxE) to learn how to collect data in real time! You may consider using this tool for steps 12-13 in this lesson.
 
 ###**Lesson:**
-1. **<u>Food Habits Campaign Data Collection Monitoring:</u>**
 
-    100. Display the IDS Campaign Monitoring Tool, found at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}
-    Click on **Campaign Monitor** and sign in.
 
-    100. Inform students that you will be monitoring their data collection again today.
+<center><h3>Class Setup</h3></center>
 
-        200. See *User List* and sort by *Total*. Ask: Who has collected the most data so far?
 
-        200. Click on the pie chart. Ask: How many active users are there? How many inactive
-        users are there?
+<center><h3>Opening</h3></center>
 
-        200. See *Total Responses*. How many responses have been submitted?
-        
-        200. Using TPS, ask students to think about what they can do to increase their data
-        collection.
 
-    100. Encourage students to monitor their own data collection. Show [this video](https://www.youtube.com/embed/Xg9Fl9arETw).
+<center><h3>Concept Development</h3></center>
 
-2. Inform students that today they will be learning about a distribution’s **typical** value.
 
-3. Ask the class to brainstorm characteristics of the "typical" student. Does the typical 12th grader
-differ from the typical 9th grader? How so? <span style="color:grey">***They may say that everyone is different, and that
-there's no typical student. Keep pressing them to identify characteristics that are typical.
-The idea is to get them to recognize that there is variability, and yet we might still have an
-opinion about what is typical. For instance, not all students walk to school, but this might
-still be the typical experience.***</span>
+<b><i><span style="font-size: 18px";>Part 1: Collecting Data</span></b></i>
 
-4. Give students 3 minutes to write down synonyms to the word “typical” in their DS journals. After
-time is up, have the students share their responses and keep a record on the board. <span style="color:grey">***Some
-possible synonyms might be: normal, average, usual, standard, representative, regular,
-ordinary, natural, etc.***</span>
 
-5. Once students share their synonyms, ask students to think about which terms apply best to
-categorical variables and which terms apply best to numerical variables. Ask volunteers to share
-out their thoughts and give a brief explanation of why they categorized the term as either applying
-best to categorical variables or numerical variables. Create a T-chart on the board to keep track
-of their categories. 
+<b><i><span style="font-size: 18px";>Part 2: Building the Definition of Data</span></b></i>
 
-6. Next, display the dotplot created by the class with their nutrition facts labels during the previous
-class (from [Lesson 8](lesson8.md)). Ask: what value might we consider to be the typical value of this
-distribution? <span style="color:grey">***Answers will vary by class. Common answers will be to identify the mode (the
-value with the most labels) or the value in the center. A common wrong answer will be to
-confuse the frequency with the value. For example, they will say the most typical number
-of calories was "3" because, perhaps, 100 calories occurred 3 times, and that was more
-often than any other value. Students may also identify "clumps” of data: "it's somewhere
-between 110 and 120." That's okay, but probe them as to why they chose that chunk and not
-another. The point is to get them to see that chunk as being in the middle or center of the
-distribution.***</span>
 
-    100. Hopefully, at least one student will choose a value close to the center of the distribution. If
-    not, point to a value near the extreme and ask them if they think this is typical. Then
-    move closer to the center until they agree on which values are typical.
+<b><i><span style="font-size: 18px";>Part 3: Introducing the Data Cycle - The 'Consider Data' Phase</span></b></i>
 
-    100. It is ok to be vague in the definition of typical for today’s lesson. The discussion needs to
-    be very teacher-driven. Some possible points of discussion might be:
- 
-        200. Clustering/clumps of data.
 
-        200. Most of the observations are between <u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u> and <u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u>.
-
-        200. Overall range of the data.
-
-7. Ask students to reconsider the typical number of sugar grams. What is the typical amount of
-sugar (in grams) in our snacks? <span style="color:grey">**For example, students may come up with the same answer for different reasons: “The typical amount of sugar grams is 10.” The reasons may include
-the data points are half below and half above; it’s the mode; it has plurality. Then, tie it
-back to the synonyms for "typical" they provided earlier. Ask: Which synonym are you using?**</span>
-
-8. In pairs, ask students to discuss the question:
-
-    100. Which synonyms are associated with “center”? Is this concept of **center** useful for
-    numerical or categorical variables? <span style="color:grey">**Center is useful for numerical variables. The
-    center of the distribution often corresponds to our notion of ‘typical value.’ For
-    example, the typical height of the students in our class might be centered around
-    5’5".**</span>
-
-9. Inform students that the value at the center of the distribution often matches up with our everyday
-notion of the typical value of a distribution. The middle observation is not always the typical value.
-Similarly, the middle person would not always be the center value.
-
-10. Defining the center of a distribution depends on many things, such as the placement of points in
-the distribution (known as the **shape**) and how dense the distribution is at certain values (known
-as the **spread**).
-
-11. Ask the students to write down the number of hours of sleep they got last night. They will be
-creating a dotplot of this data, so ask them:
-
-    100. What do you think the typical value will be?
-
-    100. What do you think the lowest value will be?
-
-    100. What do you think the highest value will be?
-
-    100. What do you think the shape of the distribution will look like?
-
-12. One-by-one, have them come up to the board (or poster paper) and put a dot above the correct
-value on the dotplot. After each student has placed a dot on the board, have a discussion about
-the distribution. Is the typical value similar to what they originally thought? The shape? The
-variability? Why or why not?
-
-13. Next, have the students write down the number of hours of sleep they hope to get this Saturday.
-How do they think this plot will differ from the first plot? Focus discussion on the shape, center,
-and spread of the distributions. Repeat steps 8-9 and discuss how this plot is similar and/or
-different than the first plot.  
-
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics
-of the day were.
-
-###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students should continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
-campaign on their smart devices or via web browser.
+<center><h3>Closing</h3></center>
