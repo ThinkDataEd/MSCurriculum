@@ -1,94 +1,106 @@
-##**<u>Practicum: The Data Cycle & My Food Habits</u>**
+#Progress Check 1: Can You Read the Evidence?
 
-###**Objective:**
-Students will apply what they have learned by engaging in the Data Cycle using the data they
-collected from the *Food Habits* campaign. Students will present their findings to the class.
+##**<u>Progress Check 1: Can You Read the Evidence?</u>**
 
-###**Materials:**
-1. *The Data Cycle Practicum* ([LMR_U1_Practicum_Data_Cycle](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Practicum_Data_Cycle.pdf))
+##<p style="background: #0a4489; color: white; text-align: left; padding: 10px;">**Mission Objective**</p>
 
-2. Poster paper
+To demonstrate mastery of the foundational concepts related to the Consider Data and Pose Questions phases of the Data Cycle. Students should be able to identify data types and organize information with a data table.
 
-3. Markers
+##<p style="background: #0a4489; color: white; text-align: left; padding: 10px;">**Investigative Task 1: Data Structure Analysis**</p>
 
-**<center>Practicum</center>**
+The DSU has been called to the ***Silverwood Wildlife Sanctuary***, where a rare, nocturnal creature has vanished. Below is a portion of the evidence collected on the different habitat zones near the creature's enclosure.
+    <style type="text/css">
+    .tt  {border-collapse:collapse;border-spacing:0;width:80%}
+    .tt td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tt th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tt .tt-y55z{background-color:none;border-color:inherit;vertical-align:top;text-align:left;}
+    .tt .tt-zzzz{background-color: #e59b24;border-color:inherit;vertical-align:top;text-align:left;font-weight:bold;}
+    </style>
+    <table class="tt" style="margin-right: auto; margin-left: auto";>
+    <tr>
+    <th class="tt-zzzz" colspan="6">Evidence File 1.0: Sanctuary Zone Audit</th>
+    </tr>
+    <tr>
+    <td class="tt-y55z">Zone ID</td>
+    <td class="tt-y55z">Habitat Type</td>
+    <td class="tt-y55z">Elevation (meters)</td>
+    <td class="tt-y55z">Nearest Water Source</td>
+    <td class="tt-y55z">Nighttime Temp (Celsius)</td>
+    <td class="tt-y55z">Security Cameras</td>
+    </tr>
+    <tr>
+    <td class="tt-y55z">Z-01</td>
+    <td class="tt-y55z">Swamp</td>
+    <td class="tt-y55z">2</td>
+    <td class="tt-y55z">Stream</td>
+    <td class="tt-y55z">18</td>
+    <td class="tt-y55z">Yes</td>
+    </tr>
+    <tr>
+    <td class="tt-y55z">Z-02</td>
+    <td class="tt-y55z">Grassland</td>
+    <td class="tt-y55z">15</td>
+    <td class="tt-y55z">Pond</td>
+    <td class="tt-y55z">16</td>
+    <td class="tt-y55z">Yes</td>
+    </tr>
+    <tr>
+    <td class="tt-y55z">Z-03</td>
+    <td class="tt-y55z">Forest</td>
+    <td class="tt-y55z">45</td>
+    <td class="tt-y55z">None</td>
+    <td class="tt-y55z">12</td>
+    <td class="tt-y55z">No</td>
+    </tr>
+    <tr>
+    <td class="tt-y55z">Z-04</td>
+    <td class="tt-y55z">Swamp</td>
+    <td class="tt-y55z">1</td>
+    <td class="tt-y55z">Stream</td>
+    <td class="tt-y55z">17</td>
+    <td class="tt-y55z">Yes</td>
+    </tr>
+    <tr>
+    <td class="tt-y55z">Z-05</td>
+    <td class="tt-y55z">Forest</td>
+    <td class="tt-y55z">30</td>
+    <td class="tt-y55z">River</td>
+    <td class="tt-y55z">14</td>
+    <td class="tt-y55z">No</td>
+    </tr>
+    </table>
 
-**<center>The Data Cycle & My Food Habits</center>**
+Answer the following questions based ***only*** on the table above:
 
-###**Instructions:**
-With a partner, you will engage in the Data Cycle to address the Research Topic:
+1. Who or what are the cases (observations) in this data set? How many total cases are there?
 
-**<center>What do our snacking habits reveal about us?</center>**
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Answer: <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
 
-###**Task:**
-1. Create a Data Cycle poster.
+2. Which of the following represents a variable in the table above? Circle one.
 
-2. The poster should illustrate how the Data Cycle is used to address the Research Topic.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Z-03&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pond
 
-3. Use RStudio to create at least one statistical graphic. The graphic MUST be included on the
-poster.
+3. For each variable below, classify it as either Numerical or Categorial:
 
-4. You and your partner will present your findings with appropriate evidence from the data.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elevation (meters): <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nearest Water Source: <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
 
-###**Awards:**
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nighttime Temp (Celsius):<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Habitat Type: <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
 
-Your teacher will select the top posters in the following categories:
+##<p style="background: #0a4489; color: white; text-align: left; padding: 10px;">**Investigative Task 2: Formulating Questions**</p>
 
-* Best Statistical Question
+The next mystery your team will tackle is related to ***Animal Adoption Habits*** at the local shelter. To start the investigation, you need to form strong questions that can be answered using data.
 
-* Most Interesting Statistical Graphic
+1. **Survey Questions**: Write two survey questions you would ask a single family to collect information about their animal adoption preferences.
 
-* Best Illustration of the Data Cycle
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Survey Question 1: <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
 
-###**Scoring Guide:**
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Survey Question 2: <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
 
-Below you will find some parameters to assist you in scoring. They are meant only as a
-guide.
+2. **Statistical Questions**: Write two statistical questions that can be asked based on the data you collected from your survey questions. 
 
-4-point response:
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Using a Categorical Variable] <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Statistical Question 1: <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Using a Numerical Variable] <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Statistical Question 2: <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
 
-* The poster correctly illustrates how the Data Cycle is used to address the big question.
-
-* A histogram, bar chart, scatterplot, or other graphical representation was correctly created.
-
-* An answer and a justification for the answer to the statistical question are presented.
-
-* A justification includes mention of statistics concepts learned thus far. For example, “The
-variables are…” **<u>AND</u>** it includes acknowledgment of variability. For example, “There are between
-<u>&nbsp;&nbsp;&nbsp;&nbsp;</u> and <u>&nbsp;&nbsp;&nbsp;&nbsp;</u>.”
-
-3-point response:
-
-* The poster correctly illustrates how the Data Cycle is used to address the big question.
-
-* A histogram, bar chart, scatterplot, or other graphical representation was correctly created.
-
-* An answer and a justification for the answer to the statistical question are presented.
-
-* A justification includes mention of statistics concepts learned thus far. For example, “The
-variables are…” **<u>OR</u>** it includes acknowledgment of variability. For example, “There are between
-<u>&nbsp;&nbsp;&nbsp;&nbsp;</u> and <u>&nbsp;&nbsp;&nbsp;&nbsp;</u>.”
-
-2-point response:
-
-* The poster partially illustrates how the Data Cycle is used to address the big question.
-
-* A histogram, bar chart, scatterplot, or other graphical representation was created.
-
-* An answer and a justification for the answer to the statistical question are presented.
-
-1-point response:
-
-* The poster incorrectly illustrates how the Data Cycle addresses the big question.
-
-* An answer to the statistical question is presented but a justification is missing.
-
-* A histogram, bar chart, scatterplot, or other graphical representation was correctly created.
-
-0-point response:
-
-* The Data Cycle is missing **<u>OR</u>** does not show how it addresses the big question.
-
-* A histogram, a dot plot, or other graphical representation was incorrectly created OR is missing.
-
-* No answer **<u>AND/OR</u>** no justification for the answer to the statistical question is presented.
