@@ -1,6 +1,6 @@
 # mscurriculum.thinkdataed.org
  
-# Introduction to Data Science Curriculum v_5.0
+# Data Detectives: Middle School Curriculum
 
 ## MkDocs Commands
 
@@ -22,7 +22,6 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 
     mkdocs.yml    # main config file.
     docs/         # source code folder
-	    IDS_Curriculum_v_5.0/     		# pdf files	(for download and preview)
         XX.md     # a page for a lesson.
         ...       # Other markdown pages, images and other files.
     site/         # Generated website folder
@@ -30,11 +29,11 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 	
 ## Steps for manager
 
-* Download and install Visual Studio Code at https://code.visualstudio.com/ also Github Desktop, IDS Tech will do configuration
+* Download and install Visual Studio Code at https://code.visualstudio.com/ also Github Desktop, Tech will do configuration
 
 * Start Github Desktop. 
 
-	1. Switch Current Repository at the top left corner to IDSUCLA/curriculum or curriculum
+	1. Switch Current Repository at the top left corner to ThinkDataEd/mscurriculum or mscurriculum
 	
 	2. Switch Current Branch to master
 	
