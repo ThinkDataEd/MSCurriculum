@@ -1,6 +1,3 @@
-
-
-
 function setCookie20230723(cname, cvalue, exdays) {
   const d = new Date();
   d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
@@ -19,115 +16,73 @@ function getCookie20230723(cname) {
       return c.substring(name.length, c.length);
     }
   }
+  return null;
 }
 
-function additionalCheck() {
-  var xhr = new XMLHttpRequest();
-  var auth_token = getCookie20230723('auth_token') ?? 'NO_AUTH_TOKEN';
-  var payload = {
-    client: 'Curri',
-    auth_token: auth_token,
-  };
-  var url = '/app/user_info/read';
-  var params = Object.keys(payload).map(function (key) {
-    return encodeURIComponent(key) + '=' + encodeURIComponent(payload[key]);
-  }).join('&');
-  xhr.open('POST', url, true);
-  xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
-  xhr.onload = function (e) {
-    if (xhr.readyState === 4) {
-      if (xhr.status === 200) {
-        // console.log(xhr.responseText);
-        var data = JSON.parse(xhr.responseText).data;
-        if (xhr.responseText.includes("success") &&
-          (Object.values(data).some((dat) => dat?.permissions?.can_create_classes || document.location.pathname == '/navbar/curriculum/video/'))
-        ) {
-          document.body.style.display = 'block';
-          console.log("PASSED");
-        } else {
-          document.body.style.display = 'none';
-          window.location.href = window.location.origin + "/";
-        }
-      } else {
-        document.body.style.display = 'none';
-        window.location.href = window.location.origin + "/";
-      }
+const SSO_FUNCTION_URL = "https://validatecurriculumsso-bmqqputbza-uc.a.run.app";
+const VERIFIED_COOKIE = "msportal_verified";
+
+function showLoginModal() {
+  Swal.fire({
+    icon: 'info',
+    title: 'Login Required.',
+    iconHtml: '<img style="width: 100px;height: 100px;" src="//mscurriculum.thinkdataed.org/img/MSDS-logo.png">',
+    showConfirmButton: true,
+    confirmButtonText: 'Teachers: Login now (Portal)',
+    reverseButtons: true,
+    footer: 'Questions? Contact IDS Support at support@thinkdataed.org',
+    allowOutsideClick: false,
+    allowEscapeKey: false,
+    showLoaderOnConfirm: true,
+    showLoaderOnDeny: true,
+  }).then((result) => {
+    if (result.isConfirmed) {
+      var url = "https://msportal.thinkdataed.org/curriculum/open";
+      document.location = url;
+    } else if (result.dismiss === Swal.DismissReason.cancel) {
+      var url = "https://thinkdataed.org/ids-request";
+      document.location = url;
     }
-  };
-  xhr.onerror = function (e) {
-    console.error(xhr.statusText);
-    document.body.style.display = 'none';
-    window.location.href = window.location.origin + "/";
-  };
-  xhr.send(params);
+  });
 }
 
-if (window.location == window.top.location) {
-  const queryString = window.location.search;
-  const urlParams = new URLSearchParams(queryString);
-  const bypass = urlParams.get('bypass');
-  if (bypass == 'true') {
-    setCookie20230723('bypass', 'true', 365);
-  }
-}
-
-if(document.location.pathname.endsWith('/applications/')==false){
-if (window.location == window.top.location) {
-  //   document.getElementById("demo").innerHTML="";
-  //   document.getElementById("demo").style.visibility='hidden';
-  if (getCookie20230723('bypass') != 'true') {
-    Swal.fire({
-      icon: 'info',
-      title: 'Login Required.',
-      iconHtml: '<img style="width: 100px;height: 100px;" src="//mscurriculum.thinkdataed.org/img/MSDS-logo.png">',
-//      showCancelButton: true,
-//      cancelButtonText: 'Visitors: Request Access',
-      showConfirmButton: true,
-      confirmButtonText: 'Teachers: Login now (Portal)',
-      reverseButtons: true,
-      footer: 'Questions? Contact IDS Support at support@thinkdataed.org',
-      allowOutsideClick: false,
-      allowEscapeKey: false,
-      showLoaderOnConfirm: true,
-      showLoaderOnDeny: true,
-    }).then((result) => {
-      if (result.isConfirmed) {
-        console.log('confirmed');
-        var url = "https://msportal.thinkdataed.org/#mscurriculum/";
-        document.location = url;
-      } else if (result.dismiss === Swal.DismissReason.cancel) {
-        console.log('cancelled');
-        var url = "https://thinkdataed.org/ids-request";
-        document.location = url;
+function verifySsoToken(token) {
+  fetch(SSO_FUNCTION_URL, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ token: token }),
+  })
+    .then((response) => response.json())
+    .then((data) => {
+      if (data.valid) {
+        setCookie20230723(VERIFIED_COOKIE, "true", 1);
+        const cleanUrl = window.location.origin + window.location.pathname;
+        window.history.replaceState({}, document.title, cleanUrl);
+      } else {
+        showLoginModal();
       }
+    })
+    .catch((err) => {
+      console.error("Error verifying SSO token", err);
+      showLoginModal();
     });
-  }
-} else {
-  //   document.getElementById("demo").innerHTML="https://mscurriculum.thinkdataed.org";
-  var xhr = new XMLHttpRequest();
-  xhr.open("GET", window.location.origin + "/app/user/whoami?client=Curri", true);
-  xhr.onload = function (e) {
-    if (xhr.readyState === 4) {
-      if (xhr.status === 200) {
-        // console.log(xhr.responseText);
-        if (xhr.responseText.includes("success")) {
-          // document.body.style.display = 'none';
-          additionalCheck();
-        } else {
-          document.body.style.display = 'none';
-          window.location.href = window.location.origin + "/#login";
-        }
-      } else {
-        document.body.style.display = 'none';
-        window.location.href = window.location.origin + "/#login";
-      }
+}
+
+if (window.location == window.top.location) {
+  if (document.location.pathname.endsWith('/applications/') == false) {
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const ssoToken = urlParams.get('ssoToken');
+
+    if (ssoToken) {
+      verifySsoToken(ssoToken);
+    } else if (getCookie20230723(VERIFIED_COOKIE) != 'true') {
+      showLoginModal();
     }
-  };
-  xhr.onerror = function (e) {
-    console.error(xhr.statusText);
-    document.body.style.display = 'none';
-    window.location.href = window.location.origin + "/#login";
-  };
-  xhr.send(null);
+  }
 }
-}
+
+document.addEventListener('DOMContentLoaded', function () {
+  var searchDialog = document.querySelector('.md-search');
+  if (searchDialog) { searchDialog.setAttribute('aria-label', 'Search'); }
+});
