@@ -39,7 +39,6 @@ extra_css:
 nav:
     - Home: index.md
     - Table of Contents: table.md
-    - Overview & Philosophy: overview.md
     - Scope and Sequence: scope.md
     - Unit1:
         - Table of Contents: unit1/overview.md
@@ -157,7 +156,7 @@ nav:
     
     - How to..Video:  video.md
 
-    - Applications: applications.md    
+    - References: references.md    
 
     - Extra Datasets: data.md    
    
