@@ -11,7 +11,7 @@ Students will be introduced to the course and each other by collecting data abou
 
 2. Markers, stickers, paint stampers, etc. for recording at each station
 
-3. [Where is Data?](https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link "https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link"){:target="_blank"} video clip [see usage permission in [References](https://docs.google.com/document/d/1zMZbVDjNYTdb4GwBcM6lPiBs0LTtX6DTik9_s8-xhHY/edit?tab=t.0#heading=h.qvj647kvjh87 "https://docs.google.com/document/d/1zMZbVDjNYTdb4GwBcM6lPiBs0LTtX6DTik9_s8-xhHY/edit?tab=t.0#heading=h.qvj647kvjh87"){:target="_blank"}]
+3. [Where is Data?](https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link "https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link"){:target="_blank"} video clip [see usage permission in [References](../references.md)]
 
     <div align="right"><iframe width="420" height="315"
     src="https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link" title="Where is Data? video" allowfullscreen>
