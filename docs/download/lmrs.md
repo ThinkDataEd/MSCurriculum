@@ -2,7 +2,7 @@
 
 ##**Data Detectives Middle School Curriculum LMRs Unit 1**	
 
-[LMR_U1_L01_A_Information_Stations.pdf](../MSDS_Curriculum/2_MSDS_LMRs/SDS_LMR_Unit_1/LMR_U1_L01_A.pdf)
+[LMR_U1_L01_A_Information_Stations.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_A.pdf)
 
 [LMR_U1_L01_B_The_Data_Cycle.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf)
 
@@ -68,3 +68,4 @@
 
 [LMR_U1_L17_A_Clue8_CODAP_Analysis.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L17_A.pdf)
 
+[U1_Candy_Culprit_Suspects.csv](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/U1_Candy_Culprit_Suspects.csv)
