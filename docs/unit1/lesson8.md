@@ -14,10 +14,7 @@ Students will be able to identify the appropriate plot types (bar graphs, pictog
 
     ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>*** *See Class Setup section for additional details.*
 
-4. Plot Walk handout
-    100. **Color Option**: ([LMR_U1_L08_B_Plot_Walk_COLOR](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_B.pdf))
-
-    100. **Greyscale Option**: ([LMR_U1_L08_C_Plot_Walk_GREYSCALE](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_C.pdf))
+4. Plot Walk handout ([LMR_U1_L08_B_Plot_Walk](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_B.pdf))
 
 ###**Vocabulary:**
 [bar graph](../../vocabulary/unit1/#bar-grappf "a type of visualization that places cases into different categories"){ .md-button }
@@ -117,11 +114,9 @@ Students will be able to identify the appropriate plot types (bar graphs, pictog
 
     100. Challenge: Record the official name of the plot if they know it.
 
-7. Randomly assign students to 5 different teams of roughly equal size and distribute the Plot Walk handout ([LMR_U1_L08_B_COLOR](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_B.pdf) OR [LMR_U1_L08_C_GREYSCALE](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_C.pdf)) to each student (3 pages – 2 stations per page). 
+7. Randomly assign students to 5 different teams of roughly equal size and distribute the Plot Walk handout ([LMR_U1_L08_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_B.pdf)) to each student (3 pages – 2 stations per page). 
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L08_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_B.pdf)</div>
-
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L08_C](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_C.pdf)</div>
 
 8. Instruct students to fill out the questions in the “With your team:” section of each table. They will fill out the “With your teacher:” section during the whole class discussion after. Two word banks are provided at the top of each page to help guide the activity. 
 
