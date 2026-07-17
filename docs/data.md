@@ -18,3 +18,5 @@ CODAP datasets
 <td class="tt-yj5z"><a href="https://codap.concord.org/app/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2FTtznsLR5Tw98ENyde2PN%2Ffile.json">Open data in CODAP</a></td>
 </tr>
 </table>
+
+[Download data as CSV](../docs/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/U1_Candy_Culprit_Suspects.csv)
