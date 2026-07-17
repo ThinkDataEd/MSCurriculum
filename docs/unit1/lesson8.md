@@ -68,7 +68,6 @@ Students will be able to identify the appropriate plot types (bar graphs, pictog
     For students who are unfamiliar or uncomfortable with plots, consider displaying the name of the plot type on each poster. If additional support is needed, consider adding a small card with a one-sentence definition or key feature of each type of graph (ex. “A histogram groups numbers into bins or intervals.”)</th>
   </tr>
 </table>
-<br>
 
 <center><h3>Opening</h3></center>
 
