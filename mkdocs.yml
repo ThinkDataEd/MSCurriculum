@@ -38,8 +38,6 @@ extra_css:
 
 nav:
     - Home: index.md
-    - Table of Contents: table.md
-    - Scope and Sequence: scope.md
     - Unit1:
         - Table of Contents: unit1/overview.md
         - 'Section 1': 
@@ -73,7 +71,7 @@ nav:
     #- Unit2:
         #- Daily Overview: unit2/overview.md
         #- 'Section 1': 
-            #- 'What is Your True Color?':    unit2/section1.md
+            #- 'Section Name':    unit2/section1.md
             #- 'Lesson 1: What is Your True Color?' : unit2/lesson1.md
             #- 'Lesson 2: What Does Mean Mean?' : unit2/lesson2.md
             #- 'Lesson 3: Median in the Middle' : unit2/lesson3.md
@@ -104,14 +102,7 @@ nav:
             #- 'Lesson 15: Tangible Data Merging' : unit2/lesson15.md
             #- 'Lab 2G - Getting It Together' : unit2/lab2g.md
             #- 'Practicum: What Stresses Us?' : unit2/practicum3.md
-        #- 'Section 4':  
-            #- 'What’s Normal?':    unit2/section4.md  
-            #- 'Lesson 16: What Is Normal?' : unit2/lesson16.md
-            #- 'Lesson 17: A Normal Measure of Spread' : unit2/lesson17.md
-            #- 'Lesson 18: What’s Your Z-Score?' : unit2/lesson18.md
-            #- 'Lab 2H - Eyeballing Normal' : unit2/lab2h.md
-            #- 'Lab 2I - R’s Normal Distribution Alphabet' : unit2/lab2i.md
-            #- 'End of Unit 2 Project: Comparing Groups Using Our Own Data' : unit2/end.md
+
     #- Unit3:
         #- 'Daily Overview' : unit3/overview.md
         #- 'Section 1': 
@@ -149,18 +140,12 @@ nav:
     - PDF: 
        #- 'IDS_Curriculum' : download/curriculum.md
         - 'MSDS_LMRs' : download/lmrs.md
-        #- 'MSDS_Lab Response Sheets' : download/labs.md
-        #- 'MSDS_Teacher Resources' : download/resources.md
-    
-    #- AppDownloads: download/app.md
-    
-    - How to..Video:  video.md
-
-    - References: references.md    
-
+        
     - CODAP Datasets: data.md    
    
-    - Updates: updates.md
+    - References: references.md 
+
+    - Instructional Strategies: instruct_strat.md
 
 google_analytics: ['UA-149684808-1', 'curriculum.thinkdataed.org']
 
