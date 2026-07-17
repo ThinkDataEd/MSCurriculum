@@ -50,7 +50,7 @@
 
 [LMR_U1_L12_A_Histogram_Shape_Cards.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L12_A.pdf)
 
-[LMR_U1_L12_B_DIGITAL_Histogram_Shape_Cards.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L12_B.pdf)
+[LMR_U1_L12_B_DIGITAL_Histogram_Shape_Cards.pdf](https://canva.link/ytjc6pycxdtogcg "https://canva.link/ytjc6pycxdtogcg"){:target="_blank"}
 
 [LMR_U1_L12_C_Distribution_Shapes_Reference_Sheet.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L12_C.pdf)
 
