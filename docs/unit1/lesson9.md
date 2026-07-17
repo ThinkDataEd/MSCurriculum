@@ -1,4 +1,4 @@
-##**<u>Lesson 1: </u>**
+##**<u>Lesson 9: Placing Categorical Evidence Behind Bars </u>**
 
 
 ###**Objective:**
