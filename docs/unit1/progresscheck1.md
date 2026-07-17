@@ -2,11 +2,11 @@
 
 ##**<u>Progress Check 1: Can You Read the Evidence?</u>**
 
-##<p style="background: #0a4489; color: white; text-align: left; padding: 10px;">**Mission Objective**</p>
+##<p style="background: #00869b; color: white; text-align: left; padding: 10px;">**Mission Objective**</p>
 
 To demonstrate mastery of the foundational concepts related to the Consider Data and Pose Questions phases of the Data Cycle. Students should be able to identify data types and organize information with a data table.
 
-##<p style="background: #0a4489; color: white; text-align: left; padding: 10px;">**Investigative Task 1: Data Structure Analysis**</p>
+##<p style="background: #00869b; color: white; text-align: left; padding: 10px;">**Investigative Task 1: Data Structure Analysis**</p>
 
 The DSU has been called to the ***Silverwood Wildlife Sanctuary***, where a rare, nocturnal creature has vanished. Below is a portion of the evidence collected on the different habitat zones near the creature's enclosure.
     <style type="text/css">
@@ -14,7 +14,7 @@ The DSU has been called to the ***Silverwood Wildlife Sanctuary***, where a rare
     .tt td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
     .tt th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
     .tt .tt-y55z{background-color:none;border-color:inherit;vertical-align:top;text-align:left;}
-    .tt .tt-zzzz{background-color: #e59b24;border-color:inherit;vertical-align:top;text-align:left;font-weight:bold;}
+    .tt .tt-zzzz{background-color: #e59b24;color:white;border-color:black;vertical-align:top;text-align:left;font-weight:bold;}
     </style>
     <table class="tt" style="margin-right: auto; margin-left: auto";>
     <tr>
@@ -72,7 +72,7 @@ The DSU has been called to the ***Silverwood Wildlife Sanctuary***, where a rare
 
 Answer the following questions based ***only*** on the table above:
 
-1. Who or what are the cases (observations) in this data set? How many total cases are there?
+1. Who or what are the cases (observations) in this dataset? How many total cases are there?
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Answer: <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
 
@@ -86,7 +86,7 @@ Answer the following questions based ***only*** on the table above:
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nighttime Temp (Celsius):<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Habitat Type: <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
 
-##<p style="background: #0a4489; color: white; text-align: left; padding: 10px;">**Investigative Task 2: Formulating Questions**</p>
+##<p style="background: #00869b; color: white; text-align: left; padding: 10px;">**Investigative Task 2: Formulating Questions**</p>
 
 The next mystery your team will tackle is related to ***Animal Adoption Habits*** at the local shelter. To start the investigation, you need to form strong questions that can be answered using data.
 
