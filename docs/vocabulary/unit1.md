@@ -43,6 +43,10 @@
 !!! note ""
     the length of each interval that defines a bin
 
+### boxplot
+!!! note ""
+    a visualization that divides numerical values into 4 segments (quarters or fourths)
+
 ### case
 
 !!! note ""
