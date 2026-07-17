@@ -1,232 +1,70 @@
-#IDS_LMRs
+#MSDS_LMRs
 
-##**IDS_LMR_Unit 1_v_7.1**	
+##**Data Detectives Middle School Curriculum LMRs Unit 1**	
 
-[LMR_U1_L1.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L1.pdf)
+[LMR_U1_L01_A_Information_Stations.pdf](../MSDS_Curriculum/2_MSDS_LMRs/SDS_LMR_Unit_1/LMR_U1_L01_A.pdf)
 
-[LMR_U1_L2.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf)
+[LMR_U1_L01_B_The_Data_Cycle.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf)
 
-[LMR_U1_L4_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_A.pdf)
+[LMR_U1_L02_A_Candy_Culprit_Clues.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_A.pdf)
 
-[LMR_U1_L4_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_B.pdf)
+[LMR_U1_L02_B_Locker_Inventory_List.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_B.pdf)
 
-[LMR_U1_L4_C.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf)
+[LMR_U1_L02_C_Detective_Field_Notes.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_C.pdf)
 
-[LMR_U1_L5.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L5.pdf)
+[LMR_U1_L02_D_Evidence_Locker_Photo.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_D.pdf)
 
-[LMR_U1_L6_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_A.pdf)
+[LMR_U1_L01_E_T-Chart_Comparing_Representations.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_E.pdf)
 
-[LMR_U1_L6_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_B.pdf)
+[LMR_U1_L03_A_Suspect_Data_Cards_FULL.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L03_A.pdf)
 
-[LMR_U1_L8.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf)
+[LMR_U1_L03_B_Suspect_Data_Cards_NAMES_PHOTOS.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L03_B.pdf)
 
-[LMR_U1_L11.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L11.pdf)
+[LMR_U1_L03_C_Suspect_Data_Cards_PHOTOS.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L03_C.pdf)
 
-[LMR_U1_L12_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L12_A.pdf)
+[LMR_U1_L03_D_DIGITAL_Suspect_Data_Cards_FULL.pdf](https://canva.link/0igwvovn65h3985 "https://canva.link/0igwvovn65h3985"){:target="_blank"} 
 
-[LMR_U1_L12_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L12_B.pdf)
+[LMR_U1_L03_E_DIGITAL_Suspect_Data_Cards_NAMES_PHOTOS.pdf](https://canva.link/2a8p5yd7pnopy52 "https://canva.link/2a8p5yd7pnopy52"){:target="_blank"}
 
-[LMR_U1_L14_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L14_A.pdf)
+[LMR_U1_L03_F_DIGITAL_Suspect_Data_Cards_PHOTOS.pdf](https://canva.link/5o2b1l7hpde0dv6 "https://canva.link/5o2b1l7hpde0dv6"){:target="_blank"}
 
-[LMR_U1_L14_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L14_B.pdf)
+[LMR_U1_L05_A_Data_Table_Template.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L05_A.pdf)
 
-[LMR_U1_L14_C.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L14_C.pdf)
+[LMR_U1_L05_B_Suspect_Tracker.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L05_B.pdf)
 
-[LMR_U1_L14_D.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L14_D.pdf)
+[LMR_U1_L07_A_Statistical_Questions_Peer_Review.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L07_A.pdf)
 
-[LMR_U1_L14_E.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L14_E.pdf)
+[LMR_U1_L08_A_Plot_Stations.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_A.pdf)
 
-[LMR_U1_L17_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf)
+[LMR_U1_L08_B_Plot_Walk.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_B.pdf)
 
-[LMR_U1_L17_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf)
+[LMR_U1_L09_A_Suspect_Candy_Pairs.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L09_A.pdf)
 
-[LMR_U1_Campaign_Food_Habits.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Campaign_Food_Habits.pdf)
+[LMR_U1_L09_B_Clue3_CODAP_Analysis.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L09_B.pdf)
 
-[LMR_U1_Campaign_Time_Use.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Campaign_Time_Use.pdf)
+[LMR_U1_L10_A_Clue4_CODAP_Analysis.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L10_A.pdf)
 
-[LMR_U1_End_of_Unit_Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_End_of_Unit_Project.pdf)
+[LMR_U1_L11_A_Mystery_Image_Challenge.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L11_A.pdf)
 
-[LMR_U1_Practicum_Data_Cycle.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Practicum_Data_Cycle.pdf)
+[LMR_U1_L11_B_Clue5_CODAP_Analysis.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L11_B.pdf)
 
-[LMR_U1_Practicum_Depression.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Practicum_Depression.pdf)
+[LMR_U1_L12_A_Histogram_Shape_Cards.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L12_A.pdf)
 
-[LMR_U1_Practicum_NIMH_Sheet.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Practicum_NIMH_Sheet.pdf)
+[LMR_U1_L12_B_DIGITAL_Histogram_Shape_Cards.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L12_B.pdf)
 
+[LMR_U1_L12_C_Distribution_Shapes_Reference_Sheet.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L12_C.pdf)
 
+[LMR_U1_L13_A_Data_Cycle_Entrance_Ticket.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L13_A.pdf)
 
-##**IDS_LMR_Unit 2_v_7.1**		
+[LMR_U1_L13_B_Clue6_CODAP_Analysis.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L13_B.pdf)
 
-[LMR_U2_L1.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)
+[LMR_U1_L14_A_Clue7_CODAP_Analysis.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L14_A.pdf)
 
-[LMR_U2_L2_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf)
+[LMR_U1_L15_A_Carnival_Cards.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L15_A.pdf)
 
-[LMR_U2_L2_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf)
+[LMR_U1_L16_A_Five-Number_Summary_Labels.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L16_A.pdf)
 
-[LMR_U2_L2_C.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_C.pdf)
+[LMR_U1_L16_B_Building Boxplots.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L16_B.pdf)
 
-[LMR_U2_L3_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L3_A.pdf)
-
-[LMR_U2_L3_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L3_B.pdf)
-
-[LMR_U2_L4.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L4.pdf)
-
-[LMR_U2_L5.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L5.pdf)
-
-[LMR_U2_L6_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_A.pdf)
-
-[LMR_U2_L6_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_B.pdf)
-
-[LMR_U2_L6_C.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_C.pdf)
-
-[LMR_U2_L7_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L7_A.pdf)
-
-[LMR_U2_L7_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L7_B.pdf)
-
-[LMR_U2_L11.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf)
-
-[LMR_U2_L15.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L15.pdf)
-
-[LMR_U2_L16.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L16.pdf)
-
-[LMR_U2_L17.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L17.pdf)
-
-[LMR_Titanic_Strips.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic_Strips.pdf)
-
-[LMR_U2_Campaign_StressChill.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Campaign_StressChill.pdf)
-
-[LMR_U2_End_of_Unit_Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_End_of_Unit_Project.pdf)
-
-[LMR_U2_Practicum_The_Summaries.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_The_Summaries.pdf)
-
-[LMR_U2_Practicum_What_Stresses_Us.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_What_Stresses_Us.pdf)
-
-[LMR_U2_Practicum_Win_Win_Win.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_Win_Win_Win.pdf)
-
-
-
-##**IDS_LMR_Unit 3_v_7.1**		
-
-[LMR_Miracle_Cafe.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_Miracle_Cafe.pdf)
-
-[LMR_Trophy_Hunting_Conservation.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_Trophy_Hunting_Conservation.pdf)
-
-[LMR_U3_L4.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L4.pdf)
-
-[LMR_U3_L6.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L6.pdf)
-
-[LMR_U3_L7.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L7.pdf)
-
-[LMR_U3_L9.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L9.pdf)
-
-[LMR_U3_L10_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L10_A.pdf)
-
-[LMR_U3_L10_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L10_B.pdf)
-
-[LMR_U3_L11_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_A.pdf)
-
-[LMR_U3_L11_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_B.pdf)
-
-[LMR_U3_L11_C.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_C.pdf)
-
-[LMR_U3_L11_D.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_D.pdf)
-
-[LMR_U3_L12_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L12_A.pdf)
-
-[LMR_U3_L12_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L12_B.pdf)
-
-[LMR_U3_L13.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L13.pdf)
-
-[LMR_U3_L16.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L16.pdf)
-
-[LMR_U3_L17_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L17_A.pdf)
-
-[LMR_U3_L17_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L17_B.pdf)
-
-[LMR_U3_L20_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_A.pdf)
-
-[LMR_U3_L20_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_B.pdf)
-
-[LMR_U3_L20_C.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_C.pdf)
-
-[LMR_U3_L21.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L21.pdf)
-
-[LMR_U3_L22_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L22_A.pdf)
-
-[LMR_U3_L22_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L22_B.pdf)
-
-[LMR_U3_End_of_Unit_Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_End_of_Unit_Project.pdf)
-
-[LMR_U3_Practicum_TB_or_Not_TB.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_TB_or_Not_TB.pdf)
-
-[tb.csv](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/tb.csv)
-
-[LMR_U3_Practicum_TB_or_Not_TB_SampleSolution.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_TB_or_Not_TB_SampleSolution.pdf)
-
-[LMR_U3_Practicum_Build_a_Survey.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Build_a_Survey.pdf)
-
-[LMR_U3_Practicum_Music_to_My_Ears.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Music_to_My_Ears.pdf)
-
-
-
-##**IDS_LMR_Unit 4_v_7.1**	
-
-[LMR_U4_L1_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_A.pdf)
-
-[LMR_U4_L1_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_B.pdf)
-
-[LMR_U4_L1_C.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_C.pdf)
-
-[LMR_U4_L2.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L2.pdf)
-
-[LMR_U4_L5.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L5.pdf)
-
-[LMR_U4_L6.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L6.pdf)
-
-[LMR_U4_L7_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_A.pdf)
-
-[LMR_U4_L7_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_B.pdf)
-
-[LMR_U4_L8.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L8.pdf)
-
-[LMR_U4_L9.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L9.pdf)
-
-[LMR_U4_L10.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L10.pdf)
-
-[LMR_U4_L11_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L11_A.pdf)
-
-[LMR_U4_L11_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L11_B.pdf)
-
-[LMR_U4_L12_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L12_A.pdf)
-
-[LMR_U4_L12_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L12_B.pdf)
-
-[LMR_U4_L13.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L13.pdf)
-
-[LMR_U4_L14_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_A.pdf)
-
-[LMR_U4_L14_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_B.pdf)
-
-[LMR_U4_L16_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_A.pdf)
-
-[LMR_U4_L16_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_B.pdf)
-
-[LMR_U4_L16_C.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_C.pdf)
-
-[LMR_U4_L16_D.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_D.pdf)
-
-[LMR_U4_L17.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L17.pdf)
-
-[LMR_U4_L18.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L18.pdf)
-
-[LMR_U4_L19_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L19_A.pdf)
-
-[LMR_U4_L19_B (.R file download)](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L19_B.R)
-
-[LMR_U4_End_of_Unit_Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_End_of_Unit_Project.pdf)
-
-[LMR_U4_Practicum_Predictions.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_Practicum_Predictions.pdf)
-
-
-
-
+[LMR_U1_L17_A_Clue8_CODAP_Analysis.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L17_A.pdf)
 
