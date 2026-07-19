@@ -1104,7 +1104,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../unit1/assess1.md" class="md-nav__link">
+      <a href="../unit1/assess1/" class="md-nav__link">
         
   
   
@@ -1325,28 +1325,21 @@
 
               
             
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-      
-      
+              
+                
   
   
   
   
     <li class="md-nav__item">
-      <a href="../data/" class="md-nav__link">
+      <a href="../download/dataFiles/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
     
   
-    CODAP Datasets
+    MSDS_Data_Files
   
 
     
@@ -1355,6 +1348,14 @@
   
 
       </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
     </li>
   
 
@@ -1450,135 +1451,7 @@
 
 <p>If you have any questions, please contact us at <a href="mailto:support@thinkdataed.org">support@thinkdataed.org</a></p>
 <p>Introduction to Data Science, <a href="https://www.thinkdataed.org" target="_blank">https://www.thinkdataed.org</a></p>
-<p>This website was last updated on July 31, 2025.</p>
-<p>Changes that have been made to version 7.2</p>
-<p><strong>All Units</strong></p>
-<ul>
-<li>
-<p>Simplified wording for statistical questions</p>
-<ul>
-<li>survey questions are not statistical questions</li>
-<li>"investigative" has been removed from "statistical investigative questions" (other than in the labs)</li>
-</ul>
-</li>
-<li>
-<p>Pre- and Post-implementation Activities (Find details for these activities in the Documents Tool on Portal with file name "Addendum_IDS_Survey_LOCUS")</p>
-<ul>
-<li>New Assessment: LOCUS (Levels of Conceptual Understanding in Statistics)</li>
-<li>Start/pre-assessment–administered before any IDS instruction has occurred</li>
-<li>End/post-assessment–administered after the end of IDS instruction</li>
-</ul>
-</li>
-</ul>
-<hr />
-<p>Changes that have been made to version 7.1</p>
-<p><strong>All Units</strong></p>
-<ul>
-<li>
-<p>New campaign: IDS Survey</p>
-<ul>
-<li>Pre: To be done once before instruction of IDS lessons...</li>
-<li>Post: ...and once more after instruction of IDS lessons ends for the course</li>
-</ul>
-</li>
-<li>
-<p>All labs now have numbered questions</p>
-<ul>
-<li>Some blue questions have been changed to red</li>
-<li>This allows easier recognition for LaiLA</li>
-</ul>
-</li>
-<li>
-<p>All LRSs have been updated to reflect the new lab question numbering</p>
-</li>
-<li>All lab solutions have been updated to reflect the new lab question numbering</li>
-</ul>
-<p><strong>Unit 3</strong></p>
-<ul>
-<li>TB or Not TB is now a Practicum in Section 1 rather than an End of Unit Project</li>
-<li>Music to my Ears Practicum has been removed</li>
-<li>What Does Our Campaign Data Say? is now the End of Unit Project in Section 5 rather than a Practicum</li>
-</ul>
-<hr />
-<p>Changes that have been made to version 7.0</p>
-<p><strong>All Units</strong></p>
-<ul>
-<li>Naming convention of LMRs have been updated to match Unit and Lesson (example: LMR_1.1_Data Diary is now LMR_U1_L1)</li>
-<li>All preloaded datasets have been updated to reflect original variable names (example: <code>cdc</code> gender variable is sex variable in original documentation)</li>
-<li><code>cdc</code>, <code>atus</code>, and <code>futbol</code> datasets have been updated to more recent data</li>
-<li>There is an anonymized dataset available for the Stress/ Chill (unformatted) Campaign. It can be accessed by running the following code:<pre><code>extra_data('stresschill_ids')
-
-#If you'd like to merge this dataset with your class, follow these steps:
-#Create a subset stresschill_class of your class data without the variables 
-# of latitude and longitude
-#This assumes your class set is named p6_stress
-
-stresschill_class &lt;- subset(p6_stress, select = -c(latitude, longitude))
-
-#bring in stresschill_ids dataset from IDS archive
-extra_data('stresschill_ids')
-
-#row bind the 2 datasets together
-stresschill_full&lt;- rbind(stresschill_class, stresschill_ids)
-</code></pre>
-</li>
-</ul>
-<p><strong>Unit 1</strong></p>
-<ul>
-<li>Lesson 5: Oscar winners data has been updated</li>
-<li>Lesson 14: LMR_U1_L14_B and LMR_U1_L14_D use sex variable instead of gender</li>
-<li>Practicum: The Summaries: Third example uses sex variable instead of gender</li>
-</ul>
-<p><strong>Unit 2</strong></p>
-<ul>
-<li>Lesson 9: Changed "biased" to "unfair"</li>
-<li>Lesson 17: Changed household size to household activities (<code>atus</code> variable change)</li>
-</ul>
-<p><strong>Unit 3</strong></p>
-<ul>
-<li>Lesson 8: Updated spurious correlations images/examples due to update in spurious correlations website</li>
-<li>Lesson 21: Lesson now compares HTML code to XML code (via website viewer), LMR has been udpated to reflect changes in lesson</li>
-<li>Lesson 22: Lesson now goes through how to convert XML code to data table in RStudio, LMR has been updated to reflect changes in lesson</li>
-</ul>
-<hr />
-<p>Changes that have been made to version 6.0</p>
-<p><strong>All Units</strong></p>
-<ul>
-<li>Labs now also have text which direct students to complete tasks within the RStudio/Posit interface in <span style="color:midnightblue;"><strong>blue</strong></span> font</li>
-<li>GPS no longer reports precise location</li>
-<li>There are anonymized datasets available for the Food Habits, Personality Colors, and Time Use (unformatted) Campaigns. They can be accessed by running the following code:<pre><code>extra_data('food_ids')
-extra_data('color_ids')
-extra_data('timeuse_ids')
-</code></pre>
-</li>
-</ul>
-<p><strong>Unit 1</strong></p>
-<ul>
-<li>Food Habits and Time Use campaign questions, in the campaign guidelines, have been modified for clarity</li>
-<li>Lesson 1: LMR_1.1 changed "Facebook" to "TikTok"</li>
-<li>Lesson 14: updated LMR_1.16 with new data/color palette</li>
-<li>Lesson 17: updated plots and cleaned up formatting on LMR_118</li>
-<li>Lab 1B has more clarification on options/arguments</li>
-<li>Labs 1C and 1F now have embedded videos to help guide students</li>
-<li>Lab 1D has more explanation about filtering and the assignment operator</li>
-</ul>
-<p><strong>Unit 2</strong></p>
-<ul>
-<li>Stress/Chill campaign questions have been modified for clarity (and picture question has been removed)</li>
-</ul>
-<p><strong>Unit 3</strong> </p>
-<p><strong>Unit 4</strong></p>
-<ul>
-<li>Section 1 is now Campaigns and Community where we set the stage for the End of Unit Project (also updated)</li>
-<li>Section 2 has been rehauled to improve the flow for the lessons on linear regression</li>
-<li>Section 2 also caps off with non-linear models with Lesson 13: Improving your Model (previously Lesson 14)</li>
-<li>Section 3 is now Piecing it Together with only the two lessons on multivariable regression</li>
-<li>The lessons in Section 4 have been slightly rearranged - part of Lesson 17 was moved to Lesson 16 for better building of concepts.</li>
-<li>Lesson 18: the LMR was modified for clarity. We also added instructions for the k-means clustering app.</li>
-<li>The End of Unit Project is student choice around a community issue</li>
-<li>Unit 4 Assessments have been updated (access through the Documents tool on Portal) - link to lungs data and solutions.</li>
-<li>Lab 4D lab solutions, MSE for 2nd variable changed to use y-variable, <code>critics_rating</code>, in residual calculation/code</li>
-</ul>
+<p>This website was last updated on July 19, 2026.</p>
 
 
 
