@@ -72,65 +72,65 @@ nav:
         #- Daily Overview: unit2/overview.md
         #- 'Section 1': 
             #- 'Section Name':    unit2/section1.md
-            #- 'Lesson 1: What is Your True Color?' : unit2/lesson1.md
-            #- 'Lesson 2: What Does Mean Mean?' : unit2/lesson2.md
-            #- 'Lesson 3: Median in the Middle' : unit2/lesson3.md
-            #- 'Lesson 4: How Far is it from Typical?' : unit2/lesson4.md
-            #- 'Lab 2A - All About Distributions' : unit2/lab2a.md
-            #- 'Lesson 5: Human Boxplots' : unit2/lesson5.md
-            #- 'Lesson 6: Face Off' : unit2/lesson6.md
-            #- 'Lesson 7: Plot Match' : unit2/lesson7.md
-            #- 'Lab 2B - Oh the Summaries ...' : unit2/lab2b.md
-            #- 'Practicum: The Summaries' : unit2/practicum1.md
+            #- 'Lesson 1: Compair-a-Chutes' : unit2/lesson1.md
+            #- 'Lesson 2: Construct-a-Chute' : unit2/lesson2.md
+            #- 'Lesson 3: Compare-a-Chutes' : unit2/lesson3.md
+            #- 'Lesson 4: The Board Meeting' : unit2/lesson4.md
+            #- 'Progress Check 1: ' : unit2/progresscheck1.md
         #- 'Section 2': 
-            #- 'How Likely is it?':    unit2/section2.md
-            #- 'Lesson 8: How Likely Is It?' : unit2/lesson8.md
-            #- 'Lesson 9: Dice Detective' : unit2/lesson9.md
-            #- 'Lesson 10: Marbles, Marbles…' : unit2/lesson10.md
-            #- 'Lab 2C - Which Song Plays Next?' : unit2/lab2c.md
-            #- 'Lesson 11: This AND/OR That' : unit2/lesson11.md
-            #- 'Lab 2D - Queue It Up!' : unit2/lab2d.md
-            #- 'Practicum: Win, Win, Win' : unit2/practicum2.md
+            #- 'Section Name':    unit2/section2.md
+            #- 'Lesson 5: Reaching Higher' : unit2/lesson5.md
+            #- 'Lesson 6: Two Measurements One Story' : unit2/lesson6.md
+            #- 'Lesson 7: Describing Patterns in Scatterplots' : unit2/lesson7.md
+            #- 'Lesson 8: Warning Signs' : unit2/lesson8.md
+            #- 'Lesson 9: The Point of No Return' : unit2/lesson9.md
+            #- 'Lesson 10: Off the Charts' : unit2/lesson10.md
+            #- 'Progress Check 2: ' : unit2/progresscheck2.md
        # - 'Section 3':
-           # - 'What Are the Chances That You Are Stressing or Chilling?':    unit2/section3.md  
-            #- 'Lesson 12: Don’t Take My Stress Away!' : unit2/lesson12.md
-            #- 'Campaign Guidelines – Stress/Chill' : unit2/campaign1.md
-            #- 'Lesson 13: The Horror Movie Shuffle' : unit2/lesson13.md
-            #- 'Lab 2E - The Horror Movie Shuffle' : unit2/lab2e.md
-            #- 'Lesson 14: The Titanic Shuffle' : unit2/lesson14.md
-            #- 'Lab 2F - The Titanic Shuffle' : unit2/lab2f.md
-            #- 'Lesson 15: Tangible Data Merging' : unit2/lesson15.md
-            #- 'Lab 2G - Getting It Together' : unit2/lab2g.md
-            #- 'Practicum: What Stresses Us?' : unit2/practicum3.md
+           # - 'Section Name':    unit2/section3.md  
+            #- 'Lesson 11: The Average Bear' : unit2/lesson11.md
+            #- 'Lesson 12: Just the Facts' : unit2/lesson12.md
+            #- 'Lesson 13: Fact Check' : unit2/lesson13.md
+            #- 'Lesson 14: How Are the Categories Spread Out?' : unit2/lesson14.md
+            #- 'Lesson 15: Two Variables at Once' : unit2/lesson15.md
+            #- 'Lesson 16: Percents Tell the Story' : unit2/lesson16.md
+            #- 'Lesson 17: From Hand to Tool' : unit2/lesson17.md
+            #- 'Lesson 18: Does the Data Tell a Story?' : unit2/lesson18.md
+            #- 'Progress Check 3: ' : unit2/progresscheck3.md
+            #- 'Additional Assessment:' : unit2/assess1.md
+            #- 'Unit 2 Final Mission' : unit2/end.md
 
     #- Unit3:
         #- 'Daily Overview' : unit3/overview.md
         #- 'Section 1': 
-            #- 'Testing, Testing…1, 2, 3…' : unit3/section1.md
-            #- 'Lesson 1: Anecdotes vs. Data' : unit3/lesson1.md
-            #- 'Lesson 2: What Is an Experiment?' : unit3/lesson2.md
-            #- 'Lesson 3: Let’s Try an Experiment!' : unit3/lesson3.md
-            #- 'Lesson 4: Predictions, Predictions' : unit3/lesson4.md
-            #- 'Lesson 5: Time Perception Experiment' : unit3/lesson5.md
-            #- 'Lab 3A: The Results Are In!' : unit3/lab3a.md
-            #- 'Practicum: TB or Not TB' : unit3/practicum1.md  
+            #- 'Section Name' : unit3/section1.md
+            #- 'Lesson 1: ' : unit3/lesson1.md
+            #- 'Lesson 2: ' : unit3/lesson2.md
+            #- 'Lesson 3: ' : unit3/lesson3.md
+            #- 'Lesson 4: ' : unit3/lesson4.md
+            #- 'Lesson 5: ' : unit3/lesson5.md
+            #- 'Progress Check 1:' : unit3/progresscheck1.md  
         #- 'Section 2': 
-            #- 'Would You Look at That?' : unit3/section2.md
-            #- 'Lesson 6: Observational Studies' : unit3/lesson6.md
-            #- 'Lesson 7: Observational Studies vs. Experiments' : unit3/lesson7.md
-            #- 'Lesson 8: Monsters That Hide in Observational Studies' : unit3/lesson8.md
-            #- 'Lab 3B: Confound It All!' : unit3/lab3b.md
+            #- 'Section Name' : unit3/section2.md
+            #- 'Lesson 6: ' : unit3/lesson6.md
+            #- 'Lesson 7: ' : unit3/lesson7.md
+            #- 'Lesson 8: ' : unit3/lesson8.md
+            #- 'Lesson 9: ' : unit3/lesson9.md
+            #- 'Lesson 10: ' : unit3/lesson10.md
+            #- 'Lesson 11: ' : unit3/lesson11.md
+            #- 'Lesson 12: ' : unit3/lesson12.md
+            #- 'Progress Check 2:' : unit3/progresscheck2.md
         #- 'Section 3': 
-            #- 'Are You Asking Me?' : unit3/section3.md
-            #- 'Lesson 9: Survey Says…' : unit3/lesson9.md
-            #- 'Lesson 10: We’re So Random' : unit3/lesson10.md
-            #- 'Lesson 11: The Gettysburg Address' : unit3/lesson11.md
-            #- 'Lab 3C: Random Sampling' : unit3/lab3c.md
-            #- 'Lesson 12: Bias in Survey Sampling' : unit3/lesson12.md
-            #- 'Lesson 13: The Confidence Game' : unit3/lesson13.md
-            #- 'Lesson 14: How Confident Are You?' : unit3/lesson14.md
-            #- 'Lab 3D: Are You Sure about That?' : unit3/lab3d.md
-            #- 'Practicum: Let’s Build a Survey!' : unit3/practicum2.md  
+            #- 'Section Name' : unit3/section3.md
+            #- 'Lesson 13: ' : unit3/lesson13.md
+            #- 'Lesson 14: ' : unit3/lesson14.md
+            #- 'Lesson 15: ' : unit3/lesson15.md
+            #- 'Lesson 16: ' : unit3/lesson16.md
+            #- 'Lesson 17: ' : unit3/lesson17.md
+            #- 'Lesson 18:' : unit3/lesson18.md
+            #- 'Progress Check 3:' : unit3/progresscheck3.md
+            #- 'Additional Assessment:' : unit3/assess1.md
+            #- 'Unit 3 Final Mission' : unit3/end.md
 
     - Vocabulary: 
         - 'Unit 1 Vocabulary' : vocabulary/unit1.md
@@ -140,9 +140,8 @@ nav:
     - PDF: 
        #- 'IDS_Curriculum' : download/curriculum.md
         - 'MSDS_LMRs' : download/lmrs.md
-        
-    - CODAP Datasets: data.md    
-   
+        - 'MSDS_Data_Files' : download/dataFiles.md
+           
     - References: references.md 
 
     - Instructional Strategies: instruct_strat.md
