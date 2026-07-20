@@ -45,7 +45,7 @@ Students will be able to identify the appropriate plot types (bar graphs, pictog
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❏  Station 4: Histogram - GPA<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❏  Station 5: Boxplot - Age<br>
 
-    - For your convenience, the plots have been provided in the Plot Stations handou ([LMR_U1_L08_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_A.pdf)). They can be used as a template for creating by hand or can be printed directly on large poster paper.
+    - For your convenience, the plots have been provided in the Plot Stations handout ([LMR_U1_L08_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_A.pdf)). They can be used as a template for creating by hand or can be printed directly on large poster paper.
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L08_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L08_A.pdf)</div>
 
