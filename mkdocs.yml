@@ -140,7 +140,7 @@ nav:
     - PDF: 
        #- 'IDS_Curriculum' : download/curriculum.md
         - 'MSDS_LMRs' : download/lmrs.md
-        - 'MSDS_Data_Files' : download/dataFiles.md
+        - 'MSDS_Datasets' : download/datasets.md
            
     - References: references.md 
 
