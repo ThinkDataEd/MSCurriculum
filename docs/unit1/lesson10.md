@@ -85,11 +85,101 @@ Students will be able to construct and analyze dot plots of numerical data. They
 
     <b><i><span style="font-size: 18px";>Part 2: Transitioning to CODAP - Using Our Digital Toolkit for Dot Plots</span></b></i>
 
+6. Now that our detectives have recorded a dot plot by hand on paper, tell students that we will be transitioning to our digital toolkit, CODAP, to see how easily it can plot numerical data.
 
-<b><i><span style="font-size: 18px";>Part 3: Introducing the Data Cycle - The 'Consider Data' Phase</span></b></i>
+7. Lead students through guided instructions in CODAP to create a dot plot for the “`GPA`” variable.
 
+    100. Instruct students to open their saved CODAP files of the Suspect data OR provide them with the link to the original [CODAP Suspect Data File](https://codap.concord.org/app/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2FTtznsLR5Tw98ENyde2PN%2Ffile.json "https://codap.concord.org/app/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2FTtznsLR5Tw98ENyde2PN%2Ffile.json"){:target="_blank"}.
 
-<center><h3>Closing</h3></center>
+    100. Next, click on the “Graph” icon and instruct students to drag the `GPA` attribute to the x-axis. Ask students to describe what happened. *Answer: CODAP created a dot plot by default for numerical data.*
+
+        <center><img src="../../img/u1_l10_07b.png" style="width:20vw;height:auto;" alt="CODAP graph of GPA"/></center>
+
+8. Introduce the terms **minimum** and **maximum**. Ask students to share some ideas about what these terms mean. Then explain that the **minimum** is the lowest value in a set of data, and the **maximum** is the highest value.
+
+9. Have students analyze the data in the dot plot by considering the following questions:
+
+    100. What values of `GPA` have the most number of suspects above them? *Sample answer: The value with the most points above it is 4.0. In general, most of the suspects have GPAs that fall between 3.4 and 4.0.*
+
+    100. Are there any GPAs that are not represented by a dot? In other words, are there any gaps in the plot? *Sample answer: Yes, there are a lot of values that do not have dots above them*.*
+
+    100. What is the lowest GPA? *Answer: 2.5.*
+
+    100. What is the highest GPA? *Answer: 4.0.*
+
+    <b><i><span style="font-size: 18px";>Part 3: Using CODAP to Examine a New Clue</span></b></i>
+
+10. Introduce the FOURTH CLUE of the Candy Culprit investigation. All of the clues can be found in the Candy Culprit Clues document ([LMR_U1_L02_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_A.pdf)).
+
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L02_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_A.pdf)</div>
+
+11. Distribute the Clue 4 CODAP Analysis handout ([LMR_U1_L10_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L10_A.pdf)), and instruct students to complete all steps to determine which suspects they can eliminate from our list.
+
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L10_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L10_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L10_A.pdf)</div>
+    
+    <style type="text/css">
+    .ta  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border-style:dotted;}
+    .ta td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .ta th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .ta .ta-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
+    .ta .ta-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
+    </style>
+    <table class="ta" style="width:75%;margin:0 auto;">
+    <tr>
+    <th class="ta-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/>
+    </th>
+    <th class="ta-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br>
+    <i>Partner Support for Diverse Learners</i></b><br> 
+    Have students work in pairs. One student can be the “driver” (controlling the mouse) and the other can be the “navigator” (reading the steps). They can switch roles halfway through.</th>
+    </tr>
+    </table>
+
+12. Circulate around the room to provide guidance and support as students work in CODAP. 
+
+    100. During Step 2, students will likely need guidance to adjust the graph window so the dots align vertically. Below is an example of how CODAP automatically places the dots when the minimum and maximum values are far apart, as well as a more appropriate display for their analysis.
+
+        <center><img src="../../img/u1_l10_12a.png" style="width:50vw;height:auto;" alt="adjust graph window"/></center>
+        
+        <style type="text/css">
+        .ta  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border-style:dotted;}
+        .ta td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+        .ta th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+        .ta .ta-88im{font-weight:inherit;border-color:inherit;text-align:center;vertical-align:center;padding:10px 10px;border-style:none;}
+        .ta .ta-88nc{font-weight:inherit;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px; border-style:none;}
+        </style>
+        <table class="ta" style="width:75%;margin:0 auto;">
+        <tr>
+        <th class="ta-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/>
+        </th>
+        <th class="ta-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br>
+        <i>Supplemental CODAP Discussion</i></b><br> 
+        Pose the following questions to students: <ul>
+        <li>What do you notice about the placement of the dots? How is it similar or different to our hours of sleep dot plot? <i>Sample answer: The dots are not lined up in a straight line at each x-value. Instead, they are staggered, so it is not easy to see the exact `Age` values.</i> </li>
+        <li>Can we somehow change the graph so taht the dots for specific values line up vertically? <i>Sample answer: Yes! We can expand the graphing window of our dot plot in CODAP. Drag the lower right corner of the window horizontally so it has more space along the x-axis.</i></li></ul></th>
+        </tr>
+        </table>
+
+13. Once all students have completed their analysis, engage in a whole class discussion about the results.
+
+    100. Which variable did you choose to analyze? *Answer: “Age”.* 
+
+    100. What type of variable is “Age”? *Answer: Numerical.*
+
+    100. What is an appropriate plot for that type of variable? *Answer: Boxplot, Dot Plot, or Histogram.*
+
+    100. How many suspects are the youngest age? *Answer: 4 suspects.*
+
+    100. Who are the youngest suspects? *Answer: Drew Drizzle, Jina Jabbar, Quinn Quibble, and Yvonne Yodel. We already eliminated Yvonne Yodel as a suspect while analyzing Clue #3, so now we have even more evidence that she is not the Candy Culprit.*
+
+    100. How many suspects are the oldest age? *Answer: 1 suspect.*
+
+    100. Who are the oldest suspects? *Answer: Anita Dayhoff. We can eliminate her as a suspect. We know that she is definitely NOT the Candy Culprit.*
+
+14. Have students take out their Candy Culprit Suspect Tracker ([LMR_U1_L05_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L05_B.pdf)) sheet so they can cross off the newly eliminated suspects. An example of the updated suspect tracker is provided below. 
+
+    <center><img src="../../img/u1_l10_14.png" style="width:35vw;height:auto;" alt="eliminated suspects"/></center>
+
+    <center><h3>Closing</h3></center>
 
 15. Exit Ticket: Students should submit a slip of paper that correctly identifies the maximum and minimum values from the following dataset: **18, 25, 8, 13, 13, 2, 15, 24, 5, 10, 51, 5, 17, 23, 10**. Teachers are welcome to come up with their own set of values if they prefer.
 
