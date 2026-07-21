@@ -2,11 +2,11 @@
 
 ##**<u>Progress Check 1: Can You Read the Evidence?</u>**
 
-##<p style="background: #00869b; color: white; text-align: left; padding: 10px;">**Mission Objective**</p>
+##<p style="background: #00869b; color: white; text-align: left; padding: 10px; font-weight: bold;">**Mission Objective**</p>
 
 To demonstrate mastery of the foundational concepts related to the Consider Data and Pose Questions phases of the Data Cycle. Students should be able to identify data types and organize information with a data table.
 
-##<p style="background: #00869b; color: white; text-align: left; padding: 10px;">**Investigative Task 1: Data Structure Analysis**</p>
+##<p style="background: #00869b; color: white; text-align: left; padding: 10px; font-weight: bold;">**Investigative Task 1: Data Structure Analysis**</p>
 
 The DSU has been called to the ***Silverwood Wildlife Sanctuary***, where a rare, nocturnal creature has vanished. Below is a portion of the evidence collected on the different habitat zones near the creature's enclosure.
     <style type="text/css">
@@ -86,7 +86,7 @@ Answer the following questions based ***only*** on the table above:
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nighttime Temp (Celsius):<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Habitat Type: <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
 
-##<p style="background: #00869b; color: white; text-align: left; padding: 10px;">**Investigative Task 2: Formulating Questions**</p>
+##<p style="background: #00869b; color: white; text-align: left; padding: 10px; font-weight: bold;">**Investigative Task 2: Formulating Questions**</p>
 
 The next mystery your team will tackle is related to ***Animal Adoption Habits*** at the local shelter. To start the investigation, you need to form strong questions that can be answered using data.
 
