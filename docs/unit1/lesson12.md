@@ -176,31 +176,31 @@ Students will be able to identify and describe common shapes of numerical distri
         100. Likely Shape Cards that match this shape type: **C, J, L, M**
 
         100. *Example Names: bell, hill, bump, even, mountain, middle, pyramid, bridge*
-        <center><img src="../../img/lmr_u1_l12_08a.png" style="width:40vw;height:auto;" alt="symmetric shape histogram"/></center>
+        <center><img src="../../img/u1_l12_08a.png" style="width:25vw;height:auto;" alt="symmetric shape histogram"/></center>
 
     100. Distribution Shape 2: [tallest bars on the left side, shortest bars on the right side]
         100. Likely Shape Cards that match this shape type: **A, F, H, S**
 
         100. *Example Names: to negative infinity and beyond, downstairs, slide to the right, downhill rollercoaster*
-        <center><img src="../../img/lmr_u1_l12_08b.png" style="width:40vw;height:auto;" alt="skewed right shape histogram"/></center>
+        <center><img src="../../img/u1_l12_08b.png" style="width:25vw;height:auto;" alt="skewed right shape histogram"/></center>
 
     100. Distribution Shape 3: [tallest bars on the right side, shortest bars on the left side]
         100. Likely Shape Cards that match this shape type: **B, D, E, R**
 
         100. *Example Names: to infinity and beyond, upstairs, slide to the left, uphill rollercoaster, “started from the bottom, now we’re here”*
-        <center><img src="../../img/lmr_u1_l12_08c.png" style="width:40vw;height:auto;" alt="skewed left shape histogram"/></center>
+        <center><img src="../../img/u1_l12_08c.png" style="width:25vw;height:auto;" alt="skewed left shape histogram"/></center>
 
     100. Distribution Shape 4: [all bars are about the same height]
         100. Likely Shape Cards that match this shape type: **I, O, Q, T**
 
         100. *Example Names: rectangle, flat top, plateau, car battery, Lego brick*
-        <center><img src="../../img/lmr_u1_l12_08d.png" style="width:40vw;height:auto;" alt="uniform shape histogram"/></center>
+        <center><img src="../../img/u1_l12_08d.png" style="width:25vw;height:auto;" alt="uniform shape histogram"/></center>
 
     100. Distribution Shape 5: [there are 2 distinct locations for the tallest bars]
         100. Likely Shape Cards that match this shape type: **G, K, N, P**
 
         100. *Example Names: two hills, camel humps, rock on, banana split, quiet coyote/silent fox*
-        <center><img src="../../img/lmr_u1_l12_08e.png" style="width:40vw;height:auto;" alt="bimodal shape histogram"/></center>
+        <center><img src="../../img/u1_l12_08e.png" style="width:25vw;height:auto;" alt="bimodal shape histogram"/></center>
 
 9. Lead a class discussion that addresses the following questions:
 
@@ -286,11 +286,11 @@ Students will be able to identify and describe common shapes of numerical distri
     <b><i><span style="font-size: 18px";>Part 4: Connecting Back to the Case</span></b></i>
 
 14. Display the dot plot students should have created during the previous lesson related to `LibraryBooks`, and ask them to analyze and name the shape of the distribution based on what they learned today. *Sample answers: The distribution is skewed right. There are only a lot of people who do not read many books, but much fewer people who read more than 15 books, so there is a tail in the right side of the histogram.*
-    <center><img src="../../img/lmr_u1_l12_14.png" style="width:40vw;height:auto;" alt="LibraryBooks histogram"/></center>
+    <center><img src="../../img/u1_l12_14.png" style="width:35vw;height:auto;" alt="LibraryBooks histogram"/></center>
 
     <center><h3>Closing</h3></center>
 
 15. Quick Shape Check: Briefly display one histogram (not from the Shape Cards) and ask the class to call out which statistical shape it most closely resembles. Repeat with 2 to 3 examples. 3 example histograms have been provided here:
 
-    <center><img src="../../img/lmr_u1_l12_15.png" style="width:40vw;height:auto;" alt="three example histograms"/></center>
+    <center><img src="../../img/u1_l12_15.png" style="width:55vw;height:auto;" alt="three example histograms"/></center>
 
