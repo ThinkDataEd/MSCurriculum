@@ -11,7 +11,7 @@
 </style>
 <table class="tg" style="width:95%;margin:0 auto;">
     <tr>
-    <th class="tg-88im" style="width:15%;"><img src="../../img/Group_Roles_green.png"/></th>
+    <th class="tg-88im" style="width:10%;"><img src="../../img/Group_Roles_green.png"/></th>
     <th class="tg-88nc" style="width:65%;"><b>GROUP ROLES:<br><i>The Evidence Collector</i></b><br> <ul>
     <li>This student is responsible for carefully reading the inventory list or the detective's notes aloud to the group. They ensure all items and details are heard and confirmed by the team. They also double-check the evidence to make sure no crucial information is missed during the discussion</li></ul>
     <b><i>The Lead Investigator</i></b><br> <ul>
@@ -35,7 +35,7 @@
 </style>
 <table class="ts" style="width:95%;margin:0 auto;">
     <tr>
-    <th class="ts-88im" style="width:15%;"><img src="../../img/Strategy_yellow.png"/></th>
+    <th class="ts-88im" style="width:10%;"><img src="../../img/Strategy_yellow.png"/></th>
     <th class="ts-88nc" style="width:65%;"><b>STRATEGY:<br>
     <i>5W1H Method (also known as the Kipling Method)</i></b><br> 
     The 5W1H Method is a questioning approach and problem-solving method that helps students determine the background information of a problem.<br>
@@ -53,7 +53,7 @@
 </style>
 <table class="ts" style="width:95%;margin:0 auto;">
     <tr>
-    <th class="ts-88im" style="width:15%;"><img src="../../img/Strategy_yellow.png"/></th>
+    <th class="ts-88im" style="width:10%;"><img src="../../img/Strategy_yellow.png"/></th>
     <th class="ts-88nc" style="width:65%;"><b>STRATEGY:<br><i>Fishbowl</i></b><br> 
     A small group of students (the “fish”) sits in an inner circle and engages in a focused discussion on a specific topic. The rest of the class sits in an outer circle (the “observers” or “aquarium”) and listens silently, taking notes on the inner group’s conversation. Occasionally, the teacher may allow an empty chair in the inner circle, allowing an outer circle member to temporarily join the discussion before returning to the outer circle. The strategy encourages deep listening and focused discussion by a few, while allowing the many to observe and analyze the dialogue.</th>
     </tr>
@@ -69,7 +69,7 @@
 </style>
 <table class="ts" style="width:95%;margin:0 auto;">
     <tr>
-    <th class="ts-88im" style="width:15%;"><img src="../../img/Strategy_yellow.png"/></th>
+    <th class="ts-88im" style="width:10%;"><img src="../../img/Strategy_yellow.png"/></th>
     <th class="ts-88nc" style="width:65%;"><b>STRATEGY:<br>
     <i>Gallery Walk</i></b><br>
     Students walk around the classroom, as if in an art gallery, to look at different “stations” or “exhibits.” It promotes movement, collaboration, and a diversity of ideas. At each station, students work individually or in small groups to discuss, respond to, or analyze the content. They write their thoughts and reflections on sticky notes. After a set amount of time, the groups rotate to the next station.</th>
@@ -86,7 +86,7 @@
 </style>
 <table class="ts" style="width:95%;margin:0 auto;">
     <tr>
-    <th class="ts-88im" style="width:15%;"><img src="../../img/Strategy_yellow.png"/></th>
+    <th class="ts-88im" style="width:10%;"><img src="../../img/Strategy_yellow.png"/></th>
     <th class="ts-88nc" style="width:65%;"><b>STRATEGY:<br>
     <i>Parallel Tasks</i></b> <ul>
     <li><i>Design the Task</i>: Create two versions of a task that target the same mathematical concept but differ in complexity or dataset size. In general, both tasks should require students to perform the same calculation (ex. Mean, MAD, etc.)</li>
@@ -109,7 +109,7 @@
 </style>
 <table class="ts" style="width:95%;margin:0 auto;">
     <tr>
-    <th class="ts-88im" style="width:15%;"><img src="../../img/Strategy_yellow.png"/></th>
+    <th class="ts-88im" style="width:10%;"><img src="../../img/Strategy_yellow.png"/></th>
     <th class="ts-88nc" style="width:65%;"><b>STRATEGY:<br>
     <i>Pencils in the Middle</i></b> <ul>
     <li><i>Set the problem</i>: The teacher presents a problem or question for students to discuss.</li>
@@ -130,7 +130,7 @@
 </style>
 <table class="ts" style="width:95%;margin:0 auto;">
     <tr>
-    <th class="ts-88im" style="width:15%;"><img src="../../img/Strategy_yellow.png"/></th>
+    <th class="ts-88im" style="width:10%;"><img src="../../img/Strategy_yellow.png"/></th>
     <th class="ts-88nc" style="width:65%;"><b>STRATEGY:<br>
     <i>Quickwrite</i></b><br> 
     A short and informal timed writing activity to quickly capture student thoughts.</div></th>
@@ -147,7 +147,7 @@
 </style>
 <table class="ts" style="width:95%;margin:0 auto;">
     <tr>
-    <th class="ts-88im" style="width:15%;"><img src="../../img/Strategy_yellow.png"/></th>
+    <th class="ts-88im" style="width:10%;"><img src="../../img/Strategy_yellow.png"/></th>
     <th class="ts-88nc" style="width:65%;"><b>STRATEGY:<br>
     <i>Randomly Assigning Students to Groups</i></b><br> 
     Prepare card groups prior to class.As students come into class, have them draw a card at random. Once class begins, they must find the other students that match their card’s theme. Students can stay in this grouping arrangement for the day, week, or activity. <br>
@@ -175,7 +175,7 @@
 </style>
 <table class="ts" style="width:95%;margin:0 auto;">
     <tr>
-    <th class="ts-88im" style="width:15%;"><img src="../../img/Strategy_yellow.png"/></th>
+    <th class="ts-88im" style="width:10%;"><img src="../../img/Strategy_yellow.png"/></th>
     <th class="ts-88nc" style="width:65%;"><b>STRATEGY:<br>
     <i>Think-Ink-Pair-Share (TIPS)</i></b><br> <ul>
     <li><i>Think</i>: Students individually think about and process a question.</li>
