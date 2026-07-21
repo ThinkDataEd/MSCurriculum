@@ -32,6 +32,10 @@ Students will be introduced to the course and each other by collecting data abou
 
 <center><h3>Class Setup</h3></center>
 
+- ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>***
+
+     - Prior to class starting, draw a horizontal number line from 0 to 15 on the board. Include the prompt: “How many hours of sleep did you get last night? Round to the nearest whole number.”
+     
 
 <center><h3>Opening</h3></center>
 
