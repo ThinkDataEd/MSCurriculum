@@ -1,64 +1,86 @@
-#Unit 1, Section 3: Would You Look at the Time! 
-Instructional Days: 9
+#Unit 1, Section 3: Wrapping Up the Case 
 
-##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>
-Data are useful for evaluating claims and reports. Summaries of categorical and numerical data show
-important features and patterns in the data. Data summaries provide evidence to make claims.
+**<h1>Section 3: Wrapping Up the Case</h1>**
 
-##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
-The Bureau of Labor Statistics (BLS) collects data about daily time-use of Americans. Students will explore an interactive graphic titled *How Men and Women Spend Their Days* created by Nathan Yau, that uses data from the American Time Use Survey, to spark their curiosity about how they spend their own time. This graphic can be found at: [http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0](http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0 "http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0"){:target="_blank"}
+##<p style="background: #00869b; color: white; text-align: left; padding: 10px;">**Overarching Themes**</p>
 
-##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
+This section...
 
-<ins>*Statistical/Mathematical:*</ins> 
+##<p style="background: #00869b; color: white; text-align: left; padding: 10px;">**Daily Overview**</p>
 
-S-ID 5: Summarize categorical data for two categories in two-way frequency tables. Interpret relative
-frequencies in the context of data (including joint, marginal, and conditional relative frequencies).
-Recognize possible associations and trends in the data.
-
-S-IC 6: Evaluate reports based on data.
-
-*<u>Data Science:</u>*
-
-Understand that data are collected and stored in particular formats. Before data can be analyzed, it must
-be cleaned so it can be read.
-
-*<u>Applied Computational Thinking Using RStudio:</u>*
-
-• Create tabular displays of categorical data and summaries of numerical data.
-
-• Create two-way frequency (and relative frequency) tables.
-
-• Use RStudio to calculate joint, marginal, and conditional relative frequencies.
-
-• Subset data frames and create new categorical variables from numerical variables.
-
-• Clean and polish data to make it readable.
-
-*<u>Real-World Connections:</u>*
-
-Make claims that are based on data and begin to evaluate reports that make claims based on data.
-
-##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-
-1. Students will describe associations between categorical variables.
-
-2. Students will connect their time use activities with that of Americans.
-
-3. Students will read informative texts to evaluate claims based on data.
-
-##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
-
-*<u>Data Files:</u>*
-
-1. Students’ *Time-Use* campaign data
-
-2. American Time-Use Survey (ATUS): ```data(atus)```
-
-*<u>Data Collection Method:</u>*
-
-**Time-Use Participatory Campaign:** Students will monitor the amount of time they devote to activities
-such as sleeping, studying, eating, and partaking in media.
-
-##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
-![legend](../img/legend.png)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-88nc{font-weight:inherit;font-style:italic;border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px}
+.tg .tg-yj5y{font-weight: bold; border-color:inherit;text-align:left;vertical-align:top;padding:10px 10px;font-size:13px}
+.tg .tg-7btt{font-weight:bold;border-color:black;background-color:#e59b24;color:white;text-align:left;vertical-align:top; padding:10px 10px;font-size:15px}
+.tg .tg-y698{border-color:inherit;text-align:left;vertical-align:top;padding:5px;font-size:13px}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-7btt" syle="width: 24%;">Lesson Title</th>
+    <th class="tg-7btt" style="width: 21%;">Vocabulary</th>
+    <th class="tg-7btt" style="width:25%;" >Lesson Activities</th>
+    <th class="tg-7btt" style="width:30%;">GAISE Level B Guidelines</th>
+  </tr>
+  <tr>
+    <td class="tg-yj5y"><a href="../../unit1/lesson13">Lesson 13: </a>The Average Suspect</td>
+    <td class="tg-88nc">center <br>fair share <br>mean <br> average</td>
+    <td class="tg-y698"><ul><li>...</li>
+    <li>...</li></ul></td>
+    <td class="tg-y698"><ul><li>B...</li>
+    <li>B...</li></ul> </td>
+  </tr>
+  <tr>
+    <td class="tg-yj5y"><a href="../../unit1/lesson14">Lesson 14: </a>Getting MAD About It</td>
+    <td class="tg-88nc">spread <br>deviation <br> absolute value <br>MAD (mean absolute deviation)</td>
+    <td class="tg-y698"><ul><li>...</li>
+    <li>...</li></ul></td>
+    <td class="tg-y698"><ul><li>B...</li>
+    <li>B...</li></ul></td>
+  </tr>
+  <tr>
+    <td class="tg-yj5y"><a href="../../unit1/lesson15">Lesson 15: </a>When the Mean is Unfair - Introducing the Median</td>
+    <td class="tg-88nc">median <br>extreme value</td>
+    <td class="tg-y698"><ul><li>...</li>
+    <li>...</li></ul></td>
+    <td class="tg-y698"><ul><li>B...</li>
+    <li>B...</li></ul></td>
+  </tr>
+  <tr>
+    <td class="tg-yj5y"><a href="../../unit1/lesson16">Lesson 16: </a>Boxing Up the Evidence</td>
+    <td class="tg-88nc">quartile <br>Q1 <br>Q3 <br>IQR (interquartile range) <br>minimum <br>maximum</td>
+    <td class="tg-y698"><ul><li>...</li>
+    <li>...</li></ul></td>
+    <td class="tg-y698"><ul><li>B...</li>
+    <li>B...</li></ul></td>
+  </tr>
+  <tr>
+    <td class="tg-yj5y"><a href="../../unit1/lesson17">Lesson 17: </a>Reading Into Shapes to Choose the Right Tools</td>
+    <td class="tg-88nc"></td>
+    <td class="tg-y698"><ul><li>...</li>
+    <li>...</li></ul></td>
+    <td class="tg-y698"><ul><li>B....</li>
+    <li>B...</li></ul></td>
+  </tr>
+  <tr>
+    <td class="tg-yj5y"><a href="../../unit1/lesson18">Lesson 18: </a>Wrapping Up the Case of the Candy Culprit</td>
+    <td class="tg-88nc"></td>
+    <td class="tg-y698"><ul><li>...</li> 
+    <li>...</li></ul></td>
+    <td class="tg-y698"><ul><li>B...</li>
+    <li>B...</li></ul></td>
+  </tr>
+  <tr>
+    <td class="tg-yj5y"><a href="../../unit1/progresscheck3">Progress Check 3: </a>Can You Interpret the Evidence?</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-y698"><ul><li>Investigative Task 1: Gamer Profiles Revisited</li> 
+    <li>Investigative Task 2: The Impact of Extreme Players</li>
+    <li>Investigative Task 3: Creating & Interpreting Boxplots</li>
+    <li>Investigative Task 4: Choosing the Right Tool</li></ul></td>
+    <td class="tg-y698"><ul><li>B...</li> 
+    <li>B...</li></ul></td>
+  </tr>
+  
+</table>
