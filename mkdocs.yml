@@ -65,9 +65,11 @@ nav:
             - 'Lesson 15: When the Mean is Unfair - Introducing the Median' : unit1/lesson15.md
             - 'Lesson 16: Boxing Up the Evidence' : unit1/lesson16.md
             - 'Lesson 17: Choosing the Right Tools for Center and Spread' : unit1/lesson17.md
+            - 'Lesson 18: Wrapping Up the Case of the Candy Culprit' : unit1/lesson18.md
             - 'Progress Check 3: Can You Interpret Evidence' : unit1/progresscheck3.md
             - 'Additional Assessment: Your Turn, Detective! A Full Data Cycle Investigation' : unit1/assess1.md
-            - 'Unit 1 Final Mission: The Data Detective’s Case Report' : unit1/end.md
+        - 'Unit 1 Final Mission':
+            - 'The Data Detective’s Case Report': unit1/end.md
     #- Unit2:
         #- Daily Overview: unit2/overview.md
         #- 'Section 1': 
@@ -98,7 +100,8 @@ nav:
             #- 'Lesson 18: Does the Data Tell a Story?' : unit2/lesson18.md
             #- 'Progress Check 3: ' : unit2/progresscheck3.md
             #- 'Additional Assessment:' : unit2/assess1.md
-            #- 'Unit 2 Final Mission' : unit2/end.md
+       # - 'Unit 2 Final Mission':
+            #- 'mission' : unit2/end.md
 
     #- Unit3:
         #- 'Daily Overview' : unit3/overview.md
@@ -130,7 +133,8 @@ nav:
             #- 'Lesson 18:' : unit3/lesson18.md
             #- 'Progress Check 3:' : unit3/progresscheck3.md
             #- 'Additional Assessment:' : unit3/assess1.md
-            #- 'Unit 3 Final Mission' : unit3/end.md
+        #- 'Unit 3 Final Mission': 
+            #- 'mission' : unit3/end.md
 
     - Vocabulary: 
         - 'Unit 1 Vocabulary' : vocabulary/unit1.md
@@ -138,7 +142,6 @@ nav:
         #- 'Unit 3 Vocabulary' : vocabulary/unit3.md
 
     - PDF: 
-       #- 'IDS_Curriculum' : download/curriculum.md
         - 'MSDS_LMRs' : download/lmrs.md
         - 'MSDS_Datasets' : download/datasets.md
            
