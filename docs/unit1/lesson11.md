@@ -151,7 +151,7 @@ Students will be able to define a histogram and explain its purpose for summariz
     </tr>
     </table>
 
-    100. Start with a dotplot of the variable of interest (`Age`). The dot plot window will likely need to be stretched horizontally so that the data points show up correctly.
+    100. Start with a dot plot of the variable of interest (`Age`). The dot plot window will likely need to be stretched horizontally so that the data points show up correctly.
     <center><img src="../../img/u1_l11_12a.png" style="width:40vw;height:auto;" alt="dotplot of age"/></center>
 
     100. Change the plot type by clicking on the “Chart” icon, and then selecting the option to “Group into Bins.” 
