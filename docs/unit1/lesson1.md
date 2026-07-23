@@ -11,11 +11,7 @@ Students will be introduced to the course and each other by collecting data abou
 
 2. Markers, stickers, paint stampers, etc. for recording at each station
 
-3. [Where is Data?](https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link "https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link"){:target="_blank"} video clip [see usage permission in [References](../references.md)]
-
-    <div align="right"><iframe width="420" height="315"
-    src="https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link" title="Where is Data? video" allowfullscreen>
-    </iframe><br><a href="https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link">https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link</a></div>
+3. [Where is Data?](https://drive.google.com/file/d/1gEvNHHGelb37qsYgpVl_itbMwG_JLucb/view?usp=drive_link "https://drive.google.com/file/d/1gEvNHHGelb37qsYgpVl_itbMwG_JLucb/view?usp=drive_link"){:target="_blank"} video clip [see usage permission in [References](../references.md)]
 
 4. Data Cycle poster [pages 1 & 2] ([LMR_U1_L01_B_The_Data_Cycle](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf))
 
@@ -165,7 +161,11 @@ Students will be introduced to the course and each other by collecting data abou
     <table class="ta" style="width:75%;margin:0 auto;">
     <tr>
     <th class="ta-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/></th>
-    <th class="ta-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br><i>Optional Graphic Organizers for Diverse Learners</i></b><br> Use a simple Frayer model or a concept map to help students organize their thoughts.<br> <b><i>Optional Word Bank for Diverse Learners</i></b><br>Provide a word bank with terms like “information,” “facts,” “numbers,” “observations,” “lists,” and “graphs” to help students articulate their definitions of data.</th>
+    <th class="ta-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br>
+    <i>Optional Graphic Organizers for Diverse Learners</i></b><br> 
+    Use a simple Frayer model or a concept map to help students organize their thoughts.<br> <br> 
+    <b><i>Optional Word Bank for Diverse Learners</i></b><br>
+    Provide a word bank with terms like “information,” “facts,” “numbers,” “observations,” “lists,” and “graphs” to help students articulate their definitions of data.</th>
     </tr>
     </table><br>
 
@@ -173,7 +173,7 @@ Students will be introduced to the course and each other by collecting data abou
 
 14. Ask students to listen for any similarities and/or differences between their own definitions and the ones mentioned in the video. They should record their observations in their detective notebooks.
 
-15. Play the [Where is Data?](https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link "https://drive.google.com/file/d/1RFjO1F3ytnglKtPMRi6XxV76m7OGYl8J/view?usp=drive_link"){:target="_blank"} video clip. Allow students time to write down what they saw and heard from the video in their notebooks.
+15. Play the [Where is Data?](https://drive.google.com/file/d/1gEvNHHGelb37qsYgpVl_itbMwG_JLucb/view?usp=drive_link "https://drive.google.com/file/d/1gEvNHHGelb37qsYgpVl_itbMwG_JLucb/view?usp=drive_link"){:target="_blank"} video clip. Allow students time to write down what they saw and heard from the video in their notebooks.
 
 16. Next, ask students how close their definitions were to the ones that the people in the video came up with.
 
