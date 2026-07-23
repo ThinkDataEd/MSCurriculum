@@ -98,7 +98,7 @@
     <tr>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-zv4m">Progress Check 1: <a href="../unit1/progresscheck1">Can You Read the Evidence?</a></td>
+    <td class="tg-zv4m">Progress Check 1: <a href="../unit1/progresscheck1">Can You Read Evidence?</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
     <td class="tg-8jgo"><a href="../unit1/progresscheck1">57</a></td>
@@ -148,7 +148,7 @@
     <td class="tg-zv4m">Lesson 12: <a href="../unit1/lesson12">The Shape of Data</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit1/lesson12">88</a></td>
+    <td class="tg-8jgo"><a href="../unit1/lesson12">89</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -156,7 +156,7 @@
     <td class="tg-zv4m">Progress Check 2: <a href="../unit1/progresscheck2">Can You Analyze Evidence?</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit1/progresscheck2">97</a></td>
+    <td class="tg-8jgo"><a href="../unit1/progresscheck2">98</a></td>
   </tr>
 
   <tr>
@@ -164,7 +164,7 @@
     <td class="tg-zv4m" colspan="2">Section 3: <a href="../unit1/section3">Wrapping Up the Case</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-aw21"><a href="../unit1/section3">101</a></td>
+    <td class="tg-aw21"><a href="../unit1/section3">102</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -172,7 +172,7 @@
     <td class="tg-zv4m">Lesson 13: <a href="../unit1/lesson13">The Average Suspect</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit1/lesson13">102</a></td>
+    <td class="tg-8jgo"><a href="../unit1/lesson13">103</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -180,7 +180,7 @@
     <td class="tg-zv4m">Lesson 14: <a href="../unit1/lesson14">Getting MAD About It</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit1/lesson14">111</a></td>
+    <td class="tg-8jgo"><a href="../unit1/lesson14">113</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -188,7 +188,7 @@
     <td class="tg-zv4m">Lesson 15: <a href="../unit1/lesson15">When the Mean is Unfair - Introducing the Median</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit1/lesson15">115</a></td>
+    <td class="tg-8jgo"><a href="../unit1/lesson15">124</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -196,7 +196,7 @@
     <td class="tg-zv4m">Lesson 16: <a href="../unit1/lesson16">Boxing Up the Evidence</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit1/lesson16">119</a></td>
+    <td class="tg-8jgo"><a href="../unit1/lesson16">130</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -204,7 +204,7 @@
     <td class="tg-zv4m">Lesson 17: <a href="../unit1/lesson17">Choosing the Right Tools for Center and Spread</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit1/lesson17">122</a></td>
+    <td class="tg-8jgo"><a href="../unit1/lesson17">141</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -212,7 +212,7 @@
     <td class="tg-zv4m">Lesson 17: <a href="../unit1/lesson18">Wrapping Up the Case of the Candy Culprit</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit1/lesson18">122</a></td>
+    <td class="tg-8jgo"><a href="../unit1/lesson18">149</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -220,7 +220,7 @@
     <td class="tg-zv4m">Progress Check 3: <a href="../unit1/progresscheck3">Can You Interpret Evidence?</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit1/progresscheck3">127</a></td>
+    <td class="tg-8jgo"><a href="../unit1/progresscheck3">151</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -228,25 +228,25 @@
     <td class="tg-zv4m">Additional Assessment: <a href="../unit1/assess1">Your Turn, Detective! A Full Data Cycle Investigation</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit1/assess1">132</a></td>
+    <td class="tg-8jgo"><a href="../unit1/assess1">155</a></td>
   </tr>
   <tr>
     <td class="tg-km2t" colspan="3">Unit 1 Final Mission: <a href="../unit1/end">The Data Detective's Case Report</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-aw21"><a href="../unit1/end">136</a></td>
+    <td class="tg-aw21"><a href="../unit1/end">159</a></td>
   </tr>
   <tr>
     <td class="tg-km2t" colspan="3"><a href="../unit1/references">References</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit1/references">140</a></td>
+    <td class="tg-8jgo"><a href="../unit1/references">160</a></td>
   </tr>
   <tr>
     <td class="tg-km2t" colspan="3"><a href="../unit1/strategies">Instructional Strategies</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit1/strategies">141</a></td>
+    <td class="tg-8jgo"><a href="../unit1/strategies">161</a></td>
   </tr>
 
 </table>
