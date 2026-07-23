@@ -22,11 +22,11 @@
 
 [LMR_U1_L03_C_Suspect_Data_Cards_PHOTOS.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L03_C.pdf)
 
-[LMR_U1_L03_D_DIGITAL_Suspect_Data_Cards_FULL.pdf](https://canva.link/0igwvovn65h3985 "https://canva.link/0igwvovn65h3985"){:target="_blank"} 
+[LMR_U1_L03_D_DIGITAL_Suspect_Data_Cards_FULL](https://canva.link/0igwvovn65h3985 "https://canva.link/0igwvovn65h3985"){:target="_blank"} 
 
-[LMR_U1_L03_E_DIGITAL_Suspect_Data_Cards_NAMES_PHOTOS.pdf](https://canva.link/2a8p5yd7pnopy52 "https://canva.link/2a8p5yd7pnopy52"){:target="_blank"}
+[LMR_U1_L03_E_DIGITAL_Suspect_Data_Cards_NAMES_PHOTOS](https://canva.link/2a8p5yd7pnopy52 "https://canva.link/2a8p5yd7pnopy52"){:target="_blank"}
 
-[LMR_U1_L03_F_DIGITAL_Suspect_Data_Cards_PHOTOS.pdf](https://canva.link/5o2b1l7hpde0dv6 "https://canva.link/5o2b1l7hpde0dv6"){:target="_blank"}
+[LMR_U1_L03_F_DIGITAL_Suspect_Data_Cards_PHOTOS](https://canva.link/5o2b1l7hpde0dv6 "https://canva.link/5o2b1l7hpde0dv6"){:target="_blank"}
 
 [LMR_U1_L05_A_Data_Table_Template.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L05_A.pdf)
 
@@ -50,7 +50,7 @@
 
 [LMR_U1_L12_A_Histogram_Shape_Cards.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L12_A.pdf)
 
-[LMR_U1_L12_B_DIGITAL_Histogram_Shape_Cards.pdf](https://canva.link/ytjc6pycxdtogcg "https://canva.link/ytjc6pycxdtogcg"){:target="_blank"}
+[LMR_U1_L12_B_DIGITAL_Histogram_Shape_Cards](https://canva.link/ytjc6pycxdtogcg "https://canva.link/ytjc6pycxdtogcg"){:target="_blank"}
 
 [LMR_U1_L12_C_Distribution_Shapes_Reference_Sheet.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L12_C.pdf)
 
@@ -67,3 +67,9 @@
 [LMR_U1_L16_B_Building Boxplots.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L16_B.pdf)
 
 [LMR_U1_L17_A_Clue8_CODAP_Analysis.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L17_A.pdf)
+
+[LMR_U1_Progress_Check_1.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_Progress_Check_1.pdf)
+
+[LMR_U1_Progress_Check_2.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_Progress_Check_2.pdf)
+
+[LMR_U1_Progress_Check_3.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_Progress_Check_3.pdf)
