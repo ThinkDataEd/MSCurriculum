@@ -63,7 +63,7 @@ This section transitions students from raw data to meaningful visualization thro
     <td class="tg-y698"><ul><li>B.III.2: Learn key features of distributions including shape and number of modes</li></ul></td>
   </tr>
   <tr>
-    <td class="tg-yj5y"><a href="../../unit1/progresscheck2">Progress Check 2: </a>Can You Analyze the Evidence?</td>
+    <td class="tg-yj5y"><a href="../../unit1/progresscheck2">Progress Check 2: </a>Can You Analyze Evidence?</td>
     <td class="tg-c3ow"></td>
     <td class="tg-y698"><ul><li>Investigative Task 1: Game Profiles</li>
     <li>Investigative Task 2: Game Score Distributions</li>

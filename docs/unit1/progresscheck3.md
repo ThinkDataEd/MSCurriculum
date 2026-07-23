@@ -1,6 +1,6 @@
-#Progress Check 3: Can You Interpret the Evidence?
+#Progress Check 3: Can You Interpret Evidence?
 
-##**<u>Progress Check 3: Can You Interpret the Evidence?</u>**
+##**<u>Progress Check 3: Can You Interpret Evidence?</u>**
 
 ##<p style="background: #00869b; color: white; text-align: left; padding: 10px; font-weight: bold;">**Mission Objective**</p>
 

@@ -73,7 +73,7 @@ This section...
     <li>B...</li></ul></td>
   </tr>
   <tr>
-    <td class="tg-yj5y"><a href="../../unit1/progresscheck3">Progress Check 3: </a>Can You Interpret the Evidence?</td>
+    <td class="tg-yj5y"><a href="../../unit1/progresscheck3">Progress Check 3: </a>Can You Interpret Evidence?</td>
     <td class="tg-c3ow"></td>
     <td class="tg-y698"><ul><li>Investigative Task 1: Gamer Profiles Revisited</li> 
     <li>Investigative Task 2: The Impact of Extreme Players</li>

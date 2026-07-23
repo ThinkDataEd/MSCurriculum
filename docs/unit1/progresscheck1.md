@@ -1,6 +1,6 @@
-#Progress Check 1: Can You Read the Evidence?
+#Progress Check 1: Can You Read Evidence?
 
-##**<u>Progress Check 1: Can You Read the Evidence?</u>**
+##**<u>Progress Check 1: Can You Read Evidence?</u>**
 
 ##<p style="background: #00869b; color: white; text-align: left; padding: 10px; font-weight: bold;">**Mission Objective**</p>
 
