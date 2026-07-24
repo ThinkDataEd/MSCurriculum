@@ -5,14 +5,14 @@ Students will take information from photos and organize them into groups by visu
 
 ###**Materials:**
 
-1. [Guess Who?](https://www.calculators.org/games/guess-who/ "https://www.calculators.org/games/guess-who/"){:target="_blank"} Online Game link: <a href="https://www.calculators.org/games/guess-who/">https://www.calculators.org/games/guess-who/</a>
+1. [Guess Who?](https://www.calculators.org/games/guess-who/ "https://www.calculators.org/games/guess-who/"){:target="_blank"} Online Game link: <a href="https://www.calculators.org/games/guess-who/" target="_blank">https://www.calculators.org/games/guess-who/</a>
 
-2. Suspect Data Cards (See [References](https://docs.google.com/document/d/1zMZbVDjNYTdb4GwBcM6lPiBs0LTtX6DTik9_s8-xhHY/edit?tab=t.0#heading=h.qvj647kvjh87 "https://docs.google.com/document/d/1zMZbVDjNYTdb4GwBcM6lPiBs0LTtX6DTik9_s8-xhHY/edit?tab=t.0#heading=h.qvj647kvjh87"){:target="_blank"} for lesson inspiration)
+2. Suspect Data Cards (See [References](../references.md) for lesson inspiration)
 
     ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>*** *See Class Setup section for additional details.* 
 
     100. **Print Option(s)**<br>
-    ***NOTE:*** Options B or C are recommended for Lesson 3. Option A is required for [Lesson 4](lesson4.md).
+    ***NOTE:*** Options B or C are recommended for [Lesson 3](lesson3.md). Option A is required for [Lesson 4](lesson4.md).
 
         - Option A: PDF document of Suspect Data Cards (**<span style="color: #e59b24;">FULL**</span>) - photo on left side; school information on right side: ([LMR_U1_L03_A_Suspect_Data_Cards_FULL](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L03_A.pdf))
 
@@ -21,7 +21,7 @@ Students will take information from photos and organize them into groups by visu
         - Option C: PDF document of left side of Suspect Data Cards (**<span style="color: #e59b24;">photos only**</span>) with names excluded: ([LMR_U1_L03_C_Suspect_Data_Cards_PHOTOS](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L03_C.pdf))
 
     100. **Digital Option(s)**<br>
-    ***NOTE:*** Options E or F are recommended for Lesson 3. Option D is required for [Lesson 4](lesson4.md).
+    ***NOTE:*** Options E or F are recommended for [Lesson 3](lesson3.md). Option D is required for [Lesson 4](lesson4.md).
 
         - Option D: Canva whiteboard template of Suspect Data Cards (**<span style="color: #e59b24;">FULL**</span>) - photo on left side; school information on right side: ([LMR_U1_L03_D_DIGITAL_Suspect_Data_Cards_FULL](https://canva.link/0igwvovn65h3985 "https://canva.link/0igwvovn65h3985"))
 
@@ -101,7 +101,7 @@ Students will take information from photos and organize them into groups by visu
     100. What information might you need to start identifying people of interest?<br>
     *Sample answer: We could start with a list of all students and staff at the school. But there might be too many possible suspects, so maybe we can get a shorter list of people who were in the building at the time of the locker incident.*
 
-3. Bring back the Data Cycle: Display the current Data Cycle poster ([LMR_U1_L01_B_The_Data_Cycle](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf), page 2) on the board and remind students of the Consider Data phase they learned about in [Lesson 1](lesson1.md).
+3. Bring back the Data Cycle: Display the current Data Cycle poster ([LMR_U1_L01_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf), page 2) on the board and remind students of the Consider Data phase they learned about in [Lesson 1](lesson1.md).
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L01_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf)</div>
 
@@ -150,8 +150,8 @@ Students will take information from photos and organize them into groups by visu
         <tr>
         <th class="ta-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/></th>
         <th class="ta-88nc" style="width:65%;"><b>ADDITIONAL SUPPORT:<br><i>Optional Modeling of an "Observation" for Diverse Learners</i></b><br> 
-        Before students work in groups, model the process of observing a data card using the Fishbowl strategy, verbalizing the thought process by identifying different pieces of information (potential variables).<br>
-        <b><i>Optional Sentence Starters for Diverse Learners</i></b><br>
+        Before students work in groups, model the process of observing a data card using the Fishbowl strategy, verbalizing the thought process by identifying different pieces of information (potential variables).<br> <br> 
+        <b><i>Optional Sentence Starters for Diverse Learners</i> </b> <br>
         "I observe that this person has <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> (ex. eye color)." <br>
         "A characteristic I see is <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>, and its possible values are <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>, <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>, or <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>."</th>
         </tr>
@@ -272,7 +272,7 @@ Students will take information from photos and organize them into groups by visu
 
             2. If not, how were their groupings different?
 
-15. If time permits, repeat Step 15 by challenging teams to reorganize the cards into 4, 5, or 6 distinct groups.
+15. If time permits, repeat Step 14 by challenging teams to reorganize the cards into 4, 5, or 6 distinct groups.
 
 
 16. Connect back to the Case of the Candy Culprit:
