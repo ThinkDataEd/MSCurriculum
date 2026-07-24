@@ -126,7 +126,7 @@ Students will be able to explain how different representations of data can tell 
     <th class="ta-88im" style="width:15%;"><img src="../../img/Add_Support_blue.png"/></th>
     <th class="ta-88nc" style="width:65%;text-align:left;vertical-align:top;font-weight:inherit;"><b>ADDITIONAL SUPPORT:</b><br>
     <b><i>Optional Object Cutouts/Stickers for Diverse Learners</i></b><br> 
-    For students who struggle with drawing, provide simple cutouts or stickers that they can use to physically arrange the locker items on their handouts.<br> 
+    For students who struggle with drawing, provide simple cutouts or stickers that they can use to physically arrange the locker items on their handouts.<br> <br> 
     <b><i>Optional Virtual/Digital Version for Diverse Learners</i></b><br>
     Provide an online locker photo template in Canva (or a similar product) that students can place graphics onto.</th>
     </tr>
@@ -196,7 +196,7 @@ Students will be able to explain how different representations of data can tell 
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_E.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L02_E](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_E.pdf)</div>
 
-    100. What information is present in the photo that was not explicitly included in either the Locker Inventory List or the Detective Field Notes? *Sample answer: We know the exact placement and orientation of each item in the locker. We can also see the color of each object now.
+    100. What information is present in the photo that was not explicitly included in either the Locker Inventory List or the Detective Field Notes? *Sample answer: We know the exact placement and orientation of each item in the locker. We can also see the color of each object now.* 
 
     100. What advantages and disadvantages are provided by using one representation over another?
 
