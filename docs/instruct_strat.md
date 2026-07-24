@@ -97,7 +97,7 @@
         <li>What does the difference in our answers tell us about the math concept?</li></ul>
         </li></ul></th>
     </tr>
-</table><br>
+</table>
 
 ###Pencils In the Middle
 <style type="text/css">
@@ -150,7 +150,7 @@
     <th class="ts-88im" style="width:10%;"><img src="../../img/Strategy_yellow.png"/></th>
     <th class="ts-88nc" style="width:65%;"><b>STRATEGY:<br>
     <i>Randomly Assigning Students to Groups</i></b><br> 
-    Prepare card groups prior to class.As students come into class, have them draw a card at random. Once class begins, they must find the other students that match their card’s theme. Students can stay in this grouping arrangement for the day, week, or activity. <br>
+    Prepare card groups prior to class. As students come into class, have them draw a card at random. Once class begins, they must find the other students that match their card’s theme. Students can stay in this grouping arrangement for the day, week, or activity. <br>
     Sample cards using film and television characters: <br> <ul>
     <li>Example 1: The Scooby Doo Gang [Shaggy, Fred, Vilma, Daphne].</li>
     <li>Example 2: Teenage Mutant Ninja Turtles [Leonardo, Donatello, Raphael, Michelangelo].</li>
