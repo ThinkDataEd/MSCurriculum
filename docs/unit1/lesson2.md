@@ -235,7 +235,7 @@ Students will be able to explain how different representations of data can tell 
         </tr>
         </table>
 
-    100. What story does each representation tell us?
+    100. What story does each representation tell us? *Sample answer: Answers will vary by class.*
 
     <center><h3>Closing</h3></center>
 
