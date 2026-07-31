@@ -141,7 +141,7 @@ nav:
         #- 'Unit 2 Vocabulary' : vocabulary/unit2.md
         #- 'Unit 3 Vocabulary' : vocabulary/unit3.md
 
-    - PDF: 
+    - Downloads: 
         - 'MSDS_LMRs' : download/lmrs.md
         - 'MSDS_Datasets' : download/datasets.md
            
