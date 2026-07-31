@@ -1,0 +1,8 @@
+mission,designation,shuttle,date,temp,pressure,erosion_incidents,blow-by_incidents,damaged,undamaged
+2,STS-2,Columbia,11/12/1981,70,50,1,0,1,5
+10,STS-41-B,Challenger,2/3/1984,57,100,1,0,1,5
+11,STS-41-C,Challenger,4/6/1984,63,200,1,0,1,5
+12,STS-41-D,Discovery,8/30/1984,70,200,1,0,1,5
+15,STS-51-C,Discovery,1/24/1985,53,200,3,2,5,1
+22,STS-61-A,Challenger,10/30/1985,75,200,0,2,2,5
+24,STS-61-A,Columbia,1/12/1986,58,200,1,0,1,5
