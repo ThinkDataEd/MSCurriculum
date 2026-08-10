@@ -95,11 +95,9 @@ Students will take information from photos and organize them into groups by visu
 
 2. Welcome the DSU detective recruits back to training. Today's mission is to move from the crime scene to the suspects. Pose the following questions:
 
-    100. Do you have any ideas about who the Candy Culprit might be?<br>
-    *Sample answer: No. So far, we have only looked at the crime scene evidence. We don't have any information about WHO might be involved.*
+    100. Do you have any ideas about who the Candy Culprit might be? <span style="color:grey">***Sample answer: No. So far, we have only looked at the crime scene evidence. We don't have any information about WHO might be involved.***</span>
 
-    100. What information might you need to start identifying people of interest?<br>
-    *Sample answer: We could start with a list of all students and staff at the school. But there might be too many possible suspects, so maybe we can get a shorter list of people who were in the building at the time of the locker incident.*
+    100. What information might you need to start identifying people of interest? <span style="color:grey">***Sample answer: We could start with a list of all students and staff at the school. But there might be too many possible suspects, so maybe we can get a shorter list of people who were in the building at the time of the locker incident.***</span>
 
 3. Bring back the Data Cycle: Display the current Data Cycle poster ([LMR_U1_L01_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf), page 2) on the board and remind students of the Consider Data phase they learned about in [Lesson 1](lesson1.md).
 
@@ -113,7 +111,7 @@ Students will take information from photos and organize them into groups by visu
 
 5. Explain that our detectives will look through and analyze this data to build preliminary suspect dossiers. A dossier is a collection of documents about a particular person, event, or subject.
 
-6. Ask: Is the data we are getting from the DSU an example of primary data? Why or why not? *Sample answer: No. We did not collect the data ourselves. It is being provided to us by the DSU.*
+6. Ask: Is the data we are getting from the DSU an example of primary data? Why or why not? <span style="color:grey">***Sample answer: No. We did not collect the data ourselves. It is being provided to us by the DSU.***</span>
 
     100. What do you think this type of data would be called? 
 
@@ -177,13 +175,13 @@ Students will take information from photos and organize them into groups by visu
 
     100. Whenever possible, they should record some actual numbers, or counts, for their observations. Some examples are below: 
 
-        100. *Example 1: There are 21 students and 9 adults.* 
+        100. <span style="color:grey">***Example 1: There are 21 students and 9 adults.***</span> 
 
-        100. *Example 2: There are 7 students who are in the 7th grade.* 
+        100. <span style="color:grey">***Example 2: There are 7 students who are in the 7th grade.***</span> 
 
-        100. *Example 3: There are 7 people who are holding books in their photo.* 
+        100. <span style="color:grey">***Example 3: There are 7 people who are holding books in their photo.***</span> 
 
-        100. *Example 4: There are 2 people who wear glasses.*
+        100. <span style="color:grey">***Example 4: There are 2 people who wear glasses.***</span>
 
         <style type="text/css">
         .te  {border-collapse:collapse;border-spacing:0;background-color:#fddbc7;border:4px dotted #ee7733;}
@@ -205,25 +203,25 @@ Students will take information from photos and organize them into groups by visu
 
     100. What are some characteristics you observed about the people on the cards just from their photos?  Sample answers are listed below:
 
-        100. *Example 1: Grade level.*
+        100. <span style="color:grey">***Example 1: Grade level.***</span>
 
-        100. *Example 2: Student or staff.*
+        100. <span style="color:grey">***Example 2: Student or staff.***</span>
 
-        100. *Example 3: Hair color.*
+        100. <span style="color:grey">***Example 3: Hair color.***</span>
 
-        100. *Example 4: Item being held.*
+        100. <span style="color:grey">***Example 4: Item being held.***</span>
 
-        100. *Example 5: Glasses or no glasses.*
+        100. <span style="color:grey">***Example 5: Glasses or no glasses.***</span>
 
     100. What are some characteristics you cannot observe from the pictures alone? Sample answers are listed below:
 
-        100. *Example 1: Number of siblings.*
+        100. <span style="color:grey">***Example 1: Number of siblings.***</span>
 
-        100. *Example 2: Travel method to school (bus, bike, car, etc.).*
+        100. <span style="color:grey">***Example 2: Travel method to school (bus, bike, car, etc.).***</span>
 
-        100. *Example 3: Grade on the most recent math test.*
+        100. <span style="color:grey">***Example 3: Grade on the most recent math test.***</span>
 
-        100. *Example 4: Favorite type of candy.*
+        100. <span style="color:grey">***Example 4: Favorite type of candy.***</span>
 
         ***NOTE***: It is important to think about who is and is not represented in these Data Cards. We may be assuming some information, but should be careful about how we do so. For example, recording a suspect’s “skin complexion” is likely better than recording an assumed “ethnicity,” but we should aim to record only the information that we know for certain based on the photos.
 
@@ -236,29 +234,29 @@ Students will take information from photos and organize them into groups by visu
 
     100. If needed, guide teams with hints based on their written observations. Some example groupings are listed here:
 
-        100. *Example 1: student (21) vs. staff member (9).*
+        100. <span style="color:grey">***Example 1: student (21) vs. staff member (9).***</span>
 
-        100. *Example 2: wears glasses (2) vs. does not wear glasses (28).*
+        100. <span style="color:grey">***Example 2: wears glasses (2) vs. does not wear glasses (28).***</span>
 
-        100. *Example 3: wearing a sports jersey (3) vs. not wearing a sports jersey (27).*
+        100. <span style="color:grey">***Example 3: wearing a sports jersey (3) vs. not wearing a sports jersey (27).***</span>
 
-        100. *Example 4: holding a book (7) vs. not holding a book (23).*
+        100. <span style="color:grey">***Example 4: holding a book (7) vs. not holding a book (23).***</span>
 
     100. Discussion: Once teams have chosen their criteria and physically placed their suspect cards into their 2 groups, allow each team to share out. Discuss if some criteria were easier or harder to apply consistently. Some example discussion ideas are listed here for reference:
 
-        100. *Example 1 (simple):*<br>
-        *Grouping the suspects into students versus staff is fairly easy because the staff members have an icon that indicates "STAFF" as their role.*
+        100. <span style="color:grey">***Example 1 (simple):***</span><br>
+        <span style="color:grey">***Grouping the suspects into students versus staff is fairly easy because the staff members have an icon that indicates "STAFF" as their role.***</span>
 
-        100. *Example 2 (more complex):*<br>
-        *Grouping the suspects by their hair length is a more difficult task because we first have to agree on what it means to have "long hair." Some students might decide that "long hair" must go past a person's shoulders. Others might suggest that their classification of "long" versus "short" depends on a person's assumed gender.*
+        100. <span style="color:grey">***Example 2 (more complex):***</span><br>
+        <span style="color:grey">***Grouping the suspects by their hair length is a more difficult task because we first have to agree on what it means to have "long hair." Some students might decide that "long hair" must go past a person's shoulders. Others might suggest that their classification of "long" versus "short" depends on a person's assumed gender.***</span>
 
 14. Next, challenge the detective teams to reorganize the 30 suspect cards into exactly 3 distinct groups based on a different observed characteristic.
 
     100. If needed, some example groupings are provided here:
 
-        100. *Example 1: hairstyles - (1) hair is in a ponytail or braids, (2) person is wearing a hair accessory such as a hat or headband, (3) hair is worn down.*
+        100. <span style="color:grey">***Example 1: hairstyles - (1) hair is in a ponytail or braids, (2) person is wearing a hair accessory such as a hat or headband, (3) hair is worn down.***</span>
 
-        100. *Example 2: shirt color - (1) red, (2) blue, (3) other.*
+        100. <span style="color:grey">***Example 2: shirt color - (1) red, (2) blue, (3) other.***</span>
 
     100. Discussion: Once again, allow the detective teams to share the criteria they used to organize the suspects into 3 groups. Some discussion ideas are listed here for reference:
 

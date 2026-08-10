@@ -160,33 +160,33 @@ Students will be able to explain how different representations of data can tell 
 
     100. First, focus only on the drawings of groups that were given the Locker Inventory List.
 
-        100. Did every group with this representation draw exactly the same sketch? *Sample answer: No. We had the same items, but didn’t put them in the same places.*
+        100. Did every group with this representation draw exactly the same sketch? <span style="color:grey">***Sample answer: No. We had the same items, but didn’t put them in the same places.***</span>
         
-        100. What was similar? *Sample answer: We had the exact same items in total.*
+        100. What was similar? <span style="color:grey">***Sample answer: We had the exact same items in total.***</span>
         
-        100. What was different? *Sample answer: We put the items in different spots in the locker.*
+        100. What was different? <span style="color:grey">***Sample answer: We put the items in different spots in the locker.***</span>
 
     100. Second, focus only on the drawings of groups that were given the Detective Field Notes.
 
-        100. Did every group with this representation draw exactly the same sketch? *Sample answer: No. We had similar items, but they were different sizes and in different places.*
+        100. Did every group with this representation draw exactly the same sketch? <span style="color:grey">***Sample answer: No. We had similar items, but they were different sizes and in different places.***</span>
         
-        100. What was similar? *Sample answer: We put a lot of the items in similar locations.*
+        100. What was similar? <span style="color:grey">***Sample answer: We put a lot of the items in similar locations.***</span>
         
-        100. What was different? *Sample answer: We drew the textbooks standing upright, but other groups drew them laying down on top of each other.*
+        100. What was different? <span style="color:grey">***Sample answer: We drew the textbooks standing upright, but other groups drew them laying down on top of each other.***</span>
 
     100. Compare the drawings from groups that received the Locker Inventory List with the drawings from groups that received the Detective Field Notes.
 
-        100. Did every group draw exactly the same sketch? *Sample answer: No. Although we had many of the same items in our drawings, we didn’t place them in the exact same places.*
+        100. Did every group draw exactly the same sketch? <span style="color:grey">***Sample answer: No. Although we had many of the same items in our drawings, we didn’t place them in the exact same places.***</span>
         
-        100. What was similar? *Sample answer: Most drawings had the same number of items.*
+        100. What was similar? <span style="color:grey">***Sample answer: Most drawings had the same number of items.***</span>
         
-        100. What was different? *Sample answer: The textbooks were placed on different shelves or were in a different order.*
+        100. What was different? <span style="color:grey">***Sample answer: The textbooks were placed on different shelves or were in a different order.***</span>
         
-        100. Which representation(s) resulted in sketches that were the MOST similar to each other? *Answers will vary.*
+        100. Which representation(s) resulted in sketches that were the MOST similar to each other? <span style="color:grey">***Answers will vary.***</span>
         
-        100. Did the Detective Field Notes provide any information that the Locker Inventory List did not, and vice versa? *Sample answer: Yes. The field notes gave more information about the placement of the items in the locker.*
+        100. Did the Detective Field Notes provide any information that the Locker Inventory List did not, and vice versa? <span style="color:grey">***Sample answer: Yes. The field notes gave more information about the placement of the items in the locker.***</span>
         
-        100. Which representation do you think makes it easier to create a sketch from? Why? *Answers will vary.*
+        100. Which representation do you think makes it easier to create a sketch from? Why? <span style="color:grey">***Sample answer: Answers will vary but students must justify their answers with their reasoning why.***</span>
 
 14. Reveal the Evidence: Locker Photo ([LMR_U1_L02_D](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_D.pdf)) and explain that this is yet another representation of the crime scene.
 
@@ -196,7 +196,7 @@ Students will be able to explain how different representations of data can tell 
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_E.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L02_E](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_E.pdf)</div>
 
-    100. What information is present in the photo that was not explicitly included in either the Locker Inventory List or the Detective Field Notes? *Sample answer: We know the exact placement and orientation of each item in the locker. We can also see the color of each object now.* 
+    100. What information is present in the photo that was not explicitly included in either the Locker Inventory List or the Detective Field Notes? <span style="color:grey">***Sample answer: We know the exact placement and orientation of each item in the locker. We can also see the color of each object now.***</span> 
 
     100. What advantages and disadvantages are provided by using one representation over another?
 
@@ -220,18 +220,18 @@ Students will be able to explain how different representations of data can tell 
         </tr>
         <tr>
         <td class="tt-pwj7">Inventory List</td>
-        <td class="tt-uys7"><b><i>Clarity and Precision</b></i>: The inventory list provides a clear, itemized account of all the contents with exact counts.<br> <b><i>Ease of Comparison</b></i>: It's simple to compare items directly, such as seeing that there is only one of each textbook.<br> <b><i>Easy to Replicate</b></i>: It would be straightforward for a second detective to create an identical list.</td>
-        <td class="tt-uys7"><b><i>Lacks Context</b></i>: The list doesn't show the spatial arrangement of the items. It can't show if the locker is messy or neat, or if an item is worn out.<br> <b><i>Hides Specifics</b></i>: It doesn't reveal emotional or qualitative clues, such as the note's tone or the drawing's style.</td>
+        <td class="tt-uys7"><span style="color:grey"><b><i>Clarity and Precision</b></i>: The inventory list provides a clear, itemized account of all the contents with exact counts.<br> <b><i>Ease of Comparison</b></i>: It's simple to compare items directly, such as seeing that there is only one of each textbook.<br> <b><i>Easy to Replicate</b></i>: It would be straightforward for a second detective to create an identical list.</span></td>
+        <td class="tt-uys7"><span style="color:grey"><b><i>Lacks Context</b></i>: The list doesn't show the spatial arrangement of the items. It can't show if the locker is messy or neat, or if an item is worn out.<br> <b><i>Hides Specifics</b></i>: It doesn't reveal emotional or qualitative clues, such as the note's tone or the drawing's style.</span></td>
         </tr>
         <tr>
         <td class="tt-pwj7">Field Notes</td>
-        <td class="tt-uys7"><b><i>Provides Context</b></i>: The notes offer subjective observations and a narrative that isn't present in a list.<br> <b><i>Captures Early Impressions</b></i>: The notes can convey a detective's initial thoughts and hypotheses, which can be valuable for an investigation.<br> <b><i>Includes Key Details</b></i>: The notes can call out important pieces of evidence, like the cryptic note or the drawing, and offer an early interpretation.</td>
-        <td class="tt-uys7"><b><i>Lacks Structure</b></i>: The information is often unorganized and may be difficult to sort or search.<br> <b><i>Prone to Bias</b></i>: The notes reflect the detective's personal interpretations and can be subjective or miss important details.<br> <b><i>Not a Complete Record</b></i>: The notes might only focus on what the detective thought was important, leaving out other details.</td>
+        <td class="tt-uys7"><span style="color:grey"><b><i>Provides Context</b></i>: The notes offer subjective observations and a narrative that isn't present in a list.<br> <b><i>Captures Early Impressions</b></i>: The notes can convey a detective's initial thoughts and hypotheses, which can be valuable for an investigation.<br> <b><i>Includes Key Details</b></i>: The notes can call out important pieces of evidence, like the cryptic note or the drawing, and offer an early interpretation.</span></td>
+        <td class="tt-uys7"><span style="color:grey"><b><i>Lacks Structure</b></i>: The information is often unorganized and may be difficult to sort or search.<br> <b><i>Prone to Bias</b></i>: The notes reflect the detective's personal interpretations and can be subjective or miss important details.<br> <b><i>Not a Complete Record</b></i>: The notes might only focus on what the detective thought was important, leaving out other details.</span></td>
         </tr>
         <tr>
         <td class="tt-pwj7">Photo</td>
-        <td class="tt-uys7"><b><i>Unfiltered Truth</b></i>: The photo provides a true, unfiltered visual record of the scene as it was found.<br> <b><i>Shows Relationships</b></i>: It clearly shows the spatial relationships between all the items, which a list or notes cannot.<br> <b><i>Reveals Nuance</b></i>: The photo can capture details like the condition of an item, the style of a drawing, or the look of a note.</td>
-        <td class="tt-uys7"><b><i>Requires Interpretation</b></i>: The viewer must still interpret the image to make sense of the clues.<br> <b><i>Limited Scope</b></i>: A single photo can only show one angle of the locker, potentially hiding other evidence.</td>
+        <td class="tt-uys7"><span style="color:grey"><b><i>Unfiltered Truth</b></i>: The photo provides a true, unfiltered visual record of the scene as it was found.<br> <b><i>Shows Relationships</b></i>: It clearly shows the spatial relationships between all the items, which a list or notes cannot.<br> <b><i>Reveals Nuance</b></i>: The photo can capture details like the condition of an item, the style of a drawing, or the look of a note.</span></td>
+        <td class="tt-uys7"><span style="color:grey"><b><i>Requires Interpretation</b></i>: The viewer must still interpret the image to make sense of the clues.<br> <b><i>Limited Scope</b></i>: A single photo can only show one angle of the locker, potentially hiding other evidence.</span></td>
         </tr>
         </table>
 
@@ -243,11 +243,11 @@ Students will be able to explain how different representations of data can tell 
 
     100. Initial Question: ***Can you determine the identity of the Candy Culprit and bring them justice?***
 
-    100. At this point in the investigation, can we answer the question? *Sample answer: No! We don't have enough information about who might be involved. We have only seen the crime scene.*
+    100. At this point in the investigation, can we answer the question? <span style="color:grey">***Sample answer: No! We don't have enough information about who might be involved. We have only seen the crime scene.***</span>
 
-    100. What do you feel you know about the Candy Culprit at this point? *Sample answer: They might like chocolate candy since that is the piece that they took from the locker, but we can't be sure. Maybe they chose that locker because it wasn't locked and was easy to access.*
+    100. What do you feel you know about the Candy Culprit at this point? <span style="color:grey">***Sample answer: They might like chocolate candy since that is the piece that they took from the locker, but we can't be sure. Maybe they chose that locker because it wasn't locked and was easy to access.***</span>
 
-17. Wrap-Up: Allow 2 students to share one type of representation they saw today and how that impacted their ideas and assumptions about the crime scene. *Sample answer: We learned about an inventory list, which is a structured way to look at data. We also explored some notes that a detective wrote while he was out at the scene, but it was unstructured and a bit messier. Each representation provided different clues and impacted the stories we created.*
+17. Wrap-Up: Allow 2 students to share one type of representation they saw today and how that impacted their ideas and assumptions about the crime scene. <span style="color:grey">***Sample answer: We learned about an inventory list, which is a structured way to look at data. We also explored some notes that a detective wrote while he was out at the scene, but it was unstructured and a bit messier. Each representation provided different clues and impacted the stories we created.***</span>
 
 18. Key Takeaway: The same evidence can be represented in multiple ways, but these different representations can have a major impact on how we perceive the “story” behind the data.
 
@@ -255,8 +255,8 @@ Students will be able to explain how different representations of data can tell 
 
 20. Challenge students to come up with one positive aspect for each data representation type they interacted with today.
 
-    100. *Sample answer: The inventory list was good for specific details, like the exact number of pencils.*
+    100. <span style="color:grey">***Sample answer: The inventory list was good for specific details, like the exact number of pencils.***</span>
 
-    100. *Sample answer: The field notes provided a narrative story and made it easier to picture the locker.*
+    100. <span style="color:grey">***Sample answer: The field notes provided a narrative story and made it easier to picture the locker.***</span>
 
-    100. *Sample answer: The photo gave us the visual truth.*
+    100. <span style="color:grey">***Sample answer: The photo gave us the visual truth.***</span>

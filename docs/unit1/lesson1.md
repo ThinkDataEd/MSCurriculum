@@ -114,18 +114,18 @@ Students will be introduced to the course and each other by collecting data abou
 
     100. What are some things that we have in common?
 
-        100. *Sample answer: Most people in our class like _____ type of candy.*<br>
-        100. *Sample answer: _____ students participate in extracurricular activities.*
+        100. <span style="color:grey">***Sample answer: Most people in our class like _____ type of candy.***</span><br>
+        100. <span style="color:grey">***Sample answer: _____ students participate in extracurricular activities.***</span>
 
     100. Where do we differ the most?
 
-        100. *Sample answer: More people like Math class than _____ class.*<br>
-        100. *Sample answer: Some people read a lot of books over the summer (<u>&nbsp;&nbsp;</u>#<u>&nbsp;&nbsp;</u>), and others did not read any.*
+        100. <span style="color:grey">***Sample answer: More people like Math class than _____ class.***</span><br>
+        100. <span style="color:grey">***Sample answer: Some people read a lot of books over the summer (<u>&nbsp;&nbsp;</u>#<u>&nbsp;&nbsp;</u>), and others did not read any.***</span>
 
     100. Are there any observations that seem odd?
 
-        100. *Sample answer: 1 student read more than 18 books over the summer.*<br>
-        100. *Sample answer: There were 0 students who said their favorite candy was _____.*
+        100. <span style="color:grey">***Sample answer: 1 student read more than 18 books over the summer.***</span><br>
+        100. <span style="color:grey">***Sample answer: There were 0 students who said their favorite candy was _____.***</span>
 
 11. After the group discussion, explain to students that they have just collected **data** about themselves!
 <br><br>
@@ -224,23 +224,17 @@ Students will be introduced to the course and each other by collecting data abou
 
     100. Guide the discussion by having students use the 5W1H strategy. Sample responses are provided below.
 
-        100. **Who?**: Who do you want to collect information about?<br>
-        *Sample answer: The students in our middle school data science class*<br>
+        100. **Who?**: Who do you want to collect information about? <span style="color:grey">***Sample answer: The students in our middle school data science class***</span><br>
 
-        100. **What?**: What information do you already have? What information do you still need?<br>
-        *Sample answer: At the start of class, we can make observations about our classmates (like their hair color or whether or not they wear glasses), and those would count as information.  After the activity, we should have information about classmates’ favorite class, favorite candy type, etc. The information that we still need will be dependent on what we want to know or what we are investigating*<br>
+        100. **What?**: What information do you already have? What information do you still need? <span style="color:grey">***Sample answer: At the start of class, we can make observations about our classmates (like their hair color or whether or not they wear glasses), and those would count as information.  After the activity, we should have information about classmates’ favorite class, favorite candy type, etc. The information that we still need will be dependent on what we want to know or what we are investigating.***</span><br>
 
-        100. **When?**: When will you collect this information?<br>
-        *Sample answer: We collected the data during our class time, which is during school hours.*<br>
+        100. **When?**: When will you collect this information? <span style="color:grey">***Sample answer: We collected the data during our class time, which is during school hours.***</span><br>
 
-        100. **Where?**: Where will you collect this information?<br>
-        *Sample answer: We collected the data in our classroom.*<br>
+        100. **Where?**: Where will you collect this information? <span style="color:grey">***Sample answer: We collected the data in our classroom.***</span><br>
 
-        100. **Why?**: Why will you collect this information? What question do you want to answer?<br>
-        *Sample answer: We wanted to get to know our classmates better, see what we have in common, and determine how we’re different.*<br>
+        100. **Why?**: Why will you collect this information? What question do you want to answer? <span style="color:grey">***Sample answer: We wanted to get to know our classmates better, see what we have in common, and determine how we’re different.***</span><br>
 
-        100. **How?**:How will you collect this information?<br>
-        *Sample answer: We asked survey questions to gather the information.*<br>
+        100. **How?**:How will you collect this information? <span style="color:grey">***Sample answer: We asked survey questions to gather the information.***</span><br>
         
     100. Explain that the type of data students collected today is first-hand original information they collected directly. First-hand, original information that a researcher collects directly is called **primary data**. In other words, the researcher has control over the entire data collection process.
 
