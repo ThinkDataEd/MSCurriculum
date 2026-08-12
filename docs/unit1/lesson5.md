@@ -53,9 +53,9 @@ Students will be able to transfer unstructured data into a structured data table
 
 3. Initial Discussion for Clue #2:
 
-    100. What new piece of evidence does this note force us to look at? *Sample answer: GPA.*
+    100. What new piece of evidence does this note force us to look at? <span style="color:grey">***Sample answer: GPA.***</span>
 
-    100. What might this mean for our investigation? *Sample answer: The culprit could be a student, or a staff member trying to throw us off the trail by mentioning a student-specific data point.* 
+    100. What might this mean for our investigation? <span style="color:grey">***Sample answer: The culprit could be a student, or a staff member trying to throw us off the trail by mentioning a student-specific data point.***</span> 
 
         <style type="text/css">
         .ta  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border:4px dotted #0077bb;}
@@ -196,11 +196,11 @@ Students will be able to transfer unstructured data into a structured data table
     
     100. What goes in each column? **Attributes**, or characteristics, about the suspects, like their "Favorite Candy." In data science, we call these attributes **variables**. Point out that the root word of **variable** is "**vary**". Ask a volunteer to share what they think this term means. You can guide the discussion with the following questions:
 
-        100. What does it mean for something to vary? *Sample answer: When a value can change from one observation to the next.*
+        100. What does it mean for something to vary? <span style="color:grey">***Sample answer: When a value can change from one observation to the next.***</span>
 
-        100. Did the observations you recorded for the Suspect Data Cards vary? Give an example. *Sample answer: Yes, students wore different colored shirts, so it changed from person to person.*
+        100. Did the observations you recorded for the Suspect Data Cards vary? Give an example. <span style="color:grey">***Sample answer: Yes, students wore different colored shirts, so it changed from person to person.***</span>
 
-        100. What are some synonyms for vary? *Sample answer: different, differ, change, contrast, alter, etc.*
+        100. What are some synonyms for vary? <span style="color:grey">***Sample answer: different, differ, change, contrast, alter, etc.***</span>
 
         100. Next, explain that **variables** are what we call those groups of characteristics, or **attributes**, that can change from person to person. We call them **variables** because their values **vary** from row to row.
 
@@ -242,14 +242,14 @@ Students will be able to transfer unstructured data into a structured data table
 
 7. Using the same student teams from [Lesson 4](lesson4.md), engage students in a Variable Brainstorm activity.
 
-    100. Ask a student volunteer to suggest one variable their team might have observed from the data cards, and list the different values the variable could take. *Sample answers: (1) “Favorite Candy” could be a variable because each person’s favorite candy can vary among Chocolate, Chewy/Gummy, or Hard/Lollipop. (2) “Age” could be a variable because the values vary between 11 and 60.*
+    100. Ask a student volunteer to suggest one variable their team might have observed from the data cards, and list the different values the variable could take. <span style="color:grey">***Sample answers: (1) “Favorite Candy” could be a variable because each person’s favorite candy can vary among Chocolate, Chewy/Gummy, or Hard/Lollipop. (2) “Age” could be a variable because the values vary between 11 and 60.***</span>
 
     100. Team Task: In their groups, ask students to come up with and record a list of possible variables that they collected from the Data Cards. Guide students back to their observations from [Lessons 3](lesson3.md) and [4](lesson4.md) if they need extra support. <br>
     ***NOTE***: Teams do not need to find every possible variable, but they should identify at least 3 different ones.
 
     100. Once each team has written down their list of variables, ask them to decide on one variable that is of interest to them. Record the choices on the board for easy reference.
 
-8. Distribute the Data Table Template ([LMR_U1_L05_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L05_A.pdf)) to students and guide them through how to set up the first column of the Suspect Data Table using the variable they chose in Step 6. Then, have them select 6 Suspect Data Cards and record the values for their chosen variable.
+8. Distribute the Data Table Template ([LMR_U1_L05_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L05_A.pdf)) to students and guide them through how to set up the first column of the Suspect Data Table using the variable they chose in Step 7. Then, have them select 6 Suspect Data Cards and record the values for their chosen variable.
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L05_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L05_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L05_A.pdf)</div>
 
@@ -358,21 +358,21 @@ Students will be able to transfer unstructured data into a structured data table
 
 12. Engage students in a discussion about the places in the data table that they left blank. 
 
-    100. Are there any variables in the student cards that are NOT in the staff cards? What are they? *Sample answer:  Yes. Students have Grade and GPA, but the staff do not.*
+    100. Are there any variables in the student cards that are NOT in the staff cards? What are they? <span style="color:grey">***Sample answer:  Yes. Students have Grade and GPA, but the staff do not.***</span>
 
-    100. Are there any variables in the staff cards that are not in the student cards? What are they? *Sample answer: Yes. Staff have Years at School, but the students do not.* 
+    100. Are there any variables in the staff cards that are not in the student cards? What are they? <span style="color:grey">***Sample answer: Yes. Staff have Years at School, but the students do not.***</span> 
 
 13. Formally introduce the concept of **missing values**. In real investigations, detectives often encounter missing values, or places where information should be, but isn't. It could mean that this data does not exist, or simply was not collected.
 
     100. Refer students back to our newest clue that mentions a “high GPA” and ask: 
 
-        100. Can we complete all 30 rows of our data table using the variable GPA? Why or why not? *Sample answer: No, we can only complete GPA values for students.*
+        100. Can we complete all 30 rows of our data table using the variable GPA? Why or why not? <span style="color:grey">***Sample answer: No, we can only complete GPA values for students.***</span>
 
-        100. If a suspect doesn’t have a GPA value, what should we write in that cell of the data table? *Sample answer: We can just leave it blank, or we can maybe put a “–” symbol in its place.* 
+        100. If a suspect doesn’t have a GPA value, what should we write in that cell of the data table? <span style="color:grey">***Sample answer: We can just leave it blank, or we can maybe put a “–” symbol in its place.***</span> 
 
-        100. How does a real-life detective handle missing information when investigating a crime? *Sample answer: They look for other clues, but keep people on the suspect list until a new piece of information comes to light.*
+        100. How does a real-life detective handle missing information when investigating a crime? <span style="color:grey">***Sample answer: They look for other clues, but keep people on the suspect list until a new piece of information comes to light.***</span>
 
-        100. Does the absence of a GPA for staff members mean they are automatically innocent and we can eliminate them from our suspect list? *Sample answer: No! This is a crucial point in real investigations.*
+        100. Does the absence of a GPA for staff members mean they are automatically innocent and we can eliminate them from our suspect list? <span style="color:grey">***Sample answer: No! This is a crucial point in real investigations.***</span>
 
 14. Explain that, in the context of the Candy Culprit investigation, when a piece of data about one of the suspects is missing, it doesn't automatically mean that suspect is innocent. It just means we don't have that specific piece of evidence for them. This is a crucial concept in real investigations. We can’t eliminate any staff suspects based on Clue #2 because missing data, in this case, does not equal innocence.
 
@@ -387,11 +387,11 @@ Students will be able to transfer unstructured data into a structured data table
 
 16. Direct students back to the data table and ask them to participate in a Think-Pair-Share activity about the actual values they see for each variable. They should answer the following questions in their notebooks:
 
-    100. What type of information did you input in Column #1? Was it words or text? Was it a numerical value?
+    100. What type of information did you input in Column #1? Was it words or text? Was it a numerical value? <span style="color:grey">***Answers will vary depending on which variable students chose as their first variable in Step 7.***</span>
 
-    100. What values did you observe for the Favorite Class variable? *Sample answer: Words like English, Math, and Social Studies.*
+    100. What values did you observe for the Favorite Class variable? <span style="color:grey">***Sample answer: Words like English, Math, and Social Studies.***</span>
 
-    100. What values did you observe for the Books variable? *Sample answer: Numbers like 1, 5, and 35.*
+    100. What values did you observe for the Books variable? <span style="color:grey">***Sample answer: Numbers like 1, 5, and 35.***</span>
 
 17. Next, explain that in data science, variables are classified into 2 groups based on their values. Write the following terms on the board and ask student volunteers to add their own definitions to them.
 
@@ -441,7 +441,10 @@ Students will be able to transfer unstructured data into a structured data table
 
 20. Key Takeaway: Review that the data table is the official DSU format for all evidence. It standardizes the cases (rows) and variables (columns) and immediately highlights where missing values exist, which prevents false assumptions.
 
-21. Exit Ticket: Students will submit their answers to the question, “If the next Candy Culprit clue is about the variable Years at School, will we be able to eliminate any students? Why or why not? Use the vocabulary words **case**, **variable**, and **missing value** in your answer.”
+21. Exit Ticket: Students will submit their answers to the question, “If the next Candy Culprit clue is about the variable Years at School, will we be able to eliminate any students? Why or why not? Use the vocabulary words **case**, **variable**, and **missing value** in your answer.” <br>
+<span style="color:grey">***Sample answers:***</span> <br>
+<span style="color:grey">***(1) We can eliminate all students because the <u>variable</u> Years at School is a <u>missing value</u> for each student <u>case</u>.***</span><br>
+<span style="color:grey">***(2) If the Candy Culprit clues say that the Years at School <u>variable</u> is not a <u>missing value</u>, then we can eliminate all staff <u>case</u>s because they all have a numerical value for that variable.***</span>
 
 22. Transition: Announce that in the next lesson, the detectives will learn how to enter this neatly structured data into a digital Detective Toolkit (a specialized computer program) to begin the actual statistical analysis.
 

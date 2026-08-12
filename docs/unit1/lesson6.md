@@ -41,15 +41,15 @@ Students will be able to navigate the CODAP environment, create variables (colum
 
 2. Lesson Hook: Transitioning from Paper to Pixels
 
-    100. Using the case tables they created by hand during Lesson 5, ask students to determine the answer to the question, “How many suspects have Chocolate listed as their favorite candy type?” *Answer: 9 suspects.*
+    100. Using the case tables they created by hand during Lesson 5, ask students to determine the answer to the question, “How many suspects have Chocolate listed as their favorite candy type?” <span style="color:grey">***Answer: 9 suspects.***</span>
 
     100. Point out that humans can be quite slow to answer the question because it takes time to scan through all the rows and columns by hand. Ask: 
 
-        100. Our data table only had 30 total cases, but what if there were 1000 cases? How long do you think it would take to answer the same question? *Sample answer: Much longer, especially if the values were not sorted alphabetically.*
+        100. Our data table only had 30 total cases, but what if there were 1000 cases? How long do you think it would take to answer the same question? <span style="color:grey">***Sample answer: Much longer, especially if the values were not sorted alphabetically.***</span>
 
-        100. What tool could we use to find the answer faster? *Sample answer: A computer.*
+        100. What tool could we use to find the answer faster? <span style="color:grey">***Sample answer: A computer.***</span>
 
-        100. How might moving the data into a computer program make solving cases easier? *Sample answer: It can help us sort, filter, and count cases quickly.*  
+        100. How might moving the data into a computer program make solving cases easier? <span style="color:grey">***Sample answer: It can help us sort, filter, and count cases quickly.***</span>  
 
 3. Explain that the DSU needs to solve cases quickly and efficiently since resources are limited, so today the detectives will learn how to use **CODAP** (Common Online Data Analysis Platform) as part of our detective toolkit.
 
@@ -95,9 +95,9 @@ Students will be able to navigate the CODAP environment, create variables (colum
 
 8. Once students have 5 suspects, lead a whole-class discussion about the differences they noticed between writing the data into the paper data table versus typing the data into the digital data table. Guide the discussion with the following questions:
 
-    100. What challenges did you face when trying to set up your variables (columns)? *Sample answer: Making sure I typed the names correctly; making sure I didn't mix my numerical data with my categorical data.
+    100. What challenges did you face when trying to set up your variables (columns)? <span style="color:grey">***Sample answer: Making sure I typed the names correctly; making sure I didn't mix my numerical data with my categorical data.***</span>
 
-    100. If a suspect did not have a value for a particular variable, what did you type into the data table? *Sample answer: If a piece of data was missing for a particular suspect, I did not type anything into that cell of the data table. I just left it blank.
+    100. If a suspect did not have a value for a particular variable, what did you type into the data table? <span style="color:grey">***Sample answer: If a piece of data was missing for a particular suspect, I did not type anything into that cell of the data table. I just left it blank.***</span>
 
         <style type="text/css">
         .ta  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border:4px dotted #0077bb;}
@@ -156,15 +156,15 @@ Students will be able to navigate the CODAP environment, create variables (colum
 
 12. Allow students to partner up for a Think-Ink-Pair-Share activity to discuss the following questions:
 
-    100. If you needed to check every single variable for one suspect, which view is better? *Answer: The Case Card view because it shows one suspect, or case, at a time.* 
+    100. If you needed to check every single variable for one suspect, which view is better? <span style="color:grey">***Answer: The Case Card view because it shows one suspect, or case, at a time.***</span> 
 
-    100. If you needed to compare all 30 suspects’ GPAs at once, which view is better? *Answer: The Case Table view because we can see many of the cases at once.*
+    100. If you needed to compare all 30 suspects’ GPAs at once, which view is better? <span style="color:grey">***Answer: The Case Table view because we can see many of the cases at once.***</span>
 
 13. Revisit the question posed during Step 2 of the Opening section of this lesson (“How many suspects have Chocolate listed as their favorite candy type?”). Can we answer this question easily with CODAP? Which view would make it easier to answer this question?
 
     100. Explain that CODAP makes organizing our data very easy by allowing us to sort by one variable at a time. 
 
-    100. In the case table view, click the variable name “FaveCandy” and have students observe the drop-down options. What option(s) would help us find the chocolate lovers quickly? *Answer: Sort Ascending (A -> Z, 0 -> 9) or Sort Descending (9 -> 0, Z -> A). Ascending might be best here, though, because “Chocolate” starts with the letter C and is near the beginning of the alphabet.* 
+    100. In the case table view, click the variable name “FaveCandy” and have students observe the drop-down options. What option(s) would help us find the chocolate lovers quickly? <span style="color:grey">***Answer: Sort Ascending (A -> Z, 0 -> 9) or Sort Descending (9 -> 0, Z -> A). Ascending might be best here, though, because “Chocolate” starts with the letter C and is near the beginning of the alphabet.***</span> 
 
         <center><img src="../../img/u1_l06_13b.png" style="width:50vw;height:auto;" alt="Sort FaveCandy"/></center>
 
@@ -172,11 +172,11 @@ Students will be able to navigate the CODAP environment, create variables (colum
 
         <center><img src="../../img/u1_l06_13c.png" style="width:50vw;height:auto;" alt="Sorted FaveCandy"/></center>
         
-        100. Ask students to quickly determine how many suspects chose “Chocolate” as their favorite candy. Does this answer match what they found during our opening activity? *Answer: There are 9 suspects whose favorite candy is Chocolate, which matches what we said earlier.* 
+        100. Ask students to quickly determine how many suspects chose “Chocolate” as their favorite candy. Does this answer match what they found during our opening activity? <span style="color:grey">***Answer: There are 9 suspects whose favorite candy is Chocolate, which matches what we said earlier.***</span> 
         
-        100. Which method made finding the total number of chocolate lovers easier – counting by hand or sorting in CODAP? *Sample answer: Sorting in CODAP is easier and faster because it groups all of the suspects with a value of “Chocolate” together.*  
+        100. Which method made finding the total number of chocolate lovers easier – counting by hand or sorting in CODAP? <span style="color:grey">***Sample answer: Sorting in CODAP is easier and faster because it groups all of the suspects with a value of “Chocolate” together.***</span>  
 
-14. Quick Practice: Direct students to review Clue #2 from Lesson 5 and allow them to use their new CODAP skills to reexamine the GPA variable. They should record how the results either confirm or dispute their findings from Lesson 4. *Sample answer: When GPA is sorted in ascending order, the first 9 cases have missing values, and we can see that those cases are all of the staff members. We still cannot eliminate any staff members based on their GPAs because missing data does not imply innocence.* 
+14. Quick Practice: Direct students to review Clue #2 from Lesson 5 and allow them to use their new CODAP skills to reexamine the GPA variable. They should record how the results either confirm or dispute their findings from Lesson 4. <span style="color:grey">***Sample answer: When GPA is sorted in ascending order, the first 9 cases have missing values, and we can see that those cases are all of the staff members. We still cannot eliminate any staff members based on their GPAs because missing data does not imply innocence.***</span> 
 
     <center><h3>Closing</h3></center>
 

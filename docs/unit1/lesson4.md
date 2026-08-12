@@ -65,9 +65,9 @@ Students will be able to extract and organize additional information from the su
 
     100. As the student detectives look at both sides of the data cards, ask them to note any differences in the types of information provided for different people.
 
-        100. Does every data card contain the exact same information? *Sample answer: no, but they do have a lot of similar information. For example, all of the cards list a “Favorite Candy”.* 
+        100. Does every data card contain the exact same information? <span style="color:grey">***Sample answer: no, but they do have a lot of similar information. For example, all of the cards list a “Favorite Candy”.***</span> 
 
-        100. More specific follow-up: Do all of the suspect data cards have GPAs listed? Do all cards have the number of years of service listed? What do you notice? *Sample answer: GPA is only for students, and Years of Service is only for staff.*
+        100. More specific follow-up: Do all of the suspect data cards have GPAs listed? Do all cards have the number of years of service listed? What do you notice? <span style="color:grey">***Sample answer: GPA is only for students, and Years of Service is only for staff.***</span>
 
         <style type="text/css">
         .ta  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border:4px dotted #0077bb;}
@@ -93,11 +93,11 @@ Students will be able to extract and organize additional information from the su
 
 6. Pose the following questions to prepare students for the next activity:
 
-    100. Will it be convenient to keep all 30 Suspect Data Cards with you throughout the entire investigation? *Sample answer: No. It would be difficult to sift through all 30 cards each time something new happens.*
+    100. Will it be convenient to keep all 30 Suspect Data Cards with you throughout the entire investigation? <span style="color:grey">***Sample answer: No. It would be difficult to sift through all 30 cards each time something new happens.***</span>
 
-    100. Do you need to examine all 30 cards individually every time you receive a new piece of evidence? *Sample answer: No. Once we have eliminated a suspect, we wouldn’t need to consider them as the Candy Culprit anymore.*
+    100. Do you need to examine all 30 cards individually every time you receive a new piece of evidence? <span style="color:grey">***Sample answer: No. Once we have eliminated a suspect, we wouldn’t need to consider them as the Candy Culprit anymore.***</span>
 
-    100. Is there a faster way to rule out suspects than by removing cards one-by-one from your suspect pile? Hint: Think back to the Guess Who? game at the beginning of class. *Sample answer: Yes. We can have all the suspect photos and names put onto 1 page and cross them off as we eliminate them as suspects.*
+    100. Is there a faster way to rule out suspects than by removing cards one-by-one from your suspect pile? Hint: Think back to the Guess Who? game at the beginning of class. <span style="color:grey">***Sample answer: Yes. We can have all the suspect photos and names put onto 1 page and cross them off as we eliminate them as suspects.***</span>
 
 7. Describe the next task for our detectives. In their teams, they will need to organize all of the data from the Suspect Data Cards and create a single, one-page display that will allow them (and others) to quickly access and view the information.
 
