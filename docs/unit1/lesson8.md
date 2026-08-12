@@ -86,15 +86,15 @@ Students will be able to identify the appropriate plot types (bar graphs, pictog
 
 3. Next, pose the following questions regarding the sticky notes they just placed on the board:
 
-    100. What two types of variables have we learned about? *Answer: Numerical variables and categorical variables.*
+    100. What two types of variables have we learned about? <span style="color:grey">***Answer: Numerical variables and categorical variables.***</span>
 
-    100. A person’s eye color is what type of variable? *Answer: Categorical variable.*
+    100. A person’s eye color is what type of variable? <span style="color:grey">***Answer: Categorical variable.***</span>
 
-    100. The number of siblings a person has is what type of variable? *Answer: Numerical Variable.* 
+    100. The number of siblings a person has is what type of variable? <span style="color:grey">***Answer: Numerical Variable.***</span> 
 
-    100. In Plot A (Eye Color), does the order of the columns matter? Could we move Blue to the left of Brown? What order makes the most sense to you? *Sample answer: The order does not matter. We can choose to place the eye colors in any order we want. It would make sense to order them alphabetically or from most common to least common. Any order would still make sense.*
+    100. In Plot A (Eye Color), does the order of the columns matter? Could we move Blue to the left of Brown? What order makes the most sense to you? <span style="color:grey">***Sample answer: The order does not matter. We can choose to place the eye colors in any order we want. It would make sense to order them alphabetically or from most common to least common. Any order would still make sense.***</span>
 
-    100. In Plot B (Siblings), does the order of the columns matter? Could we move 2 to the left of 1? Explain. *Sample answer: The order does matter because there is a number line and numbers have a logical order to them. You would not want to have the value 2 before 1 because it has a greater value, and it is important to be able to show that someone has MORE siblings and also HOW MANY more.* 
+    100. In Plot B (Siblings), does the order of the columns matter? Could we move 2 to the left of 1? Explain. <span style="color:grey">***Sample answer: The order does matter because there is a number line and numbers have a logical order to them. You would not want to have the value 2 before 1 because it has a greater value, and it is important to be able to show that someone has MORE siblings and also HOW MANY more.***</span> 
 
     <center><h3>Concept Development</h3></center>
 
@@ -177,9 +177,9 @@ Students will be able to identify the appropriate plot types (bar graphs, pictog
 
         100. Station 4: A **histogram** allows us to group ***numerical*** values into bins, or intervals.
 
-            100. ***NOTE***: Discuss and highlight the similarities and differences between Station 1 (bar graph) and Station 4 (histogram). Both of these plots use bars to show frequencies. What is different about how the bars are placed next to each other at each station? *Sample answer: The bars at Station 1 (bar graph) do not touch each other and there is a space/gap between each bar. The bars at Station 4 (histogram) do touch and there are no gaps between them.*
+            100. ***NOTE***: Discuss and highlight the similarities and differences between Station 1 (bar graph) and Station 4 (histogram). Both of these plots use bars to show frequencies. What is different about how the bars are placed next to each other at each station? <span style="color:grey">***Sample answer: The bars at Station 1 (bar graph) do not touch each other and there is a space/gap between each bar. The bars at Station 4 (histogram) do touch and there are no gaps between them.***</span>
 
-            100. Why does the spacing between bars matter? *Sample answer: Histograms show a number line where any spaces between numbers would matter. For example, having a gap between the numbers 2 and 3 would mean that there were no data values recorded that were greater than 2 and less than 3 (ex. 2.3, 2.75). Since the categories in bar graphs do not have an order and you would not be able to be on the cusp between 2 categories, continuous bars are not necessary.*
+            100. Why does the spacing between bars matter? <span style="color:grey">***Sample answer: Histograms show a number line where any spaces between numbers would matter. For example, having a gap between the numbers 2 and 3 would mean that there were no data values recorded that were greater than 2 and less than 3 (ex. 2.3, 2.75). Since the categories in bar graphs do not have an order and you would not be able to be on the cusp between 2 categories, continuous bars are not necessary.***</span>
 
         100. Station 5: A **boxplot** divides ***numerical*** values into 4 segments (quarters or fourths).
             100. This plot might be the most unfamiliar to students. It does not have dots or bars. 

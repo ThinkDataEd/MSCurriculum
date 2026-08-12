@@ -75,7 +75,7 @@ n/a
 
 1. As mentioned in the Class Setup section, pass out the Suspect-Candy strips as students walk into class.
 
-2. Once class begins, have students identify that favorite candy is a categorical variable. Then, ask them to recall what plots are typically used for categorical variables. *Answer: bar graphs and pictograms.*
+2. Once class begins, have students identify that favorite candy is a categorical variable. Then, ask them to recall what plots are typically used for categorical variables. <span style="color:grey">***Answer: bar graphs and pictograms.***</span>
 
 3. Explain that they are going to “build” a physical bar graph using themselves to fill up the bars. Instruct students to physically move to the corner of the room that corresponds to the favorite candy type listed on their Suspect-Candy strip(s). 
 
@@ -83,11 +83,11 @@ n/a
 
 5. Then, ask them to look around the room and observe the “bars” for each group. 
 
-    100. Students should determine which group is the largest (which group would have the tallest bar) and which group is the smallest (which group would have the shortest bar). *Answer: the tallest “bar” is Gummy/Chewy candy, and the shortest “bar” is None.* 
+    100. Students should determine which group is the largest (which group would have the tallest bar) and which group is the smallest (which group would have the shortest bar). <span style="color:grey">***Answer: the tallest “bar” is Gummy/Chewy candy, and the shortest “bar” is None.***</span> 
 
-    100. Does it matter if the Chocolate group stands next to the Gummy/Chewy group, or could we swap places? *Answer: It doesn't matter because categorical data has no specific order.* 
+    100. Does it matter if the Chocolate group stands next to the Gummy/Chewy group, or could we swap places? <span style="color:grey">***Answer: It doesn't matter because categorical data has no specific order.***</span> 
 
-6. Wrap up this portion of the lesson by bringing back the current Data Cycle graphic that was introduced in Lesson 8 with the Analyze Data phase shown ([LMR_U1_L01_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf), page 4). Have students share what typically happens during this phase. Sample answers: We create plots and summaries of data, and try to identify patterns and trends. This is the phase where we gather evidence that might be able to answer our statistical questions.
+6. Wrap up this portion of the lesson by bringing back the current Data Cycle graphic that was introduced in Lesson 8 with the Analyze Data phase shown ([LMR_U1_L01_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf), page 4). Have students share what typically happens during this phase. <span style="color:grey">***Sample answers: We create plots and summaries of data, and try to identify patterns and trends. This is the phase where we gather evidence that might be able to answer our statistical questions.***</span>
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L01_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L01_B.pdf)</div>
 
@@ -148,9 +148,9 @@ n/a
 
 14. Have one student read out the newest clue, and then ask:
 
-    100. Which variable in the Candy Culprit dataset should we analyze in order to use Clue #3? *Answer: “Activity”.* 
+    100. Which variable in the Candy Culprit dataset should we analyze in order to use Clue #3? <span style="color:grey">***Answer: “Activity”.***</span> 
 
-    100. What specific outcome of that variable should we look for? *Answer: “Art Club”.*
+    100. What specific outcome of that variable should we look for? <span style="color:grey">***Answer: “Art Club”.***</span>
 
 15. Distribute the Clue 3 CODAP Analysis handout ([LMR_U1_L09_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L09_B.pdf)) and instruct students to complete each step to determine which suspects they can eliminate from our list.
 
@@ -177,15 +177,15 @@ n/a
 
 17. Once all students have completed their analysis, engage in a whole class discussion about the results.
 
-    100. Which variable did you choose to analyze? *Answer: “Activity” or “Extracurricular Activity”.* 
+    100. Which variable did you choose to analyze? <span style="color:grey">***Answer: “Activity” or “Extracurricular Activity”.***</span> 
 
-    100. What type of variable is “Activity”? *Answer: Categorical.*
+    100. What type of variable is “Activity”? <span style="color:grey">***Answer: Categorical.***</span>
 
-    100. What is an appropriate plot for that type of variable? *Answer: Bar graph or pictogram, but CODAP allows us to create a bar graph.*
+    100. What is an appropriate plot for that type of variable? <span style="color:grey">***Answer: Bar graph or pictogram, but CODAP allows us to create a bar graph.***</span>
 
-    100. How many suspects identified “Art Club” as their “Activity”? *Answer: 3 suspects.*
+    100. How many suspects identified “Art Club” as their “Activity”? <span style="color:grey">***Answer: 3 suspects.***</span>
 
-    100. Who are the suspects in the Art Club? *Answer: Dahlia Doodles, Dustin Hall, and Yvonne Yodel. We can eliminate them as suspects! We know that these suspects are definitely NOT the Candy Culprit.*
+    100. Who are the suspects in the Art Club? <span style="color:grey">***Answer: Dahlia Doodles, Dustin Hall, and Yvonne Yodel. We can eliminate them as suspects! We know that these suspects are definitely NOT the Candy Culprit.***</span>
 
 18. Have students take out their Candy Culprit Suspect Tracker ([LMR_U1_L05_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L05_B.pdf)) sheet so they can cross off the eliminated suspects. An example of the updated suspect tracker is provided below. 
 
@@ -197,7 +197,7 @@ n/a
 
     100. Project your computer screen and display the CODAP bar graph for the “Activity” variable. 
 
-    100. Ask students how CODAP ordered the bars for this variable automatically. *Answer: CODAP placed the bars in alphabetical order (A → Z) from left to right.*
+    100. Ask students how CODAP ordered the bars for this variable automatically. <span style="color:grey">***Answer: CODAP placed the bars in alphabetical order (A → Z) from left to right.***</span>
 
     100. Drag the “Sports Team” bar to the left of the "Art Club" bar by clicking and holding the x-axis label. Then, ask students if this movement changes the underlying data; in other words, did it change the facts of the case?
 
@@ -205,9 +205,9 @@ n/a
 
 21. Exit Ticket: Students should answer the following 2 questions and turn in their responses on a small sheet of paper. 
 
-    100. Why did we choose a Bar Graph instead of a Dot Plot to analyze the “Activity” variable? *Sample answer: Because “Activity” is a category (words), not a number. You can't put “Art Club” on a number line.*
+    100. Why did we choose a Bar Graph instead of a Dot Plot to analyze the “Activity” variable? <span style="color:grey">***Sample answer: Because “Activity” is a category (words), not a number. You can't put “Art Club” on a number line.***</span>
 
-    100. If a new suspect joined the “Robotics Club,” how would your bar graph change? *Sample answer: The bar for Robotics would get taller by one.*
+    100. If a new suspect joined the “Robotics Club,” how would your bar graph change? <span style="color:grey">***Sample answer: The bar for Robotics would get taller by one.***</span>
 
 22. Transition: Congratulate the data detectives for mastering plots of categorical variables. We will expand our knowledge using numerical variables during our next lesson. 
 

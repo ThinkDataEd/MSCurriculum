@@ -59,11 +59,11 @@ Students will be able to differentiate between statistical questions and survey 
 
     100. What were some of the questions that were asked at each station? 
 
-        100. *Sample answer: What is your favorite type of candy?*
+        100. <span style="color:grey">***Sample answer: What is your favorite type of candy?***</span>
 
-        100. *Sample answer: How many books did you read over the summer?*
+        100. <span style="color:grey">***Sample answer: How many books did you read over the summer?***</span>
 
-    100. Were those questions addressed to the class as a whole group, or were they addressed to individual students? *Sample answer: Students answered the questions individually.*
+    100. Were those questions addressed to the class as a whole group, or were they addressed to individual students? <span style="color:grey">***Sample answer: Students answered the questions individually.***</span>
 
 5. Emphasize that survey questions are posed to <u>individuals</u>, and each person provides 1 answer.
 
@@ -97,23 +97,23 @@ Students will be able to differentiate between statistical questions and survey 
 
     100. Question A: 
 
-        100. *Sample answer: Question A is asked about one person.* 
+        100. <span style="color:grey">***Sample answer: Question A is asked about one person.***</span> 
 
-        100. *Sample answer: Question A has one answer (Max’s favorite class is Social Studies).*
+        100. <span style="color:grey">***Sample answer: Question A has one answer (Max’s favorite class is Social Studies).***</span>
 
     100. Question B: 
 
-        100. *Sample answer: Question B is about the entire suspect list.*
+        100. <span style="color:grey">***Sample answer: Question B is about the entire suspect list.***</span>
 
-        100. *Sample answer: Question B needs many answers to figure out a consensus on which class everyone likes.*
+        100. <span style="color:grey">***Sample answer: Question B needs many answers to figure out a consensus on which class everyone likes.***</span>
         
-        100. *Sample answer: For Question B, we would expect different suspects to have different favorite classes (variability). We need many responses to come up with an answer.*
+        100. <span style="color:grey">***Sample answer: For Question B, we would expect different suspects to have different favorite classes (variability). We need many responses to come up with an answer.***</span>
 
-        100. *Sample answer: Question B might have a summary answer (“most suspects like X class”).*
+        100. <span style="color:grey">***Sample answer: Question B might have a summary answer (“most suspects like X class”).***</span>
 
 11. As students share out their findings, record some of the key differences on the board and have students do the same in their notebooks.
 
-12. Explain that Question A and Question B are examples of Survey Questions and Statistical Questions. Ask students to make an educated guess about which question type matches Question A and which type matches Question B. *Answer: Question A is a survey question and Question B is a statistical question.*
+12. Explain that Question A and Question B are examples of Survey Questions and Statistical Questions. Ask students to make an educated guess about which question type matches Question A and which type matches Question B. <span style="color:grey">***Answer: Question A is a survey question and Question B is a statistical question.***</span>
 
 13. Solidify the difference between survey questions and statistical questions by connecting them back to what the students observed during the Think-Ink-Pair-Share activity. 
 
@@ -192,9 +192,9 @@ Students will be able to differentiate between statistical questions and survey 
 
         100. Clue #2: There is mention of a “high GPA.” 
 
-    100. As a class, come up with a statistical question related to Clue #1, and write it on the board. *Sample answer: Which type of candy do suspects choose most often as their “favorite”?*
+    100. As a class, come up with a statistical question related to Clue #1, and write it on the board. <span style="color:grey">***Sample answer: Which type of candy do suspects choose most often as their “favorite”?***</span>
 
-    100. As a class, come up with a statistical question related to Clue #2, and write it on the board. *Sample answer: What is the typical GPA for 8th grade students?*
+    100. As a class, come up with a statistical question related to Clue #2, and write it on the board. <span style="color:grey">***Sample answer: What is the typical GPA for 8th grade students?***</span>
 
     <b><i><span style="font-size: 18px";>Part 2: Creating Our Own Statistical Questions</span></b></i>
 
@@ -269,12 +269,12 @@ Students will be able to differentiate between statistical questions and survey 
 17. Exit Ticket: Challenge students to convert each question below into a statistical one. 
 
     100. Question 1: What is your favorite video game? <br>
-    *Sample statistical question: What are the most popular video games among students in our class?*
+    <span style="color:grey">***Sample statistical question: What are the most popular video games among students in our class?***</span>
 
     100. Question 2: How many siblings do you have? <br>
-    *Sample statistical question: What is the most common number of siblings for students in our class?* 
+    <span style="color:grey">***Sample statistical question: What is the most common number of siblings for students in our class?***</span> 
 
     100. Question 3: What time do you usually wake up for school?<br>
-    *Sample statistical question: What time do students in our class usually wake up on school days?*
+    <span style="color:grey">***Sample statistical question: What time do students in our class usually wake up on school days?***</span>
 
 
