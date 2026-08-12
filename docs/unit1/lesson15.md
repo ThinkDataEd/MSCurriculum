@@ -29,7 +29,7 @@ Students will recognize how extreme values can disproportionately influence the 
 
     - Prior to class, print and cut out one set of the Attractions A, B, C, D, E from the Carnival Cards document ([LMR_U1_L15_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L15_A.pdf)). <br> 
     ***NOTE***: Five additional Attraction cards (labeled as Attractions F, G, H, J, K) are provided and will be used during Lesson 16. However, teachers may also use them during this lesson to enhance or enrich the discussion. *See Step 5 below.*
-doc preview
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L15_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L15_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L15_A.pdf)</div>
      
 <center><h3>Opening</h3></center>
 
@@ -164,13 +164,13 @@ doc preview
 
             <center><img src="../../img/u1_l15_12bii2.png" style="width:16vw;height:auto;" alt="median value"/></center>
 
-    100. How do the new mean and median values compare to each other? *Sample answer: The mean and median are very close to each other. The mean is 102.5 and the median is 101.5.*
+    100. How do the new mean and median values compare to each other? <span style="color:grey">***Sample answer: The mean and median are very close to each other. The mean is 102.5 and the median is 101.5.***</span>
 
     100. How do measures of center change when we include or exclude extreme values? 
 
-        100. When extreme values are included: *Mean = 83, Median = 100.* 
+        100. When extreme values are included: <span style="color:grey">***Mean = 83, Median = 100.***</span> 
 
-        100. When extreme values are excluded: *Mean = 102.5, Median = 101.5.* 
+        100. When extreme values are excluded: <span style="color:grey">***Mean = 102.5, Median = 101.5.***</span> 
 
         100. Key Takeaways: The mean is heavily affected by extreme values; it will decrease with extreme low values and increase with extreme high values. The median is not affected by extreme values.
 
@@ -184,9 +184,9 @@ doc preview
 
 14. Now that the data detectives have seen how extreme values affect the mean, ask them to make predictions about how the MAD might be affected. 
 
-    100. Do you think extreme values will increase or decrease the MAD? Explain. *Sample answer: Since the data points have more variation, the MAD should be higher.* 
+    100. Do you think extreme values will increase or decrease the MAD? Explain. <span style="color:grey">***Sample answer: Since the data points have more variation, the MAD should be higher.***</span> 
 
-    100. Do you think the MAD will increase or decrease when extreme low values are present? What about when extreme high values are present? Is there a difference? Explain. *Sample answer: The MAD will increase in both scenarios because we calculate the absolute deviation. Any deviation that is really large will increase the MAD.* 
+    100. Do you think the MAD will increase or decrease when extreme low values are present? What about when extreme high values are present? Is there a difference? Explain. <span style="color:grey">***Sample answer: The MAD will increase in both scenarios because we calculate the absolute deviation. Any deviation that is really large will increase the MAD.***</span> 
 
 15. Using the Parallel Tasks strategy, allow students to partner up with their nearest table neighbor. 
 
@@ -249,9 +249,9 @@ doc preview
     </tr>
     </table>
 
-    100. Which set of data had the higher MAD? Is this what our class predicted? Does it make sense? *Answer: The dataset with extreme values had the higher MAD, which makes sense because the points varied more from the mean value.* 
+    100. Which set of data had the higher MAD? Is this what our class predicted? Does it make sense? <span style="color:grey">***Answer: The dataset with extreme values had the higher MAD, which makes sense because the points varied more from the mean value.***<span> 
 
-    100. What does this tell us about how extreme values affect the MAD? *Answer: The MAD is heavily influenced by extreme values. It will increase when a dataset includes extreme low values and extreme high values.* 
+    100. What does this tell us about how extreme values affect the MAD? <span style="color:grey">***Answer: The MAD is heavily influenced by extreme values. It will increase when a dataset includes extreme low values and extreme high values.***</span> 
 
     <center><h3>Closing</h3></center>
 

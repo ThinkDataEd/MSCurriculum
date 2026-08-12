@@ -132,6 +132,11 @@
 !!! note ""
     the value that every observation would have if the total were distributed, or divided, equally
 
+### five-number summary
+
+!!! note ""
+    the five anchor points for a boxplot; the minimum value, Q1 value, median value, Q3 value, and maximum value
+
 ### histogram
 
 !!! note ""
