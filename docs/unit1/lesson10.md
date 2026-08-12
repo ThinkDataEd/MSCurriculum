@@ -51,16 +51,16 @@ Students will be able to construct and analyze dot plots of numerical data. They
 
 2. Once all students have arrived and placed their sticky note on the board, engage the class in a whole group discussion using the following questions:
 
-    100. What type of variable is “number of hours of sleep”? *Answer: Numerical.*
+    100. What type of variable is “number of hours of sleep”? <span style="color:grey">***Answer: Numerical.***</span>
 
-    100. What plots are appropriate to use for this type of variable? Recalling the plot types from Lesson 8, what type of plot matches what we created? *Answer: Appropriate plots include dot plots, histograms, and boxplots. We created a dot plot.* <br>
+    100. What plots are appropriate to use for this type of variable? Recalling the plot types from Lesson 8, what type of plot matches what we created? <span style="color:grey">***Answer: Appropriate plots include dot plots, histograms, and boxplots. We created a dot plot.***</span> <br>
     ***NOTE***: Even though sticky notes are square-shaped, we can consider them “dots” because they represent one person, or one observation. 
 
-    100. What is different about the x-axis of this plot compared to the bar graph we created yesterday? Does the order matter? *Answer: The x-axis is an ordered number line, not categories. We cannot move the labels for 5 hours and 8 hours because the order would no longer make sense.*
+    100. What is different about the x-axis of this plot compared to the bar graph we created yesterday? Does the order matter? <span style="color:grey">***Answer: The x-axis is an ordered number line, not categories. We cannot move the labels for 5 hours and 8 hours because the order would no longer make sense.***</span>
 
-    100. What value appeared the most in our graph? *Answers will vary by class.*
+    100. What value appeared the most in our graph? <span style="color:grey">***Answers will vary by class.***</span>
 
-    100. Were there any students who slept an usual amount, either way less or way more than the rest of the class? *Answers will vary by class.*
+    100. Were there any students who slept an usual amount, either way less or way more than the rest of the class? <span style="color:grey">***Answers will vary by class.***</span>
 
 3. Introduce the term **distribution**, which is simply a way to describe how a numerical variable’s data points are spread out, organized, or arranged across the x-values. 
 
@@ -73,15 +73,15 @@ Students will be able to construct and analyze dot plots of numerical data. They
 
 4. Have students redraw the “hours of sleep” dot plot by hand in their notebooks. Explain that they can make the drawing easier by simply using a dot to represent each sticky note. Ask:
 
-    100. Does changing the observations from sticky notes to dots change the actual data in our plot? *Answer: No. The shape of each “dot” does not matter. As long as one observation is represented by one “dot,” the data remains the same.* 
+    100. Does changing the observations from sticky notes to dots change the actual data in our plot? <span style="color:grey">***Answer: No. The shape of each “dot” does not matter. As long as one observation is represented by one “dot,” the data remains the same.***</span> 
 
-    100. What other symbols or items could we use and still call this plot a dot plot? *Sample answer: We could use a drawing of any shape (square, circle, triangle, etc.) to represent each observation. If we were using poster paper, we could use stickers or dot markers. If we wanted to create a physical version, we could use a pillow to represent each person.*
+    100. What other symbols or items could we use and still call this plot a dot plot? <span style="color:grey">***Sample answer: We could use a drawing of any shape (square, circle, triangle, etc.) to represent each observation. If we were using poster paper, we could use stickers or dot markers. If we wanted to create a physical version, we could use a pillow to represent each person.***</span>
 
 5. After students have copied their plots into their notebooks, ask them to participate in a Think-Ink-Pair-Share (TIPS) to discuss what makes dot plots easy to use. They should consider the following questions:
 
-    100. How many students were in class today? How many dots did we have to draw to represent them? *Answers will vary by class, but the values should be the same for # of students and # of dots.*
+    100. How many students were in class today? How many dots did we have to draw to represent them? <span style="color:grey">***Answers will vary by class, but the values should be the same for # of students and # of dots.***</span>
 
-    100. What if our class had 100 students in it? Would we want to hand-draw a dot plot for them? *Sample answer: Probably not because that is a lot of dots!*
+    100. What if our class had 100 students in it? Would we want to hand-draw a dot plot for them? <span style="color:grey">***Sample answer: Probably not because that is a lot of dots!***</span>
 
     <b><i><span style="font-size: 18px";>Part 2: Transitioning to CODAP - Using Our Digital Toolkit for Dot Plots</span></b></i>
 
@@ -91,7 +91,7 @@ Students will be able to construct and analyze dot plots of numerical data. They
 
     100. Instruct students to open their saved CODAP files of the Suspect data OR provide them with the link to the original [CODAP Suspect Data File](https://codap.concord.org/app/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2FTtznsLR5Tw98ENyde2PN%2Ffile.json "https://codap.concord.org/app/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2FTtznsLR5Tw98ENyde2PN%2Ffile.json"){:target="_blank"}.
 
-    100. Next, click on the “Graph” icon and instruct students to drag the `GPA` attribute to the x-axis. Ask students to describe what happened. *Answer: CODAP created a dot plot by default for numerical data.*
+    100. Next, click on the “Graph” icon and instruct students to drag the `GPA` attribute to the x-axis. Ask students to describe what happened. <span style="color:grey">***Answer: CODAP created a dot plot by default for numerical data.***</span>
 
         <center><img src="../../img/u1_l10_07b.png" style="width:20vw;height:auto;" alt="CODAP graph of GPA"/></center>
 
@@ -99,13 +99,13 @@ Students will be able to construct and analyze dot plots of numerical data. They
 
 9. Have students analyze the data in the dot plot by considering the following questions:
 
-    100. What values of `GPA` have the most number of suspects above them? *Sample answer: The value with the most points above it is 4.0. In general, most of the suspects have GPAs that fall between 3.4 and 4.0.*
+    100. What values of `GPA` have the most number of suspects above them? <span style="color:grey">***Sample answer: The value with the most points above it is 4.0. In general, most of the suspects have GPAs that fall between 3.4 and 4.0.***</span>
 
-    100. Are there any GPAs that are not represented by a dot? In other words, are there any gaps in the plot? *Sample answer: Yes, there are a lot of values that do not have dots above them*.*
+    100. Are there any GPAs that are not represented by a dot? In other words, are there any gaps in the plot? <span style="color:grey">***Sample answer: Yes, there are a lot of values that do not have dots above them*.***</span>
 
-    100. What is the lowest GPA? *Answer: 2.5.*
+    100. What is the lowest GPA? <span style="color:grey">***Answer: 2.5.***</span>
 
-    100. What is the highest GPA? *Answer: 4.0.*
+    100. What is the highest GPA? <span style="color:grey">***Answer: 4.0.***</span>
 
     <b><i><span style="font-size: 18px";>Part 3: Using CODAP to Examine a New Clue</span></b></i>
 
@@ -161,19 +161,19 @@ Students will be able to construct and analyze dot plots of numerical data. They
 
 13. Once all students have completed their analysis, engage in a whole class discussion about the results.
 
-    100. Which variable did you choose to analyze? *Answer: “Age”.* 
+    100. Which variable did you choose to analyze? <span style="color:grey">***Answer: “Age”.***</span> 
 
-    100. What type of variable is “Age”? *Answer: Numerical.*
+    100. What type of variable is “Age”? <span style="color:grey">***Answer: Numerical.***</span>
 
-    100. What is an appropriate plot for that type of variable? *Answer: Boxplot, Dot Plot, or Histogram.*
+    100. What is an appropriate plot for that type of variable? <span style="color:grey">***Answer: Boxplot, Dot Plot, or Histogram.***</span>
 
-    100. How many suspects are the youngest age? *Answer: 4 suspects.*
+    100. How many suspects are the youngest age? <span style="color:grey">***Answer: 4 suspects.***</span>
 
-    100. Who are the youngest suspects? *Answer: Drew Drizzle, Jina Jabbar, Quinn Quibble, and Yvonne Yodel. We already eliminated Yvonne Yodel as a suspect while analyzing Clue #3, so now we have even more evidence that she is not the Candy Culprit.*
+    100. Who are the youngest suspects? <span style="color:grey">***Answer: Drew Drizzle, Jina Jabbar, Quinn Quibble, and Yvonne Yodel. We already eliminated Yvonne Yodel as a suspect while analyzing Clue #3, so now we have even more evidence that she is not the Candy Culprit.***</span>
 
-    100. How many suspects are the oldest age? *Answer: 1 suspect.*
+    100. How many suspects are the oldest age? <span style="color:grey">***Answer: 1 suspect.***</span>
 
-    100. Who are the oldest suspects? *Answer: Anita Dayhoff. We can eliminate her as a suspect. We know that she is definitely NOT the Candy Culprit.*
+    100. Who are the oldest suspects? <span style="color:grey">***Answer: Anita Dayhoff. We can eliminate her as a suspect. We know that she is definitely NOT the Candy Culprit.***</span>
 
 14. Have students take out their Candy Culprit Suspect Tracker ([LMR_U1_L05_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L05_B.pdf)) sheet so they can cross off the newly eliminated suspects. An example of the updated suspect tracker is provided below. 
 

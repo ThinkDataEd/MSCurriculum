@@ -42,17 +42,17 @@ Students will be able to define a histogram and explain its purpose for summariz
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L11_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L11_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L11_A.pdf)</div>
 
-    100. Ask the student detectives to provide guesses as to what they think the image shows. *Sample answers: an umbrella, the bottom portion of a woman’s dress/gown, an igloo during sunrise, a pond, etc.*
+    100. Ask the student detectives to provide guesses as to what they think the image shows. <span style="color:grey">***Sample answers: an umbrella, the bottom portion of a woman’s dress/gown, an igloo during sunrise, a pond, etc.***</span>
 
     100. Project the zoomed-out version of the mystery image from page 2 of the document ([LMR_U1_L11_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L11_A.pdf)), Allow students to examine the image and then engage them in a whole class discussion to compare the two images. 
 
         100. Explain that the image is a faithful photographic reproduction of Paul Signac’s 1905 oil painting titled Entrance to the Grand Canal, Venice. Signac was a French Neo-Impressionist painter who helped develop the pointillism technique.
 
-        100. Now that we can see the entire image, what was actually depicted in the zoomed-in portion that was shown in part (a)? *Answer: the dome roof of the right-most building.*
+        100. Now that we can see the entire image, what was actually depicted in the zoomed-in portion that was shown in part (a)? <span style="color:grey">***Answer: the dome roof of the right-most building.***</span>
 
-        100. Which image provided a closer, more detailed view? *Answer: The zoomed-in image is more detailed because we can see every single paint stroke.*
+        100. Which image provided a closer, more detailed view? <span style="color:grey">***Answer: The zoomed-in image is more detailed because we can see every single paint stroke.***</span>
 
-        100. Which image provided a clearer picture of what was actually happening in the painting? overall picture? *Answer: The zoomed-out image gives a clearer picture of what is actually happening in the image because we are not focused on each individual brush stroke.*
+        100. Which image provided a clearer picture of what was actually happening in the painting? overall picture? <span style="color:grey">***Answer: The zoomed-out image gives a clearer picture of what is actually happening in the image because we are not focused on each individual brush stroke.***</span>
 
 2. Connect the activity to numerical data displays by explaining that the information in the images is the same, but they tell different stories. 
 
@@ -67,15 +67,15 @@ Students will be able to define a histogram and explain its purpose for summariz
 
     100. Ask students to share what they remember about histograms. 
 
-        100. What do histograms look like? How are the data displayed? *Sample answer: Instead of seeing each dot, we see bars/rectangles. The height of the bar tells us how many observations have that value.* 
+        100. What do histograms look like? How are the data displayed? <span style="color:grey">***Sample answer: Instead of seeing each dot, we see bars/rectangles. The height of the bar tells us how many observations have that value.***</span> 
 
-        100. What is on the x-axis? *Sample answer: Numerical values that cover the range of our data values.*
+        100. What is on the x-axis? <span style="color:grey">***Sample answer: Numerical values that cover the range of our data values.***</span>
 
-        100. What does the y-axis represent? *Sample answer: A frequency, or count, of how many observations have a particular value.*
+        100. What does the y-axis represent? <span style="color:grey">***Sample answer: A frequency, or count, of how many observations have a particular value.***</span>
 
 4. Take out the sticky notes from Lesson 10 where students recorded the number of hours of sleep they got the night before, and allow them to recreate the physical dot plot on the whiteboard. 
 
-5. Ask students to suggest an easy way to make the data in the dot plot look more like a histogram. *Sample answer: Draw rectangles around the sticky notes at each value on the x-axis. See sample drawing below.*
+5. Ask students to suggest an easy way to make the data in the dot plot look more like a histogram. <span style="color:grey">***Sample answer: Draw rectangles around the sticky notes at each value on the x-axis. See sample drawing below.***</span>
     <center><img src="../../img/u1_l11_05.png" style="width:30vw;height:auto;" alt="doplot to histogram"/></center>
 
 6. Explain that, by grouping values together, we are turning our dots into **bins**.
@@ -237,13 +237,13 @@ Students will be able to define a histogram and explain its purpose for summariz
 17. Once all students have completed their analysis, engage in a whole class discussion about the results.
     <center><img src="../../img/u1_l11_17.png" style="width:50vw;height:auto;" alt="LibraryBooks histogram"/></center>
 
-    100. How many suspects were in the bar for the “lower extreme” values for `LibraryBooks`? How many books did those people check out? *Answer: 6 suspects. They either checked out 0 books or 1 book.* 
+    100. How many suspects were in the bar for the “lower extreme” values for `LibraryBooks`? How many books did those people check out? <span style="color:grey">***Answer: 6 suspects. They either checked out 0 books or 1 book.***</span> 
 
-    100. Whose `LibraryBooks` values fall within this bar, and therefore can be eliminated as suspects? *Answer: Cody Circuiton, Dominic Datillos, Drew Drizzle, Dustin Hall, Jim Traynor, and Zachary Zucchini. Drew and Dustin were eliminated from previous clues, so we have additional evidence that they are not the Candy Culprit.*
+    100. Whose `LibraryBooks` values fall within this bar, and therefore can be eliminated as suspects? <span style="color:grey">***Answer: Cody Circuiton, Dominic Datillos, Drew Drizzle, Dustin Hall, Jim Traynor, and Zachary Zucchini. Drew and Dustin were eliminated from previous clues, so we have additional evidence that they are not the Candy Culprit.***</span>
 
-    100. How many suspects were in the bar for the “higher extreme” values for `LibraryBooks`? How many books did those people check out? *Answer: 1 suspect. They checked out 35 books.* 
+    100. How many suspects were in the bar for the “higher extreme” values for `LibraryBooks`? How many books did those people check out? <span style="color:grey">***Answer: 1 suspect. They checked out 35 books.***</span> 
 
-    100. Whose `LibraryBooks` values fall within this bar, and therefore can be eliminated as suspects? *Answer: Aaron Appleby. We can eliminate him as a suspect. We know that he is definitely NOT the Candy Culprit.*
+    100. Whose `LibraryBooks` values fall within this bar, and therefore can be eliminated as suspects? <span style="color:grey">***Answer: Aaron Appleby. We can eliminate him as a suspect. We know that he is definitely NOT the Candy Culprit.***</span>
 
 18. Have students take out their Candy Culprit Suspect Tracker ([LMR_U1_L05_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L05_B.pdf)) sheet so they can cross off the newly eliminated suspects. An example of the updated suspect tracker is provided below. 
     <center><img src="../../img/u1_l11_18.png" style="width:30vw;height:auto;" alt="eliminated suspects"/></center>
@@ -252,8 +252,8 @@ Students will be able to define a histogram and explain its purpose for summariz
 
 19. Exit Ticket: For each scenario below, determine if a dot plot or a histogram would be more appropriate. Explain your reasoning.
 
-    100. Scenario 1: The height of 1,000 sunflowers grown across the United States. *Answer: A histogram is more appropriate because the sample size is very large.*
+    100. Scenario 1: The height of 1,000 sunflowers grown across the United States. <span style="color:grey">***Answer: A histogram is more appropriate because the sample size is very large.***</span>
 
-    100. Scenario 2: The number of petals on 12 different sunflowers. *Answer: A dot plot is more appropriate because the sample size is quite small.*
+    100. Scenario 2: The number of petals on 12 different sunflowers. <span style="color:grey">***Answer: A dot plot is more appropriate because the sample size is quite small.***</span>
 
 20. Transition: Announce that in the next lesson, the student detectives will learn how to describe the overall shape of a histogram and what that tells us about how the observations are distributed across the x-values.

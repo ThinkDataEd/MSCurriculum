@@ -90,14 +90,13 @@ Students will be able to identify and describe common shapes of numerical distri
         </table>
 
     100. Invite students to come up with their own examples of objects that are functionally the same, but have different shapes. 
-        100. *Example 1: plants*
+        100. <span style="color:grey">***Example 1: plants***</span>
 
-        100. *Example 2: houses*
+        100. <span style="color:grey">***Example 2: houses***</span>
 
-        100. *Example 3: chairs / things you can sit on*
+        100. <span style="color:grey">***Example 3: chairs / things you can sit on***</span>
 
-        100. *Example 4: spoons (or more generally, utensils)*
-        enrich
+        100. <span style="color:grey">***Example 4: spoons (or more generally, utensils)***</span>
 
         <style type="text/css">
         .te  {border-collapse:collapse;border-spacing:0;background-color:#fddbc7;border:4px dotted #ee7733;}
@@ -175,31 +174,31 @@ Students will be able to identify and describe common shapes of numerical distri
     100. Distribution Shape 1: [tallest bar(s) in the middle, shorter bars on the edges]
         100. Likely Shape Cards that match this shape type: **C, J, L, M**
 
-        100. *Example Names: bell, hill, bump, even, mountain, middle, pyramid, bridge*
+        100. <span style="color:grey">***Example Names: bell, hill, bump, even, mountain, middle, pyramid, bridge***</span>
         <center><img src="../../img/u1_l12_08a.png" style="width:25vw;height:auto;" alt="symmetric shape histogram"/></center>
 
     100. Distribution Shape 2: [tallest bars on the left side, shortest bars on the right side]
         100. Likely Shape Cards that match this shape type: **A, F, H, S**
 
-        100. *Example Names: to negative infinity and beyond, downstairs, slide to the right, downhill rollercoaster*
+        100. <span style="color:grey">***Example Names: to negative infinity and beyond, downstairs, slide to the right, downhill rollercoaster***</span>
         <center><img src="../../img/u1_l12_08b.png" style="width:25vw;height:auto;" alt="skewed right shape histogram"/></center>
 
     100. Distribution Shape 3: [tallest bars on the right side, shortest bars on the left side]
         100. Likely Shape Cards that match this shape type: **B, D, E, R**
 
-        100. *Example Names: to infinity and beyond, upstairs, slide to the left, uphill rollercoaster, “started from the bottom, now we’re here”*
+        100. <span style="color:grey">***Example Names: to infinity and beyond, upstairs, slide to the left, uphill rollercoaster, “started from the bottom, now we’re here”***</span>
         <center><img src="../../img/u1_l12_08c.png" style="width:25vw;height:auto;" alt="skewed left shape histogram"/></center>
 
     100. Distribution Shape 4: [all bars are about the same height]
         100. Likely Shape Cards that match this shape type: **I, O, Q, T**
 
-        100. *Example Names: rectangle, flat top, plateau, car battery, Lego brick*
+        100. <span style="color:grey">***Example Names: rectangle, flat top, plateau, car battery, Lego brick***</span>
         <center><img src="../../img/u1_l12_08d.png" style="width:25vw;height:auto;" alt="uniform shape histogram"/></center>
 
     100. Distribution Shape 5: [there are 2 distinct locations for the tallest bars]
         100. Likely Shape Cards that match this shape type: **G, K, N, P**
 
-        100. *Example Names: two hills, camel humps, rock on, banana split, quiet coyote/silent fox*
+        100. <span style="color:grey">***Example Names: two hills, camel humps, rock on, banana split, quiet coyote/silent fox***</span>
         <center><img src="../../img/u1_l12_08e.png" style="width:25vw;height:auto;" alt="bimodal shape histogram"/></center>
 
 9. Lead a class discussion that addresses the following questions:
@@ -279,13 +278,13 @@ Students will be able to identify and describe common shapes of numerical distri
 
     100. Guide students to consider what **bimodal** meant, and how that might relate to **unimodal** given that the prefix “uni-” means 1.
 
-    100. Ask: Which of the previous shape names could also be described as unimodal based on the drawings? *Sample answer: symmetric, skewed right, and skewed left.*
+    100. Ask: Which of the previous shape names could also be described as unimodal based on the drawings? <span style="color:grey">***Sample answer: symmetric, skewed right, and skewed left.***</span>
 
 13. Allow students to add these more formal name labels to their poster papers next to the creative names they had come up with
 
     <b><i><span style="font-size: 18px";>Part 4: Connecting Back to the Case</span></b></i>
 
-14. Display the dot plot students should have created during the previous lesson related to `LibraryBooks`, and ask them to analyze and name the shape of the distribution based on what they learned today. *Sample answers: The distribution is skewed right. There are only a lot of people who do not read many books, but much fewer people who read more than 15 books, so there is a tail in the right side of the histogram.*
+14. Display the dot plot students should have created during the previous lesson related to `LibraryBooks`, and ask them to analyze and name the shape of the distribution based on what they learned today. <span style="color:grey">***Sample answers: The distribution is skewed right. There are only a lot of people who do not read many books, but much fewer people who read more than 15 books, so there is a tail in the right side of the histogram.***</span>
     <center><img src="../../img/u1_l12_14.png" style="width:35vw;height:auto;" alt="LibraryBooks histogram"/></center>
 
     <center><h3>Closing</h3></center>
