@@ -87,13 +87,13 @@ doc preview
 
 6. Ask the seated students to discuss their observations about the 5 values. Lead the discussion with the following questions:
 
-    100. Did each attraction have the same number of visitors during the carnival? *Sample answer: No. Most attractions had close to 100 visitors, but not all of them.* 
+    100. Did each attraction have the same number of visitors during the carnival? <span style="color:grey">***Sample answer: No. Most attractions had close to 100 visitors, but not all of them.***</span> 
 
-    100. Which attraction has an unusual number of visitors? Did it have more or less visitors than the other attractions? *Sample answer: The Hot Air Balloon had an unusually low number of visitors. It had much less than all of the other attractions.* 
+    100. Which attraction has an unusual number of visitors? Did it have more or less visitors than the other attractions? <span style="color:grey">***Sample answer: The Hot Air Balloon had an unusually low number of visitors. It had much less than all of the other attractions.***</span> 
 
-    100. If we were to plot these data values, what shape would their distribution have? *Sample answer: The distribution would be skewed to the left.* 
+    100. If we were to plot these data values, what shape would their distribution have? <span style="color:grey">***Sample answer: The distribution would be skewed to the left.***</span> 
 
-    100. Why might the Hot Air Balloon attraction have had so few visitors? *Sample answer: There might have been a malfunction with the mechanical parts of the ride. Severe weather (extreme wind) might have restricted the balloon from taking off. The carnival operator might have forgotten to refuel the propane tank.* 
+    100. Why might the Hot Air Balloon attraction have had so few visitors? <span style="color:grey">***Sample answer: There might have been a malfunction with the mechanical parts of the ride. Severe weather (extreme wind) might have restricted the balloon from taking off. The carnival operator might have forgotten to refuel the propane tank.***</span> 
 
 7. Based on our current knowledge, what value would we say is typical for each attraction? Calculate it and discuss the results. 
 
@@ -101,17 +101,17 @@ doc preview
 
         <center><img src="https://latex.codecogs.com/gif.latex?Mean=\frac{5+98+100+103+109}{5}=\frac{415}{5}=83" title="Mean=\frac{5+98+100+103+109}{5}=\frac{415}{5}=83"/></center>
 
-    100. Does this seem like a “fair” value to measure the center of these data points? *Sample answer: No. Most of our values were close to 100, but the mean is only 83.* 
+    100. Does this seem like a “fair” value to measure the center of these data points? <span style="color:grey">***Sample answer: No. Most of our values were close to 100, but the mean is only 83.***</span> 
 
-    100. Do you think the mean is too high or too low? *Sample answer: The mean value of 83 seems too low.* 
+    100. Do you think the mean is too high or too low? <span style="color:grey">***Sample answer: The mean value of 83 seems too low.***</span> 
 
-    100. The Hot Air Balloon’s single extreme value lies outside the typical range of values of the other data points. What effect does this value have on the mean? *Sample answer: The low visitor count of 5 is pulling the mean value to a lower number than what we might consider typical.* 
+    100. The Hot Air Balloon’s single extreme value lies outside the typical range of values of the other data points. What effect does this value have on the mean? <span style="color:grey">***Sample answer: The low visitor count of 5 is pulling the mean value to a lower number than what we might consider typical.***</span> 
 
     <b><i><span style="font-size: 18px";>Part 2: Meeting in the Middle</span></b></i>
 
 8. Explain that one way to find a more “fair” number for typical (or center) is to simply look at the middle value. This is called the median. 
 
-9. Ask students: Based on the current line-up of the 5 attractions, which one would we classify as the middle? Sample answer: Answers will vary, but students will likely choose Attraction C: Merry-Go-Round. 
+9. Ask students: Based on the current line-up of the 5 attractions, which one would we classify as the middle? <span style="color:grey">***Sample answer: Answers will vary, but students will likely choose Attraction C: Merry-Go-Round.***</span> 
 
 10. Lead the discussion toward the idea that we need to order the attractions based on their numerical values first. We can only find a median when the observations are sorted from lowest to highest.
 
@@ -146,7 +146,7 @@ doc preview
             </tr>
             </table>
 
-11. Ask students: Which measure of center, the mean (83 visitors) or the median (100 visitors), better represents the typical number of visitors at each carnival attraction? *Answer: The median is more representative because it is closer to most of the values, and it is not affected by the lower extreme value from the Hot Air Balloon.* 
+11. Ask students: Which measure of center, the mean (83 visitors) or the median (100 visitors), better represents the typical number of visitors at each carnival attraction? <span style="color:grey">***Answer: The median is more representative because it is closer to most of the values, and it is not affected by the lower extreme value from the Hot Air Balloon.***</span> 
 
 12. Now propose a slightly modified scenario about the carnival: Since the Hot Air Balloon was not open for the entire day, one detective recommended that we just ignore the extreme value and remove it from the dataset.
 

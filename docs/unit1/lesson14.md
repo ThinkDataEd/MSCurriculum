@@ -76,11 +76,11 @@ Students will be able to calculate the Mean Absolute Deviation (MAD) to quantify
 
     100. Have students calculate the mean number of matches Gilbert, Amy, and Shōta played during this time period. 
 
-        100. On average, how many matches does Gilbert play each day? *Answer: Mean = 5.* 
+        100. On average, how many matches does Gilbert play each day? <span style="color:grey">***Answer: Mean = 5.***</span> 
 
-        100. On average, how many matches does Amy play each day? *Answer: Mean = 5.* 
+        100. On average, how many matches does Amy play each day? <span style="color:grey">***Answer: Mean = 5.***</span> 
 
-        100. On average, how many matches does Shōta play each day? *Answer: Mean = 5.* 
+        100. On average, how many matches does Shōta play each day? <span style="color:grey">***Answer: Mean = 5.***</span> 
 
 2. Discuss: Interestingly, we calculated the exact same mean value for all three gamers. 
 
@@ -92,9 +92,9 @@ Students will be able to calculate the Mean Absolute Deviation (MAD) to quantify
 
         100. <u>Connect to the real-world</u>: Ask students to reimagine the scenario with the three players being siblings. Suppose Gilbert and Shōta complain to their mom that life is unfair because Amy gets to play more matches on the weekend. By averaging out their gameplay over the course of a week, their mom shows that they were all treated fairly. 
 
-    100. Would you say they have similar playing habits? Why or why not? *Sample answer: Although all three friends average the same number of matches per day, their habits vary greatly depending on what day of the week it is.* 
+    100. Would you say they have similar playing habits? Why or why not? <span style="color:grey">***Sample answer: Although all three friends average the same number of matches per day, their habits vary greatly depending on what day of the week it is.***</span> 
 
-    100. Which gamer plays for a more consistent amount of time each day? *Explain your reasoning. Sample answer: Gilbert is the more consistent player because their values are the same every day. Amy and Shōta are less consistent players because their values are more scattered from day to day; they have more variation in how many matches they play each day.* 
+    100. Which gamer plays for a more consistent amount of time each day? <span style="color:grey">***Explain your reasoning. Sample answer: Gilbert is the more consistent player because their values are the same every day. Amy and Shōta are less consistent players because their values are more scattered from day to day; they have more variation in how many matches they play each day.***</span> 
 
     <center><h3>Concept Development</h3></center>
     <b><i><span style="font-size: 18px";>Part 1: The MAD Scramble - Physically Deriving the MAD Formula</span></b></i>
@@ -143,11 +143,11 @@ Students will be able to calculate the Mean Absolute Deviation (MAD) to quantify
 
     100. Pose the following questions to the class to elicit discussion:
 
-        100. How far away is Gilbert’s Wednesday data point from the mean of 5? *Answer: 0.* 
+        100. How far away is Gilbert’s Wednesday data point from the mean of 5? <span style="color:grey">***Answer: 0.***</span> 
 
-        100. How far away is Gilbert’s Thursday data point from the mean of 5? *Answer: 0.* 
+        100. How far away is Gilbert’s Thursday data point from the mean of 5? <span style="color:grey">***Answer: 0.***</span> 
 
-        100. If every single data point is exactly 0 steps away from the center, what is the average distance? *Answer: 0.* 
+        100. If every single data point is exactly 0 steps away from the center, what is the average distance? <span style="color:grey">***Answer: 0.***</span> 
 
     100. Define Gilbert as being perfectly consistent. Gilbert’s data values do not vary at all, so we can say they have zero variability, or zero spread.
 
@@ -206,7 +206,7 @@ Students will be able to calculate the Mean Absolute Deviation (MAD) to quantify
     100. Remind students that we are trying to create a measurement to represent the spread of a distribution. 
         100. If we want to find the typical deviation from the mean, what might we want to do with all of our string lengths?
 
-        100. Lead the discussion toward finding the average lengths of the 5 pieces of string. *Sample answer: We have 5 distances: {5, 5, 0, 5, 5}. What is the average distance? 20/5 = 4.* 
+        100. Lead the discussion toward finding the average lengths of the 5 pieces of string. <span style="color:grey">***Sample answer: We have 5 distances: {5, 5, 0, 5, 5}. What is the average distance? 20/5 = 4.***</span> 
 
         100. In other words, we want to find the mean deviation for each data point. This measure of spread has a special name: the **MAD**, or the **mean absolute deviation**. 
 
@@ -352,18 +352,18 @@ Students will be able to calculate the Mean Absolute Deviation (MAD) to quantify
 15. Once all students have completed their analysis, engage in a whole class discussion about the results.
     <center><img src="../../img/u1_l14_15.png" style="width:50vw;height:auto;" alt="mean and MAD Age"/></center>
 
-    100. Which variable did you analyze for this clue? *Answer: `Age`.* 
+    100. Which variable did you analyze for this clue? <span style="color:grey">***Answer: `Age`.***</span> 
 
-    100. Which numerical summaries did you calculate, and what were their values? *Answer: Mean and MAD. The mean age is 22.33. The MAD is 13.8.* 
+    100. Which numerical summaries did you calculate, and what were their values? <span style="color:grey">***Answer: Mean and MAD. The mean age is 22.33. The MAD is 13.8.***</span> 
 
-    100. The Candy Culprit tells us to “find the mean suspect age, and add on one MAD.” What calculation should we perform to analyze this clue? Report the value. *Answer: We need to calculate Mean + MAD, which comes out to 22.33 + 13.8 = 36.13.* 
+    100. The Candy Culprit tells us to “find the mean suspect age, and add on one MAD.” What calculation should we perform to analyze this clue? Report the value. <span style="color:grey">***Answer: We need to calculate Mean + MAD, which comes out to 22.33 + 13.8 = 36.13.***</span> 
 
-    100. The clue also says that the Candy Culprit is “just slightly older” than that value. How do we relate this statement to the value from (c), and what does that mean about who remains a suspect? *Answer: It means that the Candy Culprit is older than 36.13 years old, so only staff members should remain as suspects.* 
+    100. The clue also says that the Candy Culprit is “just slightly older” than that value. How do we relate this statement to the value from (c), and what does that mean about who remains a suspect? <span style="color:grey">***Answer: It means that the Candy Culprit is older than 36.13 years old, so only staff members should remain as suspects.***</span> 
 
-    100. How many NEW suspects can you eliminate after this clue? Who are they? *Answer: There are 5 new suspects to eliminate – Indira Ickleton, Ryan Rocket, Svetlana Scribovic, Victor Volabyte, Wendy Waffleby.* <br>
+    100. How many NEW suspects can you eliminate after this clue? Who are they? <span style="color:grey">***Answer: There are 5 new suspects to eliminate – Indira Ickleton, Ryan Rocket, Svetlana Scribovic, Victor Volabyte, Wendy Waffleby.***</span> <br>
     ***NOTE***: If you crossed out a suspect based on a previous clue, you do not have to include their name in this list.
 
-    100. How many people remain as potential Candy Culprit suspects? Who are they? *Answer: There are 3 remaining suspects – Ben Stern, Paige Turner, Sage Wright.* 
+    100. How many people remain as potential Candy Culprit suspects? Who are they? <span style="color:grey">***Answer: There are 3 remaining suspects – Ben Stern, Paige Turner, Sage Wright.***</span> 
 
 16. Have students take out their Candy Culprit Suspect Tracker ([LMR_U1_L05_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L05_B.pdf)) sheet so they can cross off the newly eliminated suspects. An example of the updated suspect tracker is provided below. 
     <center><img src="../../img/u1_l14_16.png" style="width:30vw;height:auto;" alt="eliminated suspects"/></center>

@@ -120,17 +120,17 @@ Students will be able to define the mean as a “fair share” value by redistri
 
 9. Allow students to share ideas about how they could move around the items on each plate to make sure everyone has a fair share. Students need to be explicit in their instructions so the 5 volunteers can test out the method. Responses will vary by class, but some sample ideas are provided here:
 
-    100. *Example 1: The people with the most items should give some of theirs to the people with the least items.* 
+    100. <span style="color:grey">***Example 1: The people with the most items should give some of theirs to the people with the least items.***</span> 
 
-    100. *Example 2: Place all of the items in one big pile. Then, have the 5 volunteers take 1 piece each from the pile. If there are still pieces left, have them each take 1 more piece from the pile. Continue this until there are no items left.* 
+    100. <span style="color:grey">***Example 2: Place all of the items in one big pile. Then, have the 5 volunteers take 1 piece each from the pile. If there are still pieces left, have them each take 1 more piece from the pile. Continue this until there are no items left.***</span> 
 
 10. Engage the class in a discussion about the **fair share**. 
 
-    100. How many total items did our 5 volunteers have at the beginning of the activity? Explain your answer. *Answer: 25 items. I added the amount of items that each volunteer had at the beginning: 1 + 2 + 4 + 8 + 10 = 25.* 
+    100. How many total items did our 5 volunteers have at the beginning of the activity? Explain your answer. <span style="color:grey">***Answer: 25 items. I added the amount of items that each volunteer had at the beginning: 1 + 2 + 4 + 8 + 10 = 25.***</span> 
 
-    100. How many items did each volunteer end up with once we made it fair? *Answer: 5 items.*
+    100. How many items did each volunteer end up with once we made it fair? <span style="color:grey">***Answer: 5 items.***</span>
 
-    100. Will the method that we came up with always work to make sure each person has a fair amount? *Answers will vary.* 
+    100. Will the method that we came up with always work to make sure each person has a fair amount? <span style="color:grey">***Answers will vary by class.***</span> 
 
 11. Explain that in data science, we have a specific name for this **fair share** value: the **mean**. The **mean** is the value that every observation *WOULD* have if the total were distributed, or divided, equally. 
 
@@ -146,17 +146,17 @@ Students will be able to define the mean as a “fair share” value by redistri
 
     100. That adds up to 250 items in total. 
 
-    100. Would we want to sort 250 items out by hand to give everyone their fair share? *Sample answer: Probably not. Each person would need 50 items to get their fair share and that would take a really long time using our method from Step 9.*
+    100. Would we want to sort 250 items out by hand to give everyone their fair share? <span style="color:grey">***Sample answer: Probably not. Each person would need 50 items to get their fair share and that would take a really long time using our method from Step 9.***</span>
 
 13. Instead, we should use a mathematical method to find the mean value. 
 
     100. Ask: Can we come up with a mathematical rule for calculating the mean?
 
-        100. What information did we know originally? *Answer: There were 25 items in total that needed to be shared between 5 people.* 
+        100. What information did we know originally? <span style="color:grey">***Answer: There were 25 items in total that needed to be shared between 5 people.***</span> 
 
-        100. What was the fair share amount? *Answer: 5 items.* 
+        100. What was the fair share amount? <span style="color:grey">***Answer: 5 items.***</span> 
         
-        100. How can we relate these values to each other? *Sample answer: 25 divided by 5 is 5, so we could take the total number of items and divide that by the number of people.* 
+        100. How can we relate these values to each other? <span style="color:grey">***Sample answer: 25 divided by 5 is 5, so we could take the total number of items and divide that by the number of people.***</span> 
 
     100. Display the formula for the mean:
         <center><img src="https://latex.codecogs.com/gif.latex?Mean=\frac{Sum\&space;of\&space;all\&space;observations}{Total\&space;number\&space;of\&space;observations}" title="Mean=\frac{(\Sum\ of\ all\ observations)}{(\Total\ number\ of\ observations)}"/></center>
@@ -173,7 +173,7 @@ Students will be able to define the mean as a “fair share” value by redistri
         <center><img src="https://latex.codecogs.com/gif.latex?Mean=\frac{1+2+4+8+10}{5}=\frac{25}{5}=5" title="Mean=\frac{1+2+4+8+10}{5}=\frac{25}{5}=5"/></center>
 
 
-    100. Make a statement about what this mean value means in the context of the data. *Sample answer: If all students have 5 items on their plates, then everyone has a fair share of the total number of items.*
+    100. Make a statement about what this mean value means in the context of the data. <span style="color:grey">***Sample answer: If all students have 5 items on their plates, then everyone has a fair share of the total number of items.***</span>
 
 14. Allow teams of 3 to practice calculating the mean using the 3 datasets provided below. For each scenario, they should record their answers and calculation steps in their notebooks, as well as write a statement about the mean value in the context of the data.
 
@@ -181,19 +181,19 @@ Students will be able to define the mean as a “fair share” value by redistri
 
         100. The Data (Seconds of suspense): **2, 10, 11, 12, 15**
 
-        100. Your Mission: Find and interpret the mean number of seconds a rider hangs at the top of a roller coaster drop. *Answer: Mean = 10. Roller coasters have riders hang at the top of a big drop an average of 10 seconds before the ride releases.* 
+        100. Your Mission: Find and interpret the mean number of seconds a rider hangs at the top of a roller coaster drop. <span style="color:grey">***Answer: Mean = 10. Roller coasters have riders hang at the top of a big drop an average of 10 seconds before the ride releases.***</span> 
 
     100. ***Scenario 2: Snack Attack*** – After walking around an amusement park all morning, seven friends stop at the main food court for lunch. Because theme park food can be expensive, they each track how much money (rounded to the nearest dollar) they spent on their individual lunches and snacks.
 
         100. The Data (Dollars spent per person): **7, 8, 10, 13, 6, 8, 4**
 
-        100. Your Mission: Find and interpret the mean amount of money the friends spent on lunch. *Answer: Mean = 8. Each friend spent an average of $8 at the food court for lunch.*
+        100. Your Mission: Find and interpret the mean amount of money the friends spent on lunch. <span style="color:grey">***Answer: Mean = 8. Each friend spent an average of $8 at the food court for lunch.***</span>
 
     100. ***Scenario 3: The Virtual Reality Rush*** – The park just opened a brand-new Virtual Reality Simulator ride. Because the line changes constantly throughout the day, the park app updates the estimated wait time every half hour. Over a five-hour period, the app records 10 different wait times (in minutes).
 
         100. The Data (Wait times in minutes): **15, 45, 20, 35, 50, 25, 40, 15, 30, 45**
 
-        100. Your Mission: Find and interpret the mean wait time for the Virtual Reality Simulator. *Answer: Mean = 32. During a typical five-hour period, people can expect to wait an average of 32 minutes for the Virtual Reality Simulator.*
+        100. Your Mission: Find and interpret the mean wait time for the Virtual Reality Simulator. <span style="color:grey">***Answer: Mean = 32. During a typical five-hour period, people can expect to wait an average of 32 minutes for the Virtual Reality Simulator.***</span>
             <style type="text/css">
             .ta  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border-style:dotted;}
             .ta td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -260,18 +260,18 @@ Students will be able to define the mean as a “fair share” value by redistri
 22. Once all students have completed their analysis, engage in a whole class discussion about the results.
     <center><img src="../../img/u1_l13_22.png" style="width:55vw;height:auto;" alt="LibraryBooks mean"/></center>
 
-    100. What value did you calculate as the mean number of `LibraryBooks`? *Answer: 6 books.* 
+    100. What value did you calculate as the mean number of `LibraryBooks`? <span style="color:grey">***Answer: 6 books.***</span> 
 
-    100. Based on the Candy Culprit’s clue, what values of `LibraryBooks` are NOT above the fair share/mean value? How many suspects fit this criteria? *Answer: Values at or below 6 books are not above the mean. There are 20 suspects who match this criteria.* 
+    100. Based on the Candy Culprit’s clue, what values of `LibraryBooks` are NOT above the fair share/mean value? How many suspects fit this criteria? <span style="color:grey">***Answer: Values at or below 6 books are not above the mean. There are 20 suspects who match this criteria.***</span> 
 
-    100. Based on the Candy Culprit’s clue, what values of `LibraryBooks` ARE above the fair share/mean value? How many suspects fit this criteria? *Answer: Values of 7 books or more are above the mean. There are 10 suspects who match this criteria.* 
+    100. Based on the Candy Culprit’s clue, what values of `LibraryBooks` ARE above the fair share/mean value? How many suspects fit this criteria? <span style="color:grey">***Answer: Values of 7 books or more are above the mean. There are 10 suspects who match this criteria.***</span> 
 
-    100. Which group of values will you use to eliminate suspects, values that are NOT above the mean or values that ARE above the mean? Explain your reasoning by connecting back to the wording of the clue. *Answer: Any suspect with a `LibraryBooks` value that is NOT above the mean can be eliminated. They are NOT the Candy Culprit.* 
+    100. Which group of values will you use to eliminate suspects, values that are NOT above the mean or values that ARE above the mean? Explain your reasoning by connecting back to the wording of the clue. <span style="color:grey">***Answer: Any suspect with a `LibraryBooks` value that is NOT above the mean can be eliminated. They are NOT the Candy Culprit.***</span> 
 
-    100. How many NEW suspects can you eliminate after this clue? Who are they? *Answer: There are 10 new suspects to eliminate – Bakari Bitwell, Bianca Bumbley, Billy Button, Farrah Knight, Max Mosely, Myles Stone, Ophelia Oboe, Ray Fields, Rumi Ryunix, and Xavier Ximenez.* <br>
+    100. How many NEW suspects can you eliminate after this clue? Who are they? <span style="color:grey">***Answer: There are 10 new suspects to eliminate – Bakari Bitwell, Bianca Bumbley, Billy Button, Farrah Knight, Max Mosely, Myles Stone, Ophelia Oboe, Ray Fields, Rumi Ryunix, and Xavier Ximenez.***</span> <br>
     ***NOTE***: If you crossed out a suspect based on a previous clue, you do not have to include their name in this list.
 
-    100. How many suspects remain as potential Candy Culprits? Who are they? *Answer: There are 8 remaining suspects – Ben Stern, Indira Ickleton, Paige Turner, Ryan Rocket, Sage Wright, Svetlana Scribovic, Victor Volabyte, and Wendy Waffleby.* 
+    100. How many suspects remain as potential Candy Culprits? Who are they? <span style="color:grey">***Answer: There are 8 remaining suspects – Ben Stern, Indira Ickleton, Paige Turner, Ryan Rocket, Sage Wright, Svetlana Scribovic, Victor Volabyte, and Wendy Waffleby.***</span> 
 
 23. Have students take out their Candy Culprit Suspect Tracker ([LMR_U1_L05_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L05_B.pdf)) sheet so they can cross off the newly eliminated suspects. An example of the updated suspect tracker is provided below. 
     <center><img src="../../img/u1_l13_23.png" style="width:30vw;height:auto;" alt="eliminated suspects"/></center>
@@ -284,6 +284,6 @@ Students will be able to define the mean as a “fair share” value by redistri
 
     100. The Data (Water temperature in °F): **72, 75, 88, 68, 70, 70, 85, 84, 80, 65, 66, 73**
 
-    100. Your Mission: Find the mean wave pool temperature over these 12 days. *Answer: 896/12 = 74.67°F (rounds to 75°F if your students are practicing rounding to the nearest whole number).*
+    100. Your Mission: Find the mean wave pool temperature over these 12 days. <span style="color:grey">***Answer: 896/12 = 74.67°F (rounds to 75°F if your students are practicing rounding to the nearest whole number).***</span>
 
 25. Transition: Tomorrow, we will try to determine what it means for values to be close to or far away from the mean.
