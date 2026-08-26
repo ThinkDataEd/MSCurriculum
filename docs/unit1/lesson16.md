@@ -6,7 +6,7 @@ Students will be able to identify the components of the five-number summary (min
 
 
 ###**Materials:**
-1. Carnival Cards [from Lesson 15, full set - cards A, B, C, D, E, F, G, H, I, J, K] ([LMR_U1_L15_A_Carnival Cards](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L15_A.pdf))
+1. Carnival Cards [from Lesson 15, full set - cards A, B, C, D, E, F, G, H, I, J, K] ([LMR_U1_L15_A_Carnival_Cards](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L15_A.pdf))
 
     ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>*** *See Class Setup section for additional details.*
 
@@ -21,9 +21,9 @@ Students will be able to identify the components of the five-number summary (min
 4. Building Boxplots Handout ([LMR_U1_L16_B_Building_Boxplots](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L16_B.pdf))
 
 ###**Vocabulary:**
-[quartile(s)](../../vocabulary/unit1/#quartils "values that divide an ordered set of numerical points into four equal parts"){ .md-button }
+[quartile(s)](../../vocabulary/unit1/#quartiles "values that divide an ordered set of numerical points into four equal parts"){ .md-button }
 [Q1](../../vocabulary/unit1/#q1 "the median value of the lower half of an ordered set of numerical points; also referred to as Quartile 1"){ .md-button }
-[Q3](../../vocabulary/unit1/#datum "the median value of the upper half of an ordered set of numerical points; also referred to as Quartile 3"){ .md-button }
+[Q3](../../vocabulary/unit1/#q3 "the median value of the upper half of an ordered set of numerical points; also referred to as Quartile 3"){ .md-button }
 [five-number summary](../../vocabulary/unit1/#five-number-summary "the five anchor points for a boxplot; the minimum value, Q1 value, median value, Q3 value, and maximum value"){ .md-button }
 [interquartile range (IQR)](../../vocabulary/unit1/#interquartile-range-iqr "a numerical difference between two quartile values, specifically Q3 and Q1"){ .md-button }
 
@@ -111,7 +111,7 @@ Students will be able to identify the components of the five-number summary (min
 
 2. Introduce the main topic for today by displaying a generic boxplot on the board for students to recall this type of plot (see Lesson 8) and have a visual guide to reference throughout the lesson. <span style="color:grey">***Sample plot:***</span>
 
-    <center><img src="../../img/u1_l16_2.png" style="width:11vw;height:auto;" alt="sample boxplot"/></center>
+    <center><img src="../../img/u1_l16_2.png" style="width:18vw;height:auto;" alt="sample boxplot"/></center>
 
 3. Ask students to list some visual features from the plot that stand out to them. <span style="color:grey">***Answers will likely vary by class, but some possible sample answers are provided here:***</span> 
 
@@ -138,7 +138,7 @@ Students will be able to identify the components of the five-number summary (min
 
     100. Guide students to see that, with an even number of data points, there is not a single middle position. Instead, we have to decide a median value by using both of the remaining middle two attractions at position 5 (Pizza Pavilion – 99 visitors) and position 6 (Ferris Wheel, 100 visitors).
 
-        <center><img src="../../img/u1_l16_6a.png" style="width:11vw;height:auto;" alt="find median of data"/></center>
+        <center><img src="../../img/u1_l16_06a.png" style="width:17vw;height:auto;" alt="find median of data"/></center>
 
     100. Have the student volunteers with these two cards step forward and read their values aloud again. 
 
@@ -146,11 +146,11 @@ Students will be able to identify the components of the five-number summary (min
 
     100. Let students calculate and report the median value. Then, explain that because the median falls between these two values, neither student “is” the median, but together they show us exactly where the center of the data is.
 
-        <center><img src="../../img/u1_l16_6d.png" style="width:11vw;height:auto;" alt="calculate median of data"/></center>
+        <center><img src="../../img/u1_l16_06d.png" style="width:28vw;height:auto;" alt="calculate median of data"/></center>
 
     100. Ask for a new volunteer. Give them the MEDIAN ([LMR_U1_L16_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L16_A.pdf), page 3) sign and ask them to stand on the tape number line at the median value of 99.5. <br>
     ***NOTE***: The MINIMUM and MAXIMUM labels have been shortened to MIN and MAX in the visual to save space.
-        <center><img src="../../img/u1_l16_6e.png" style="width:11vw;height:auto;" alt="find min and max of data"/></center>
+        <center><img src="../../img/u1_l16_06e.png" style="width:18vw;height:auto;" alt="find min and max of data"/></center>
 
     <style type="text/css">
     .ta  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border-style:dotted;}
@@ -178,7 +178,7 @@ Students will be able to identify the components of the five-number summary (min
     100. How many groups did they create? <span style="color:grey">***Answer: 2 groups.***</span>
 
     100. How many students/attractions are in each group? <span style="color:grey">***Answer: 5 students/attractions.***</span>
-        <center><img src="../../img/u1_l16_8b.png" style="width:11vw;height:auto;" alt="data split by median"/></center>
+        <center><img src="../../img/u1_l16_08b.png" style="width:27vw;height:auto;" alt="data split by median"/></center>
 
 9. Explain that splitting the data in half does not tell us a lot of information about the overall shape of a distribution, so let’s split each group in half again. How might we do that? Lead the discussion using the following questions:
 
@@ -189,15 +189,15 @@ Students will be able to identify the components of the five-number summary (min
     100. How might we determine where to split the data for each group? <span style="color:grey">***Answer: We already know how to calculate medians, so we can simply calculate a median for the lower group and a median for the higher group.***</span> 
 
     100. Allow students time to calculate the medians for each group and have them report their findings.
-        <center><img src="../../img/u1_l16_9d.png" style="width:11vw;height:auto;" alt="calculate medians for each group"/></center>
+        <center><img src="../../img/u1_l16_09d.png" style="width:30vw;height:auto;" alt="calculate medians for each group"/></center>
 
 10. Once identified, share that these anchor points are called **quartiles**. The quartile in the lower half is called **Quartile 1**, which data scientists usually shorten to **Q1**; the quartile in the upper half is called **Quartile 3**, or **Q3** for short. 
 
     100. Students should notice that there are TWO attractions in the upper group that have values of 103 (Merry-Go-Round and the Drinks Tent). 
-        <center><img src="../../img/u1_l16_10a.png" style="width:11vw;height:auto;" alt="two identical values in upper half of data"/></center>
+        <center><img src="../../img/u1_l16_10a.png" style="width:27vw;height:auto;" alt="two identical values in upper half of data"/></center>
 
     100. Explain that it does not matter which attraction holds the sign since the values are the same, but the sign does need to be held by whoever is standing at the middle position of the group.
-        <center><img src="../../img/u1_l16_10b.png" style="width:11vw;height:auto;" alt="choose median of upper half of data"/></center>
+        <center><img src="../../img/u1_l16_10b.png" style="width:27vw;height:auto;" alt="choose median of upper half of data"/></center>
 
     100. Give the student standing at the Q1 value (Balloon Stand – 78 visitors) one of the following quartile signs:
         100. QUARTILE 1 [Q1] sign ([LMR_U1_L16_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L16_A.pdf), page 4) 
@@ -250,11 +250,11 @@ Students will be able to identify the components of the five-number summary (min
 
 11. With the five signs in place, have students recognize that we have split the data into 4 groups of equal size. Essentially, we have “quartered the data.”
 
-    <center><img src="../../img/u1_l16_11.png" style="width:11vw;height:auto;" alt="quartered data"/></center>
+    <center><img src="../../img/u1_l16_11.png" style="width:30vw;height:auto;" alt="quartered data"/></center>
 
 12. Ask students what “quartering the data” means in terms of percentages. <span style="color:grey">***Answer:***</span> 1/4 = 0.25 = 25%.
 
-    <center><img src="../../img/u1_l16_12.png" style="width:11vw;height:auto;" alt="visual of quartered data"/></center>
+    <center><img src="../../img/u1_l16_12.png" style="width:30vw;height:auto;" alt="visual of quartered data"/></center>
 
 13. Instruct the standing students to return to their desks. 
 
@@ -266,11 +266,13 @@ Students will be able to identify the components of the five-number summary (min
 
     100. Based on these two terms, guide students to understand that the **interquartile range (IQR)** is simply a numerical difference between two quartile values, specifically Q3 and Q1. 
 
-    100. Students should calculate the value.
-        <center><img src="../../img/u1_l16_14d.png" style="width:11vw;height:auto;" alt="calculate IQR"/></center>
+    100. Students should calculate the value. <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>IQR = Q3 - Q1 <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IQR = 103 - 78 <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IQR = 25 </i>
 
     100. You can also continue the number line visual by combining the space between Q1 and Q3 into one big chunk so students can see that the IQR also represents the <u><i>middle 50% of the data</u></i>.
-        <center><img src="../../img/u1_l16_14e.png" style="width:11vw;height:auto;" alt="IQR is middle 50% of data"/></center>
+        <center><img src="../../img/u1_l16_14e.png" style="width:30vw;height:auto;" alt="IQR is middle 50% of data"/></center>
 
 15. Connect IQR to prior learning: Have students recall that the MAD is one measure of spread, and explain that the IQR is an alternative measure we can use to describe a distribution’s spread. 
 
@@ -289,31 +291,31 @@ Students will be able to identify the components of the five-number summary (min
     100. In the same scenario, would the MAD change? <span style="color:grey">***Answer: Yes! All values are included in the MAD calculation, so an even more extreme low value would increase the MAD even more.***</span> 
 
 18. Summarize the learning so far by explaining that the five anchor points we identified are called the **five-number summary**, and that these five values are all we need to draw a boxplot, so we can ignore the other values when we transition to paper.
-    <center><img src="../../img/u1_l16_18.png" style="width:11vw;height:auto;" alt="five-number summary of dat"/></center>
+    <center><img src="../../img/u1_l16_18.png" style="width:30vw;height:auto;" alt="five-number summary of dat"/></center>
 
     <b><i><span style="font-size: 18px";>Part 3: Building a Boxplot by Hand</span></b></i>
 
 19. Draw a number line on the board from 0 to 120, with tick marks at every 10 units. Students should draw the same thing in their notebooks.
 
-    <center><img src="../../img/u1_l16_19.png" style="width:11vw;height:auto;" alt="blank number line"/></center>
+    <center><img src="../../img/u1_l16_19.png" style="width:22vw;height:auto;" alt="blank number line"/></center>
 
-20. Distribute the Building Boxplots handout ([LMR_U1_L16_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L16_B.pdf)) and guide students through how to draw a boxplot on paper using the five-number summary.
-    INCLUDE DOC PREVIEW
+20. Distribute the Building Boxplots handout ([LMR_U1_L16_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L16_B.pdf)) and guide students through Part 2 on how to draw a boxplot on paper using the five-number summary.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L16_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L16_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L16_B.pdf)</div>
 
     100. <u><b>Step 1</u></b>: Mark a dot above the number line at each of the five anchor values: 5, 78, 99.5, 103, and 114.
-        <center><img src="../../img/u1_l16_20a.png" style="width:11vw;height:auto;" alt="mark dots for five-number summary"/></center>
+        <center><img src="../../img/u1_l16_20a.png" style="width:22vw;height:auto;" alt="mark dots for five-number summary"/></center>
 
     100. <u><b>Step 2</u></b>: Draw a rectangular box using Q1 (78) as the left edge and Q3 (103) as the right edge. This box is the visual representation of the IQR. 50% of the attractions lie within the box.
-        <center><img src="../../img/u1_l16_20b.png" style="width:11vw;height:auto;" alt="draw box through Q1 to Q3"/></center>
+        <center><img src="../../img/u1_l16_20b.png" style="width:22vw;height:auto;" alt="draw box through Q1 to Q3"/></center>
 
     100. <u><b>Step 3</u></b>: Draw a vertical line inside the box at the median (99.5). This divides the box into the lower-middle 25% and the upper-middle 25%.
-        <center><img src="../../img/u1_l16_20c.png" style="width:11vw;height:auto;" alt="draw line at median"/></center>
+        <center><img src="../../img/u1_l16_20c.png" style="width:22vw;height:auto;" alt="draw line at median"/></center>
 
     100. <u><b>Step 4</u></b>: Draw a horizontal line to connect the left edge of the box to the minimum (5). Draw a horizontal line to connect the right edge of the box to the maximum (114). Sometimes, data scientists refer to these lines as the *whiskers* of the boxplot. 
-        <center><img src="../../img/u1_l16_9d.png" style="width:11vw;height:auto;" alt="draw whiskers"/></center>
+        <center><img src="../../img/u1_l16_20d.png" style="width:22vw;height:auto;" alt="draw whiskers"/></center>
 
     100. Here are two examples of what the final boxplot might look like:
-        <center><img src="../../img/u1_l16_20e.png" style="width:11vw;height:auto;" alt="examples of finished boxplots"/></center>
+        <center><img src="../../img/u1_l16_20e.png" style="width:40vw;height:auto;" alt="examples of finished boxplots"/></center>
 
     <style type="text/css">
     .ta  {border-collapse:collapse;border-spacing:0;background-color:#cceeff;border-style:dotted;}
@@ -336,7 +338,8 @@ Students will be able to identify the components of the five-number summary (min
     </tr>
     </table>
 
-21. Once students have completed their boxplot drawings, ask them to complete Part 3 of the handout on their own so they can practice their skills in finding the five-number summary, drawing a boxplot, and calculating and interpreting the IQR for new data. <span style="color:grey">***See answers below:***</span>     
+21. Once students have completed their boxplot drawings, ask them to complete Part 3 of the handout on their own so they can practice their skills in finding the five-number summary, drawing a boxplot, and calculating and interpreting the IQR for new data. <span style="color:grey">***See answers below:***</span> 
+    <center><img src="../../img/u1_l16_21.png" style="width:35vw;height:auto;" alt="part 3 answers"/></center>    
 
     <center><h3>Closing</h3></center>
 
@@ -344,11 +347,12 @@ Students will be able to identify the components of the five-number summary (min
 
 23. Exit Ticket (if time allows): Display the following five-number summary and ask students to answer the two questions below before leaving.
 
-    <center><img src="../../img/u1_l16_exitTicket.png" style="width:11vw;height:auto;" alt="five-number summary"/></center>
+    <center><img src="../../img/u1_l16_exitTicket.png" style="width:30vw;height:auto;" alt="five-number summary"/></center>
 
     (1) Calculate the IQR. Show your work. <span style="color:grey">***Answer: IQR = Q3 - Q1 = 28 - 14 = 14.***</span>
 
-    (2) Use the five-number summary to draw a boxplot for the data.
+    (2) Use the five-number summary to draw a boxplot for the data. <span style="color:grey">***Answer:***</span>
+    <center><img src="../../img/u1_l16_exitTicket2.png" style="width:22vw;height:auto;" alt="boxplot answer"/></center>
 
 24. Key Takeaways: Boxplots summarize a distribution using just five values. The IQR is a measure of spread that is not affected by extreme values, unlike the MAD.
 
