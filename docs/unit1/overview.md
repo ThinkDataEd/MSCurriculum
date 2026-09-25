@@ -223,18 +223,10 @@
     <td class="tg-8jgo"><a href="../unit1/progresscheck3">151</a></td>
   </tr>
   <tr>
+    <td class="tg-km2t" colspan="3">Additional Performance Task (OPTIONAL): <a href="../unit1/end">Unit 1 Investigative Report: Solving Your Own Case</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-zv4m">Additional Assessment: <a href="../unit1/assess1">Your Turn, Detective! A Full Data Cycle Investigation</a></td>
-    <td class="tg-zv4m"></td>
-    <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit1/assess1">155</a></td>
-  </tr>
-  <tr>
-    <td class="tg-km2t" colspan="3">Unit 1 Final Mission: <a href="../unit1/end">The Data Detective's Case Report</a></td>
-    <td class="tg-zv4m"></td>
-    <td class="tg-zv4m"></td>
-    <td class="tg-aw21"><a href="../unit1/end">159</a></td>
+    <td class="tg-aw21"><a href="../unit1/end">155</a></td>
   </tr>
   <tr>
     <td class="tg-km2t" colspan="3"><a href="../unit1/references">References</a></td>
