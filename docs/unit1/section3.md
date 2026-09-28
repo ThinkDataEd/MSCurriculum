@@ -1,4 +1,4 @@
-#Unit 1, Section 3: Wrapping Up the Case 
+#Unit 1, Section 3: Wrapping Up the Case
 
 **<h1>Section 3: Wrapping Up the Case</h1>**
 
@@ -66,8 +66,8 @@ This section advances students from graphical inspection to formal numerical sum
     <td class="tg-y698"><ul><li>Plot Match: Pairing matching histograms, dotplots, and boxplots based on shape</li>
     <li>Decision Framework: Mapping symmetric data to Mean/MAD and skewed data to Median/IQR</li>
     <li>CODAP Analysis: Generating boxplots</li></ul></td>
-    <td class="tg-y698"><ul><li>B....</li>
-    <li>B...</li></ul></td>
+    <td class="tg-y698"><ul><li>B.III.2: Coordinate key features of distributions (shape, center, and variability)</li>
+    <li>B.III.3: Use reasoning about distributions to compare summary statistics</li></ul></td>
   </tr>
   <tr>
     <td class="tg-yj5y"><a href="../../unit1/lesson18">Lesson 18: </a>Wrapping Up the Case of the Candy Culprit</td>
