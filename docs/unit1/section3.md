@@ -29,7 +29,7 @@ This section advances students from graphical inspection to formal numerical sum
     <td class="tg-88nc">center <br>fair share <br>mean <br> average</td>
     <td class="tg-y698"><ul><li>Fair Share: Redistributing tokens across plates to model equal sharing</li>
     <li>Algorithm Practice: Applying mean formula</li>
-    <li></li>CODAP Analysis: Adding  mean lines to plots</ul></td>
+    <li>CODAP Analysis: Adding  mean lines to plots</li></ul></td>
     <td class="tg-y698"><ul><li>B.III.2: Learn to use key features of distributions (center: mean as a balance point)</li>
     <li>B.IV.1: Use statistical evidence from analyses to answer questions</li></ul> </td>
   </tr>
@@ -79,7 +79,7 @@ This section advances students from graphical inspection to formal numerical sum
   </tr>
   <tr>
     <td class="tg-yj5y"><a href="../../unit1/progresscheck3">Progress Check 3: </a>Can You Interpret Evidence?</td>
-    <td class="tg-c3ow">n/a</td>
+    <td class="tg-88nc">n/a</td>
     <td class="tg-y698"><ul><li>Investigative Task 1: Gamer Profiles Revisited</li> 
     <li>Investigative Task 2: The Impact of Extreme Players</li>
     <li>Investigative Task 3: Creating & Interpreting Boxplots</li>
