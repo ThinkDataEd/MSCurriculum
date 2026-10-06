@@ -99,7 +99,7 @@ Students will recognize how extreme values can disproportionately influence the 
 
     100. How many visitors typically visit each attraction? What would be the mean number of visitors? 
 
-        <center><img src="https://latex.codecogs.com/gif.latex?Mean=\frac{5+98+100+103+109}{5}=\frac{415}{5}=83" title="Mean=\frac{5+98+100+103+109}{5}=\frac{415}{5}=83"/></center>
+        <center><img src="https://latex.codecogs.com/gif.latex?Mean=\frac{5+98+100+103+109}{5}=\frac{415}{5}=83" title="Mean=\frac{5+98+100+103+109}{5}=\frac{415}{5}=83" style="width:65%;"/></center>
 
     100. Does this seem like a “fair” value to measure the center of these data points? <span style="color:grey">***Sample answer: No. Most of our values were close to 100, but the mean is only 83.***</span> 
 
@@ -152,7 +152,7 @@ Students will recognize how extreme values can disproportionately influence the 
 
     100. Calculate the mean number of visitors for the attractions without the Hot Air Balloon’s low value of 5.
 
-        <center><img src="https://latex.codecogs.com/gif.latex?Mean=\frac{98+100+103+109}{5}=\frac{410}{5}=102.5" title="Mean=\frac{98+100+103+109}{5}=\frac{410}{5}=102.5"/></center>
+        <center><img src="https://latex.codecogs.com/gif.latex?Mean=\frac{98+100+103+109}{5}=\frac{410}{5}=102.5" title="Mean=\frac{98+100+103+109}{5}=\frac{410}{5}=102.5" style="width:65%;"/></center>
     
     100. Calculate the median number of visitors for the attractions when we exclude the low value of 5 from the Hot Air Balloon. 
 
@@ -231,20 +231,20 @@ Students will recognize how extreme values can disproportionately influence the 
     <tr>
     <td class="ttg-y55z">Data Values: 5, 98, 100, 103, 109 <br>
     Mean: 83 <br> <br> 
-    Absolute Deviations: |<i>observations - mean</i>| <br> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|5-83|=|-78|=78" title="|5-83|=|-78|=78"/> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|98-83|=|15|=15" title="|98-83|=|15|=15"/> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|100-83|=|17|=17" title="|100-83|=|17|=17"/> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|103-83|=|20|=20" title="|103-83|=|20|=20"/> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|109-83|=|26|=26" title="|109-83|=|26|=26"/> <br> <br>
+    Absolute Deviations: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<i>observation - mean</i>| <br> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|5-83|=|-78|=78" title="|5-83|=|-78|=78" style="width:60%;"/> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|98-83|=|15|=15" title="|98-83|=|15|=15" style="width:60%;"/> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|100-83|=|17|=17" title="|100-83|=|17|=17" style="width:60%;"/> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|103-83|=|20|=20" title="|103-83|=|20|=20" style="width:60%;"/> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|109-83|=|26|=26" title="|109-83|=|26|=26" style="width:60%;"/> <br> <br>
     <img src="https://latex.codecogs.com/gif.latex?MAD=\frac{78+15+17+20+26}{5}=\frac{156}{5}=31.2" title="MAD=\frac{78+15+17+20+26}{5}=\frac{156}{5}=31.2"/></td>
     <td class="ttg-y55z">Data Values: 98, 100, 103, 109 <br>
     Mean: 102.5 <br> <br> 
-    Absolute Deviations: |<i>observations - mean</i>| <br> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|98-102.5|=|-4.5|=4.5" title="|98-102.5|=|-4.5|=4.5"/> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|100-102.5|=|-2.5|=2.5" title="|100-102.5|=|-2.5|=2.5"/> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|103-102.5|=|0.5|=0.5" title="|103-102.5|=|0.5|=0.5"/> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|109-102.5|=|6.5|=6.5" title="|109-102.5|=|6.5|=6.5"/> <br> <br> <br> 
+    Absolute Deviations: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<i>observation - mean</i>| <br> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|98-102.5|=|-4.5|=4.5" title="|98-102.5|=|-4.5|=4.5" style="width:80%;"/> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|100-102.5|=|-2.5|=2.5" title="|100-102.5|=|-2.5|=2.5"style="width:80%;"/> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|103-102.5|=|0.5|=0.5" title="|103-102.5|=|0.5|=0.5" style="width:80%;"/> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?|109-102.5|=|6.5|=6.5" title="|109-102.5|=|6.5|=6.5" style="width:80%;"/> <br> <br> <br> 
     <img src="https://latex.codecogs.com/gif.latex?MAD=\frac{4.5+2.5+0.5+6.5}{4}=\frac{14}{4}=3.5" title="MAD=\frac{78+15+17+20+26}{4}=\frac{14}{4}=3.5"/></td>
     </tr>
     </table>
