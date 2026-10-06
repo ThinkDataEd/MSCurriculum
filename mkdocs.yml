@@ -67,9 +67,8 @@ nav:
             - 'Lesson 17: Choosing the Right Tools for Center and Spread' : unit1/lesson17.md
             - 'Lesson 18: Wrapping Up the Case of the Candy Culprit' : unit1/lesson18.md
             - 'Progress Check 3: Can You Interpret Evidence?' : unit1/progresscheck3.md
-            - 'Additional Assessment: Your Turn, Detective! A Full Data Cycle Investigation' : unit1/assess1.md
-        - 'Unit 1 Final Mission':
-            - 'The Data Detective’s Case Report': unit1/end.md
+        - 'Additional Performance Task (OPTIONAL)':
+            - 'Unit 1 Investigative Report: Solving Your Own Case': unit1/end.md
     #- Unit2:
         #- Daily Overview: unit2/overview.md
         #- 'Section 1': 
