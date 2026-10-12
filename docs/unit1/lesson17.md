@@ -45,7 +45,7 @@ n/a
      - If the number of students is not divisible by 3, give 1 or 2 students an extra card so they belong to 2 triplets, or have a teacher or aide participate.
      
      - Answer key for the Data Triplets. ***Please do not share with students until after the activity.***
-     <center><img src="../../img/u1_l17_classSetup.png" style="width:18vw;height:auto;" alt="sample boxplot"/></center>
+     <center><img src="../../img/u1_l17_classSetup.png" style="width:35vw;height:auto;" alt="sample boxplot"/></center>
 
 <center><h3>Opening</h3></center>
 
@@ -150,7 +150,7 @@ n/a
 
 11. Have students complete Part 2 of the handout on their own or in pairs. Answers are provided below:
 
-    100. <center><img src="../../img/u1_l17_11a.png" style="width:21vw;height:auto;" alt="sample boxplot"/></center>
+    100. <center><img src="../../img/u1_l17_11a.png" style="width:23vw;height:auto;" alt="sample boxplot"/></center>
     <span style="color:grey">***Left whisker length = Q1 – Minimum = 5 - 0 = 5***</span> <br>
     <span style="color:grey">***Right whisker length = Maximum – Q3 = 60 - 25 = 35***</span> <br>
     <span style="color:grey">***The longer whisker is on the RIGHT SIDE of the boxplot.***</span> <br>
