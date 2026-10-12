@@ -71,14 +71,14 @@ nav:
             - 'Unit 1 Investigative Report: Solving Your Own Case': unit1/end.md
     #- Unit2:
         #- Daily Overview: unit2/overview.md
-        #- 'Section 1': 
+        #- 'Compare-a-Chutes': 
             #- 'Section Name':    unit2/section1.md
             #- 'Lesson 1: Compair-a-Chutes' : unit2/lesson1.md
             #- 'Lesson 2: Construct-a-Chute' : unit2/lesson2.md
             #- 'Lesson 3: Compare-a-Chutes' : unit2/lesson3.md
             #- 'Lesson 4: The Board Meeting' : unit2/lesson4.md
             #- 'Progress Check 1: ' : unit2/progresscheck1.md
-        #- 'Section 2': 
+        #- 'Warning Signs': 
             #- 'Section Name':    unit2/section2.md
             #- 'Lesson 5: Reaching Higher' : unit2/lesson5.md
             #- 'Lesson 6: Two Measurements One Story' : unit2/lesson6.md
@@ -88,7 +88,7 @@ nav:
             #- 'Lesson 10: Off the Charts' : unit2/lesson10.md
             #- 'Progress Check 2: ' : unit2/progresscheck2.md
        # - 'Section 3':
-           # - 'Section Name':    unit2/section3.md  
+           # - 'Animal Associations':    unit2/section3.md  
             #- 'Lesson 11: The Average Bear' : unit2/lesson11.md
             #- 'Lesson 12: Just the Facts' : unit2/lesson12.md
             #- 'Lesson 13: Fact Check' : unit2/lesson13.md
@@ -98,7 +98,6 @@ nav:
             #- 'Lesson 17: From Hand to Tool' : unit2/lesson17.md
             #- 'Lesson 18: Does the Data Tell a Story?' : unit2/lesson18.md
             #- 'Progress Check 3: ' : unit2/progresscheck3.md
-            #- 'Additional Assessment:' : unit2/assess1.md
        # - 'Unit 2 Final Mission':
             #- 'mission' : unit2/end.md
 
