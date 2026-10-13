@@ -140,8 +140,8 @@ nav:
         #- 'Unit 3 Vocabulary' : vocabulary/unit3.md
 
     - Downloads: 
-        - 'MSDS_LMRs' : download/lmrs.md
-        - 'MSDS_Datasets' : download/datasets.md
+        - 'DD_LMRs' : download/lmrs.md
+        - 'DD_Datasets' : download/datasets.md
            
     - References: references.md 
 
