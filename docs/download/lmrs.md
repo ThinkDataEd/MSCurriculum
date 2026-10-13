@@ -66,10 +66,20 @@
 
 [LMR_U1_L16_B_Building Boxplots.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L16_B.pdf)
 
-[LMR_U1_L17_A_Clue8_CODAP_Analysis.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L17_A.pdf)
+[LMR_U1_L17_A_Mingle_and_Match_Plot_Triplets](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L17_A.pdf)
+
+[LMR_U1_L17_B_Reading_Boxplot_Shapes](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L17_B.pdf)
+
+[LMR_U1_L17_C_Shape_Center_Spread_Guide](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L17_C.pdf)
+
+[LMR_U1_L18_A_Clue8_CODAP_Analysis](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L18_A.pdf)
+
+[LMR_U1_L18_B_DSU_Final_Case_Report](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L18_B.pdf)
 
 [LMR_U1_Progress_Check_1.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_Progress_Check_1.pdf)
 
 [LMR_U1_Progress_Check_2.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_Progress_Check_2.pdf)
 
 [LMR_U1_Progress_Check_3.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_Progress_Check_3.pdf)
+
+[LMR_U1_Investigative_Report.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_Investigative_Report.pdf)
