@@ -31,11 +31,12 @@
 
 
 # Data Detectives: Middle School Curriculum
-![MSDS-logo](img/MS_DS_logo_text.png)
 
-**Michael Bradac**
+<center><img src="../../img/MS_DS_logo_text.png" style="width:30vw;height:auto;" alt="Data Detective logo"/></center>
 
-**Terri Anna Johnson**
+**<center>Terri Anna Johnson</center>**
+
+**<center>Michael Bradac</center>**
 
 ## Sponsors & Supporters
 
