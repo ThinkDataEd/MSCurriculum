@@ -83,3 +83,17 @@
 [LMR_U1_Progress_Check_3.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_Progress_Check_3.pdf)
 
 [LMR_U1_Investigative_Report.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_Investigative_Report.pdf)
+
+##**Data Detectives Middle School Curriculum LMRs Unit 2**	
+
+[LMR_U2_L01_A_How_to_Make_a_Parachute.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L01_A.pdf)
+
+[LMR_U2_L01_B_Compair-a-Chutes_Descent_Times.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L01_B.pdf)
+
+[LMR_U2_L02_A_Parachute_Modification_Descriptions.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L02_A.pdf)
+
+[LMR U2_L02_B_Compare-a-Chute_Descent_Times.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L02_B.pdf)
+
+[LMR_U2_L03_A_Compare-a-Chutes.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L03_A.pdf)
+
+[LMR_U2_Progress_Check_1.pdf](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_Progress_Check_1.pdf)
