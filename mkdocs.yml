@@ -74,8 +74,8 @@ nav:
         - 'Section 1': 
             - 'Compare-a-Chutes':    unit2/section1.md
             - 'Lesson 1: Compair-a-Chutes' : unit2/lesson1.md
-            #- 'Lesson 2: Construct-a-Chute' : unit2/lesson2.md
-            #- 'Lesson 3: Compare-a-Chutes' : unit2/lesson3.md
+            - 'Lesson 2: Construct-a-Chute' : unit2/lesson2.md
+            - 'Lesson 3: Compare-a-Chutes' : unit2/lesson3.md
             #- 'Lesson 4: The Board Meeting' : unit2/lesson4.md
             #- 'Progress Check 1: Can You Weigh the Evidence?' : unit2/progresscheck1.md
         #- 'Warning Signs': 
