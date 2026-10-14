@@ -74,7 +74,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#lesson-3" class="md-skip">
+        <a href="#lesson-3-compare-a-chutes" class="md-skip">
           Skip to content
         </a>
       
@@ -1720,15 +1720,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#lesson-3" class="md-nav__link">
+  <a href="#lesson-3-compare-a-chutes" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Lesson 3:
+        Lesson 3: Compare-a-Chutes
       
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Lesson 3:">
+    <nav class="md-nav" aria-label="Lesson 3: Compare-a-Chutes">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -1810,59 +1810,129 @@
 
   <h1>Lesson3</h1>
 
-<h2 id="lesson-3"><strong><u>Lesson 3: </u></strong></h2>
+<h2 id="lesson-3-compare-a-chutes"><strong><u>Lesson 3: Compare-a-Chutes</u></strong></h2>
 <h3 id="objective"><strong>Objective:</strong></h3>
-<p>Students </p>
+<p>Students will use CODAP to construct stacked box plots and informally assess if a difference is meaningful.</p>
 <h3 id="materials"><strong>Materials:</strong></h3>
 <ol>
 <li>
-<p>Ma</p>
+<p>Data collected during <a href="../lesson2/">Lesson 2</a></p>
 </li>
 <li>
-<p>How to Make a Parachute handout (<a href="../../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L01_A.pdf">LMR_U2_L01_A_How_to_Make_a_Parachute</a>) – instructions to create Parachute P1 (prior to class) and Parachute P2 (as a demo during class)
-    <strong><em><span style="background: #d9f0d3; color: black;">Advanced preparation required.</span></em></strong> <em>See Class Setup section for additional details.</em></p>
+<p>Computers or devices with ability to access CODAP</p>
 </li>
 <li>
-<p>Link to <a href="https://codap.concord.org/app/#shared=https%3A%2F%2Fcfm-shared.concord.org%2FnkbkaRprTXBiYVdhMLp9%2Ffile.json" target="_blank" title="https://codap.concord.org/app/#shared=https%3A%2F%2Fcfm-shared.concord.org%2FnkbkaRprTXBiYVdhMLp9%2Ffile.json">CODAP Parachutes Data File</a></p>
+<p><a href="https://codap.concord.org/app/#shared=https%3A%2F%2Fcfm-shared.concord.org%2FnkbkaRprTXBiYVdhMLp9%2Ffile.json" target="_blank" title="https://codap.concord.org/app/#shared=https%3A%2F%2Fcfm-shared.concord.org%2FnkbkaRprTXBiYVdhMLp9%2Ffile.json">CODAP Parachutes Data File</a> (created during <a href="../lesson1/">Lesson 1</a> to share with students) <br>
+<strong><em>NOTE</em></strong>: This will open an independent copy of the file for each student to save to their local computer or Google Drive.</p>
+</li>
+<li>
+<p>Compare-a-Chutes handout (<a href="../../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L03_A.pdf">LMR_U2_L03_A_Compare-a-Chutes</a>) – one per group</p>
 </li>
 </ol>
 <h3 id="vocabulary"><strong>Vocabulary:</strong></h3>
-<p><a class="md-button" href="../../vocabulary/unit1/#data" title="information gathered through observation or responses">data</a></p>
+<p><a class="md-button" href="../../vocabulary/unit1/#stacked-box-plot" title="a data visualization where box plots are aligned vertically on a shared axis">stacked box plot</a></p>
 <h3 id="essential-concepts"><strong>Essential Concepts:</strong></h3>
 <div class="admonition note">
 <p class="admonition-title">Essential Concepts: </p>
-<p>Accurate </p>
+<p>Stacked box plots allow for a direct comparison of <strong>typical values</strong> and <strong>variability</strong>, helping us decide if a difference is meaningful.</p>
 </div>
 <h3 id="lesson"><strong>Lesson:</strong></h3>
-<center><h3>Class Setup</h3></center>
-
-<ul>
-<li>
-<p><strong><em><span style="background: #d9f0d3; color: black;">Advanced preparation required.</span></em></strong></p>
-<ul>
-<li>
-<p>At</p>
-<ul>
-<li>Using one set of the materials and the How to Make a Parachute instructions (<a href="../../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L01_A.pdf">LMR_U2_L01_A</a>), construct a parachute. This parachute will be referred to as Parachute P1.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U2_L01_A.pdf">LMR_U2_L01_A</a></div></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
 <center><h3>Opening</h3></center>
 
-<pre><code>&lt;center&gt;&lt;h3&gt;Concept Development&lt;/h3&gt;&lt;/center&gt;
-
-&lt;b&gt;&lt;i&gt;&lt;span style="font-size: 18px";&gt;Part 1: Construct Parachute P2&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;
-
-
-&lt;b&gt;&lt;i&gt;&lt;span style="font-size: 18px";&gt;Part 2: Building the Definition of Data&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;
-
-
-
-&lt;center&gt;&lt;h3&gt;Closing&lt;/h3&gt;&lt;/center&gt;
-</code></pre>
+<ol>
+<li>
+<p>Distribute a copy of the Compare-a-Chutes handout (<a href="../../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L03_A.pdf">LMR_U2_L03_A</a>) to each group. Explain that students will work in their groups to complete the tasks and answer the questions outlined throughout the lesson. <br> <strong><em>NOTE</em></strong>: The lesson below directly guides students through the Compare-a-Chutes handout.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L03_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L03_A.pdf">LMR_U2_L03_A</a></div></p>
+<p><center><h3>Concept Development</h3></center></p>
+<p><b><i><span style="font-size: 18px";>Part 1: Organize the Data</span></b></i></p>
+</li>
+<li>
+<p>With all students, share a link to the Parachutes Data File you created during <a href="../lesson1/">Lesson 1</a>. The file should contain a table named <strong>Parachute Descent Times</strong> with two attributes, <strong>time (seconds)</strong> and <strong>type</strong>. The table should include the 20 <strong>times</strong> and <strong>type</strong> value (<strong>P1</strong>) for the original Parachute P1, being used for comparison. <br>
+<strong><em>NOTE</em></strong>: If students want to use a descriptor for the canopy style of the parachute, have them replace the value of the <strong>type</strong> variable with <strong>large_square</strong> instead of <strong>P1</strong>.</p>
+</li>
+<li>
+<p>Students enter the data they collected for <a href="../lesson2/">Lesson 2</a> into the <strong>time (seconds)</strong> and <strong>type</strong> columns of rows 21-40. <br> <strong><em>NOTE</em></strong>: Students can leave the <strong>type</strong> variable as <strong>P2</strong> or they can enter a name that fits their canopy modification. For example, if they changed the canopy of their parachute so it has an area that is half, they can enter <strong>half_square</strong> and if they changed the canopy to a circle with an area of 144 square inches, they can enter <strong>large_circle</strong>.</p>
+<p><b><i><span style="font-size: 18px";>Part 2: Analyze the Data</span></b></i></p>
+</li>
+<li>
+<p>Students create a new Graph on the CODAP document and name it following the format <strong>Large Square vs “name for the group's modification from Step 3 above, here”</strong>. Two examples are shown below if students need a visual example:
+    <center><img src="../../img/u2_l03_4.png" style="width:35vw;height:auto;" alt="rename CODAP file"/></center></p>
+</li>
+<li>
+<p>Have students create stacked box plots in their graph space. </p>
+<ol>
+<li>
+<p>They should place the <strong>time</strong> variable on the x-axis and the <strong>type</strong> variable on the RIGHT side y-axis. </p>
+</li>
+<li>
+<p>In the Measure section, they should check the boxes for <strong>Count</strong>, <strong>Show Measure Labels</strong>, <strong>Mean</strong>, <strong>Median</strong>, <strong>Box Plot</strong>, and <strong>Mean Absolute Deviation</strong>.
+<center><img src="../../img/u2_l03_5.png" style="width:35vw;height:auto;" alt="create stacked box plots"/></center></p>
+</li>
+</ol>
+</li>
+<li>
+<p>Working with their groups, students answer the following questions:</p>
+<ol>
+<li>
+<p>What was the modification your group made to the canopy? <span style="color:grey"><strong><em>Answers will vary depending on group modification assignments.</em></strong></span></p>
+</li>
+<li>
+<p>What differences do you see between the plot for the Large Square parachute and the plot for the modified parachute? What similarities do you see? <span style="color:grey"><strong><em>Sample answer using the comparison of the Large Square canopy and the Large Circle canopy from Step 5 above: There is a difference in the position on the number line. The Large Square plot is shifted to the right, which means it takes longer to descend, while the Large Circle is shifted to the left, which means it lands faster. There is some overlap between the two plots meaning some of the drops are descending at similar times. The plot of the Large Square shows a skewed right distribution, the "whisker" on the right side is longer, suggesting that the parachute sometimes took longer to descend. The plot of the Large Circle is more symmetrical with the “whiskers” roughly the same size so the variation in parachute drop times was consistent around the mean.</em></strong></span></p>
+</li>
+<li>
+<p>How does a typical landing with your design differ from a typical landing with the Large Square canopy design (Parachute P1)? <span style="color:grey"><strong><em>Sample answer using the comparison of the Large Square canopy and the Large Circle canopy from Step 5 above: The Large Square canopy design has a median drop time of 2.085 seconds (mean = 2.105) and the Large Circle canopy design has a median drop time of 1.965 seconds (mean = 1.966). A typical landing with the Large Circle design happens slightly sooner. A typical landing with the modified design is about 0.12 seconds faster than the Large Square canopy design (subtracting medians). In the short distance for our test runs, 0.12 seconds is likely not going to make a difference, but could if the distance were scaled up to a high-altitude jump. </em></strong></span></p>
+</li>
+<li>
+<p>Which parachute design results in a safer descent? Why? What visual or descriptive evidence from your CODAP analysis supports your claim? <span style="color:grey"><strong><em>Sample answer using the comparison of the Large Square canopy and the Large Circle canopy from Step 5 above: If a slower descent time is safer, then the parachute design with the Large Square canopy would be the better choice in this case. The Large Square canopy has a mean descent time of 2.105 seconds, which is 0.139 seconds slower than the mean descent time of the modified design with the Large Circle canopy.</em></strong></span> </p>
+</li>
+<li>
+<p>Which parachute design is more reliable? Why? What visual or descriptive evidence from your CODAP analysis supports your claim? <span style="color:grey"><strong><em>Sample answer using the comparison of the Large Square canopy and the Large Circle canopy from Step 5 above: The Large Circle canopy had descent times that were more reliable if reliability is based on spread. The Large Circle canopy has a MAD of 0.131 sec while the Large Square canopy has a MAD of 0.121 sec. Because the Large Square canopy has a smaller MAD (and a narrower box), its performance is more predictable. The Large Circle canopy has more variability in its results causing the spread of descent times to be greater.</em></strong></span></p>
+</li>
+<li>
+<p>If you had to use your parachute for a high-stakes jump right now, how confident would you feel about hitting your median time? Point to a specific visual feature of the plot to justify how confident you are. <span style="color:grey"><strong><em>Sample answer using the comparison of the Large Square canopy and the Large Circle canopy from Step 5 above: I would feel very confident hitting the median time with the Large Square canopy because the width of the box, the IQR, is narrow. The data is more tightly clustered around the median/mean, meaning the parachute performs in a similar way each time.</em></strong></span></p>
+</li>
+</ol>
+<p><b><i><span style="font-size: 18px";>Part 3: Numerical Summaries</span></b></i></p>
+</li>
+<li>
+<p><strong>Statistical Question</strong>: Is the difference between the modified parachute and the parachute with a large square canopy a real, meaningful change or just chance variation?</p>
+<ol>
+<li>To answer this question, students will need to use measures of center and spread. They should record the following values from CODAP.
+<center><img src="../../img/u2_l03_7.png" style="width:35vw;height:auto;" alt="CODAP table of parachutes"/></center></li>
+</ol>
+<p><b><i><span style="font-size: 18px";>Part 3: Preparing the Report</span></b></i></p>
+</li>
+<li>
+<p>Provide students time to prepare their reports as directed on the Compare-a-Chutes handout (<a href="../../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L03_A.pdf">LMR_U2_L03_A</a>). </p>
+<ol>
+<li>
+<p><strong>Student Task</strong>: As Lead Engineers, prepare a report for the CEO and the Board of Directors. Use the plots and answers from Part 2 and the Number Summaries from Part 3 to determine if your design modification should be adopted. Support your conclusions. Your report must address the following:</p>
+<ul>
+<li>
+<p><strong>Design Comparison</strong>: How does the design of your modified parachute compare to the Large Square parachute (P1)? </p>
+</li>
+<li>
+<p><strong>Typical Performance</strong>: How did your modification affect the typical speed of the fall? </p>
+</li>
+<li>
+<p><strong>Reliability</strong>: How did your modification affect the reliability of the parachute? </p>
+</li>
+<li>
+<p><strong>The Statistical Verdict</strong>: Do you think the difference between Parachute P1 and your modified parachute is meaningful?</p>
+</li>
+</ul>
+</li>
+</ol>
+</li>
+<li>
+<p>Final Recommendation: Based on the evidence, should the company adopt your modification, reject it, or do more testing? Justify your decision using your data.</p>
+<p><center><h3>Closing</h3></center></p>
+</li>
+<li>
+<p>Transition: Remind students that tomorrow they are no longer students – they are Lead Engineers presenting to the Lead Designer. <br>
+<strong><em>NOTE (optional)</em></strong>: To provide a more formal and business feel to <a href="../lesson4/">Lesson 4</a>, you may ask students to dress in business or business casual attire.</p>
+</li>
+</ol>
 
 
 
