@@ -69,15 +69,15 @@ nav:
             - 'Progress Check 3: Can You Interpret Evidence?' : unit1/progresscheck3.md
         - 'Additional Performance Task (OPTIONAL)':
             - 'Unit 1 Investigative Report: Solving Your Own Case': unit1/end.md
-    #- Unit2:
-        #- Daily Overview: unit2/overview.md
-        #- 'Compare-a-Chutes': 
-            #- 'Section Name':    unit2/section1.md
-            #- 'Lesson 1: Compair-a-Chutes' : unit2/lesson1.md
-            #- 'Lesson 2: Construct-a-Chute' : unit2/lesson2.md
-            #- 'Lesson 3: Compare-a-Chutes' : unit2/lesson3.md
-            #- 'Lesson 4: The Board Meeting' : unit2/lesson4.md
-            #- 'Progress Check 1: ' : unit2/progresscheck1.md
+    - Unit2:
+        - Daily Overview: unit2/overview.md
+        - 'Compare-a-Chutes': 
+            - 'Section Name':    unit2/section1.md
+            - 'Lesson 1: Compair-a-Chutes' : unit2/lesson1.md
+            - 'Lesson 2: Construct-a-Chute' : unit2/lesson2.md
+            - 'Lesson 3: Compare-a-Chutes' : unit2/lesson3.md
+            - 'Lesson 4: The Board Meeting' : unit2/lesson4.md
+            - 'Progress Check 1: Can You Weigh the Evidence?' : unit2/progresscheck1.md
         #- 'Warning Signs': 
             #- 'Section Name':    unit2/section2.md
             #- 'Lesson 5: Reaching Higher' : unit2/lesson5.md
@@ -136,7 +136,7 @@ nav:
 
     - Vocabulary: 
         - 'Unit 1 Vocabulary' : vocabulary/unit1.md
-        #- 'Unit 2 Vocabulary' : vocabulary/unit2.md
+        - 'Unit 2 Vocabulary' : vocabulary/unit2.md
         #- 'Unit 3 Vocabulary' : vocabulary/unit3.md
 
     - Downloads: 
