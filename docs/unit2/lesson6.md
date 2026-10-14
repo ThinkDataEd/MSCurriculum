@@ -1,88 +1,52 @@
-##**<u>Lesson 6: Face Off</u>**
+##**<u>Lesson 6: </u>**
 
 ###**Objective:**
-Students will informally compare two or more distributions using their knowledge of shape, center, and
-spread to answer statistical questions. They will learn how to find the difference between two means and
-two medians using a histogram or dotplot.
+Students 
 
 ###**Materials:**
-1. *Comparing Commute Times with Dotplots* handout ([LMR_U2_L6_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_A.pdf))
 
-2. *Comparing Exam Scores with Histograms* handout ([LMR_U2_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_B.pdf))
+1. Ma
 
-3. Timer
+2. How to Make a Parachute handout ([LMR_U2_L01_A_How_to_Make_a_Parachute](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L01_A.pdf)) – instructions to create Parachute P1 (prior to class) and Parachute P2 (as a demo during class)
+    ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>*** *See Class Setup section for additional details.*
 
-4. *Comparing Fuel Efficiency with Boxplots* handout ([LMR_U2_L6_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_C.pdf))
+
+9. Link to [CODAP Parachutes Data File](https://codap.concord.org/app/#shared=https%3A%2F%2Fcfm-shared.concord.org%2FnkbkaRprTXBiYVdhMLp9%2Ffile.json "https://codap.concord.org/app/#shared=https%3A%2F%2Fcfm-shared.concord.org%2FnkbkaRprTXBiYVdhMLp9%2Ffile.json"){:target="_blank"}
+
 
 ###**Vocabulary:**
-[rebuttal](../../vocabulary/unit2/#rebuttal "an opposing argument or debate"){ .md-button }
+[data](../../vocabulary/unit1/#data "information gathered through observation or responses"){ .md-button }
 
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Writing (and saying) precise comparisons between groups in which variability is
-    present based on the (a) center, (b) spread, (c) shape, and (d) unusual outcomes help to make
-    statements in context of the data. Actual comparison statements should use terms such as "less than,"
-    "about the same as," etc.
+    Accurate 
 
 ###**Lesson:**
-1. Poll students about the method of transportation they use for their daily school commute. How
-many of them walk, ride in a car, take the bus, ride a bike, etc.? Record their responses on the
-board. Ask them to estimate the typical amount of time it takes for them to get to school, in
-minutes.
 
-2. Inform students that they have learned important features of distributions that will allow them to
-make decisions when working with data. More specifically, they will be able to use their
-knowledge of measures of center and measures of spread to compare 2 distributions in order to
-make a decision.
+<center><h3>Class Setup</h3></center>
 
-3. In teams, have students complete the *Comparing Commute Times with Dotplots* handout
-([LMR_U2_L6_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_A.pdf)). Allow students time to read the “Background” portion of the handout, and then
-discuss what statistical question(s) the student in the scenario is trying to answer. <br> **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference only.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L6_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_A.pdf)</div>
+- ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>***
 
-4. Once teams decide on their recommendation, engage half of the class in an *Active Debate*. Half
-of the students will stand in a debate line and the other half will “fishbowl” the debate. Roles will
-reverse later in the lesson (see step 12 below).
+    - At
 
-5. Of those students standing on the debate line, half will argue the reasons why they recommend
-street travel and the other half will argue the reasons why they recommend freeway travel.
+        - Using one set of the materials and the How to Make a Parachute instructions ([LMR_U2_L01_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L01_A.pdf)), construct a parachute. This parachute will be referred to as Parachute P1.
+        <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L01_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U2_L01_A.pdf)</div>
 
-6. On the debate line, each student will stand face to face with a student who has the opposite
-recommendation. In other words, a student who recommends street travel will stand facing a
-student who recommends freeway travel.
 
-7. Using a timer, allow one minute for students who recommend freeway travel to argue their point
-to the person they are facing. Then, repeat for students who recommend street travel. Students
-should not interrupt or respond; they should only listen to the other side.
+<center><h3>Opening</h3></center>
 
-8. Next, give debaters two minutes to prepare a **rebuttal** of the other person’s argument. For
-example, if one student claimed that freeway travel is better, the other student may ask where the
-evidence is in the data or show that the data does not support the claim.
+    <center><h3>Concept Development</h3></center>
 
-9. Allow each debater two minutes to present his/her rebuttal.
+    <b><i><span style="font-size: 18px";>Part 1: Construct Parachute P2</span></b></i>
 
-10. Finally, ask debaters if any of them changed their recommendations after engaging in the debate.
 
-11. In teams, have students complete the *Comparing Exam Scores with Histograms* handout
-([LMR_U2_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_B.pdf)). Allow students time to read the “Background” portion of the handout, and then
-discuss what statistical question(s) the student in the scenario is trying to answer. <br> **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference only
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_B.pdf)</div>
+    <b><i><span style="font-size: 18px";>Part 2: Building the Definition of Data</span></b></i>
 
-12. Repeat debate process (steps 4 - 10b from above) with the other half of the class.
 
-13. Summarize the lesson by conducting a class discussion about what to look for when comparing
-distributions. Students should be precise when estimating values of means, medians, MAD, and
-IQR. They should also be able to comment on when it is most appropriate to use each measure
-of center and spread. <span style="color:grey">***Answer: If a distribution is symmetric, it is best to use the mean as a measure
-of center and the MAD as a measure of spread. If a distribution is skewed, or has outliers,
-it is best to use the median as a measure of center and the IQR as a measure of spread.***</span>
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+    <center><h3>Closing</h3></center>
 
-###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Similar to the activities they did during class today, for homework, students should complete the
-*Comparing Fuel Efficiency with Boxplots* handout ([LMR_U2_L6_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_C.pdf)). <br> **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference only
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L6_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_C.pdf)</div>
+
+
+
