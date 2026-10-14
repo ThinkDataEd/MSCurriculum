@@ -56,12 +56,12 @@ n/a
 
 - ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>***
 
-    - At least one day prior to class, collect and cut materials to construct 2 parachutes with square canopies that measure 144 in2 (12 in. x 12 in.).
+    - At least one day prior to class, collect and cut materials to construct 2 parachutes with square canopies that measure 144 in<sup>2</sup> (12 in. x 12 in.).
 
         - Watch the [video](https://www.sciencebuddies.org/stem-activities/parachutes?ytid=6RA9x4wlnW8&ytsrc=description "https://www.sciencebuddies.org/stem-activities/parachutes?ytid=6RA9x4wlnW8&ytsrc=description"){:target="_blank"} on how to construct a parachute.
 
         - Using one set of the materials and the How to Make a Parachute instructions ([LMR_U2_L01_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L01_A.pdf)), construct a parachute. This parachute will be referred to as Parachute P1.
-        <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L01_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U2_L01_A.pdf)</div>
+        <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L01_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L01_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L01_A.pdf)</div>
 
         - Data from Parachute P1 is collected by the teacher in advance of class and stored in the CODAP Parachutes Data File. The time variable is a numeric variable set to 2 decimal places. The type variable is a categorical variable with values of P1 or P2, identifying which of the two parachutes the time corresponds to.
 
@@ -125,7 +125,7 @@ n/a
     100. Mechanism for the drop – *suggestions include finger grip, clothespins, chip clips or binder clips.*
 
 8. Demonstrate how to complete the descent time data collection by asking students to collect the data. Choose four students for the following roles and guide them to collect 20 descent times for Parachute P2. Give a copy of the Compair-a-chutes Descent Times handout ([LMR_U2_L01_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L01_B.pdf)) to the student that will be the Data Clerk. To maintain consistency, have the same four students complete all the data collection for these drops. 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L01_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U2_L01_A.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L01_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L01_B](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L01_B.pdf)</div>
 
     <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;background-color:#ccddaa;border:4px dotted #117733;}
