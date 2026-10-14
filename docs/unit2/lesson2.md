@@ -88,7 +88,7 @@ n/a
     <th class="tg-88nc" style="width:65%;"><b>GROUP ROLES:<br><i>The Pilot</i></b><br> <ul>
     <li>This student ensures a clean release and announces when they are releasing the parachute. They maintain the required standards for each drop.</li></ul>
     <b><i>The Data Clerk</i></b><br> <ul>
-    <li>This student manages the Compare-a-Chute Descent Times handout <a href="../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L02_B.pdf">(LMR_U2_L02_B)</a> ensuring that they write a description of their group’s modification and each successful drop is numbered and recorded clearly to the nearest hundredth of a second.</li></ul>
+    <li>This student manages the Compare-a-Chute Descent Times handout (<a href="../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L02_B.pdf">LMR_U2_L02_B</a>) ensuring that they write a description of their group’s modification and each successful drop is numbered and recorded clearly to the nearest hundredth of a second.</li></ul>
     <b><i>The Timer</i></b> <ul>
     <li>This student operates the stopwatch and maintains focus on the payload. They start the timer when the Pilot says “go” and stop the timer when the payload touches ground. They report the time of the descent, rounded to the nearest hundredth of a second, to the Data Clerk.</li></ul>
     <b><i>The Quality Inspector</i></b> <ul>
