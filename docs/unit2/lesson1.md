@@ -1,7 +1,7 @@
 ##**<u>Lesson 1: Compair-a-Chutes</u>**
 
 ###**Objective:**
-Students will collect precise descent time data for two  similarly constructed parachutes and see that there is inherent variability within data for each parachute and also between the two parachutes.
+Students will collect precise descent time data for two similarly constructed parachutes and see that there is inherent variability within data for each parachute and also between the two parachutes.
 
 ###**Materials:**
 
