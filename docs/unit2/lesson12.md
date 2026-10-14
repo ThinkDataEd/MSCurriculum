@@ -1,84 +1,52 @@
-##**<u>Lesson 12: Don't Take My Stress Away!</u>**
+##**<u>Lesson 12: </u>**
 
 ###**Objective:**
-Students will read the Huffington Post article titled *Don’t Take My Stress Away* to spark their interest
-about how they spend their time, and will continue to read reports critically to look for claims that may or
-may not be based on data.
+Students 
 
 ###**Materials:**
-1. Article: *Huffington Post’s Don’t Take My Stress Away* found at:<br>
-[http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html](http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html "http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html"){:target="_blank"}
 
-2. Data collection devices
+1. Ma
 
-3. *Stress/Chill Campaign* guidelines ([LMR_U2_Campaign_StressChill](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Campaign_StressChill.pdf))
+2. How to Make a Parachute handout ([LMR_U2_L01_A_How_to_Make_a_Parachute](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L01_A.pdf)) – instructions to create Parachute P1 (prior to class) and Parachute P2 (as a demo during class)
+    ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>*** *See Class Setup section for additional details.*
+
+
+9. Link to [CODAP Parachutes Data File](https://codap.concord.org/app/#shared=https%3A%2F%2Fcfm-shared.concord.org%2FnkbkaRprTXBiYVdhMLp9%2Ffile.json "https://codap.concord.org/app/#shared=https%3A%2F%2Fcfm-shared.concord.org%2FnkbkaRprTXBiYVdhMLp9%2Ffile.json"){:target="_blank"}
+
+
+###**Vocabulary:**
+[data](../../vocabulary/unit1/#data "information gathered through observation or responses"){ .md-button }
 
 ###**Essential Concepts:**
 
-!!! note "Essential Concepts: " 
-    Generating statistical questions is the first step in a Participatory Sensing campaign.
-    Research and observations help create applicable campaign questions.
+!!! note "Essential Concepts: "
+    Accurate 
 
 ###**Lesson:**
-1. Become familiar with the *Stress/Chill Campaign Guidelines* (shown at the end of this lesson),
-particularly the questions, to help guide students during the campaign (see [Campaign Guidelines](campaign1.md)
-in [Teacher Resources](../download/resources.md)).
 
-2. Ask students the following questions and conduct a brief share out of their responses.
+<center><h3>Class Setup</h3></center>
 
-    100. Do you know anyone who seems to be always stressed or anyone who seems to be
-    always chilled? <span style="color:grey">***Answers will vary by class.***</span>
+- ***<span style="background: #d9f0d3; color: black;">Advanced preparation required.</span>***
 
-    100. What are some observations you have made that make that person extremely stressed
-    or chilled? <span style="color:grey">***Answers will vary by class.***</span>
+    - At
 
-3. Inform students that they will be learning about some high school students who view stress as a
-part of life in the Huffington Post article titled *Don’t Take My Stress Away*.
+        - Using one set of the materials and the How to Make a Parachute instructions ([LMR_U2_L01_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_2/LMR_U2_L01_A.pdf)), construct a parachute. This parachute will be referred to as Parachute P1.
+        <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://mscurriculum.thinkdataed.org/MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U1_L02_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L01_A](../MSDS_Curriculum/2_MSDS_LMRs/MSDS_LMR_Unit_1/LMR_U2_L01_A.pdf)</div>
 
-4. Provide students the link to the article and allow time for them to read it:
-[http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html](http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html "http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html"){:target="_blank"}
 
-5. As they read the article, students should note whether they agree or disagree with the authors
-and should write down their comments and/or reactions to the article in their DS journals.
+<center><h3>Opening</h3></center>
 
-6. Ask student pairs to share if they agree or disagree with the authors of the article and why.
-Conduct a *Share Out* of student responses.
+    <center><h3>Concept Development</h3></center>
 
-7. Inform students that for this unit, we will be investigating how stressed or chilled they are at
-certain times of the day.
+    <b><i><span style="font-size: 18px";>Part 1: Construct Parachute P2</span></b></i>
 
-8. Students will collect data using the *Stress/Chill* Participatory Sensing campaign. They will add the
-*Stress/Chill* campaign to their list of available campaigns either through the [IDS ThinkData Ed App](../download/app.md)
-or via web browser at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}
 
-9. Ask students to complete their first survey.
+    <b><i><span style="font-size: 18px";>Part 2: Building the Definition of Data</span></b></i>
 
-10. After students have completed their first survey, use a random number generator to generate two
-random times a day for the next 6 days (RStudio example given below). It is recommended that
-you create 6 sets of random numbers so that students are polled at different times each day.
 
-    Example for RStudio (assuming students are awake between the hours of 7:00 am and
-    11:00 pm):
 
-    **> sample(7:23, size = 2, replace = FALSE)**
+    <center><h3>Closing</h3></center>
 
-    **<u>Note:</u>** If a time falls within the school day, it is up to the discretion of the teacher to use this time
-    or not.
 
-11. Based on the times generated, ask students to set reminders for the next 6
-days. Students without a mobile device may set reminders using a method available to them.
 
-12. Focus students’ attention on the *Stress/Chill* survey questions (you may display the questions on
-the Campaign Guidelines document). Ask students to generate three statistical questions that
-could be answered using the *Stress/Chill* data.
 
-13. Then, ask them to write down in their DS journals some predictions about what they think they will
-see after they collect some data.
-
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics
-of the day were.
-
-###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-For the next 6 days, students will collect data for the *Stress/Chill* campaign either through the [IDS
-ThinkData Ed App](../download/app.md) or via web browser at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}
